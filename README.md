@@ -1,6 +1,8 @@
 # es-modding-tools
 A list of third-party modding tools and libraries for Bethesda's Elder Scrolls and Fallout games.
 
+Please fork and add any missing projects you know of, and share this list! The more 
+
 ## BSAs/BA2s
 
 * [BSAOpt](https://github.com/Ethatron/bsaopt)
@@ -26,7 +28,6 @@ A list of third-party modding tools and libraries for Bethesda's Elder Scrolls a
 * [esptools](https://github.com/anahuj/esptools)
 * [libespm](https://github.com/WrinklyNinja/libespm)
 * [CBash](https://github.com/Ethatron/CBash)
-* 
 
 ## Modding Utilities
 
@@ -38,6 +39,9 @@ A list of third-party modding tools and libraries for Bethesda's Elder Scrolls a
 * [TES5Edit](https://github.com/TES5Edit) (also TES4Edit, FO3Edit, FNVEdit, FO4Edit)
 * [Wrye Bash](https://github.com/wrye-bash)
 * [TESDumpStats](https://github.com/lojack5/TESDumpStats)
+* [mod-dump](https://github.com/matortheeternal/mod-dump)
+* [smash](https://github.com/matortheeternal/smash)
+* [merge-plugins](https://github.com/matortheeternal/merge-plugins)
 
 ## Other
 
