@@ -5,6 +5,7 @@ Please fork and add any missing projects you know of, and share this list! Any u
 
 ## BA2s
 
+* [ba2extract](http://f4se.silverlock.org/)
 * [BA2 Explorer](https://github.com/miere43/ba2explorer)
 * [BA2Lib](https://github.com/digitalutopia1/BA2Lib)
 * [BA2 Tools](https://github.com/miere43/ba2tools)
@@ -69,12 +70,15 @@ Please fork and add any missing projects you know of, and share this list! Any u
 
 * [BOSS Userlist Manager](http://www.nexusmods.com/oblivion/mods/29790/)
 * [DDSOpt](https://github.com/Ethatron/ddsopt)
+* [ENB Helper](http://www.dev-c.com/skyrim/enbhelper/)
 * [lltool](https://github.com/Gruftikus/lltool)
 * [mod-dump](https://github.com/matortheeternal/mod-dump)
 * [mpgui](https://github.com/Gruftikus/mpgui)
 * [Nifopt](https://github.com/Ethatron/nifopt)
 * [NMM Script Checker](https://github.com/miere43/nmm-script-checker)
 * [Oblivion Face Exchange Lite](http://www.nexusmods.com/oblivion/mods/7808/)
+* [scriptdump](http://f4se.silverlock.org/)
+* [SkyBoost](http://www.dev-c.com/skyrim/skyboost/)
 * [StrEdit](https://github.com/WrinklyNinja/stredit)
 * [TES4Files](http://straygenius.com/index.php?title=TES4Files)
 * [TES4Gecko](http://www.nexusmods.com/oblivion/mods/8665/?)
@@ -90,9 +94,18 @@ Please fork and add any missing projects you know of, and share this list! Any u
 * [libloadorder](https://github.com/WrinklyNinja/libloadorder)
 * [libstrings](https://github.com/WrinklyNinja/libstrings)
 * [MoreHeap](https://github.com/shadeMe/MoreHeap)
-* [OBSE](http://obse.silverlock.org/)
 * [Oscape](https://github.com/Ethatron/Oscape)
 * [spttools](https://github.com/anahuj/spttools)
+
+## Script Extenders
+
+* [Fallout 3 Script Extender](http://fose.silverlock.org/) (FOSE)
+* [Fallout 4 Script Extender](http://f4se.silverlock.org/) (F4SE)
+* [Four Dragon](http://www.dev-c.com/fallout4/fourdragon/)
+* [New Vegas Script Extender](http://nvse.silverlock.org/) (NVSE)
+* [Oblivion Script Extender](http://obse.silverlock.org/) (OBSE)
+* [Script Dragon](http://www.dev-c.com/skyrim/scriptdragon/)
+* [Skyrim Script Extender](http://skse.silverlock.org/) (SKSE)
 
 ## OBSE Plugins
 
