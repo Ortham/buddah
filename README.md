@@ -3,11 +3,15 @@ A list of third-party modding tools and libraries for Bethesda's Elder Scrolls a
 
 Please fork and add any missing projects you know of, and share this list! Any utility can be added, on GitHub or not, open source or not. The more we know about what's already done, the less work we may end up repeating.
 
-## BSAs/BA2s
+## BA2s
 
 * [BA2 Explorer](https://github.com/miere43/ba2explorer)
 * [BA2Lib](https://github.com/digitalutopia1/BA2Lib)
 * [BA2 Tools](https://github.com/miere43/ba2tools)
+* [Bethesda Archive Extractor](https://github.com/jonwd7/bae)
+
+## BSAs
+
 * [Bethesda Archive Extractor](https://github.com/jonwd7/bae)
 * [BSA#](https://github.com/jzebedee/bsasharp)
 * [BSA Commander](http://letalka.sourceforge.net/morr/index.htm)
@@ -34,55 +38,61 @@ Please fork and add any missing projects you know of, and share this list! Any u
 * [php-esmparser](https://github.com/Yacoby/php-esmparser)
 * [TES5lib](https://github.com/uesp/tes5lib)
 
-## Modding Utilities
+## Mod Management Utilities
 
 * [BOSS](https://github.com/boss-developers)
-* [FalloutSnip](https://github.com/figment/falloutsnip)
 * [LOOT](https://github.com/loot)
-* [merge-plugins](https://github.com/matortheeternal/merge-plugins)
 * [Mod Conflict Detector](http://www.nexusmods.com/oblivion/mods/2579/)
-* [mod-dump](https://github.com/matortheeternal/mod-dump)
 * [Mod Organizer](https://github.com/TanninOne/modorganizer)
 * [Morrowind Mod File Remover](https://github.com/Yacoby/Morrowind-Mod-File-Remover)
 * [Nexus Mod Manager](http://www.nexusmods.com/skyrim/mods/modmanager/?)
-* [ObEdit](https://github.com/uesp/obedit)
 * [Oblivion Mod Manager](http://www.nexusmods.com/oblivion/mods/2097/)
 * [Oblivion Mod Manager Extended](http://www.nexusmods.com/oblivion/mods/32277/)
-* [SkyEdit](https://github.com/uesp/skyedit)
 * [Skyrim Package Manager](https://github.com/Yacoby/skyrim-package-manager)
 * [Skyrim Profile Manager](https://github.com/camvr/Skyrim-Profile-Manager)
 * [SLOT](https://github.com/matortheeternal/SLOT)
 * [smash](https://github.com/matortheeternal/smash)
-* [StrEdit](https://github.com/WrinklyNinja/stredit)
-* [TES4Files](http://straygenius.com/index.php?title=TES4Files)
-* [TES4Gecko](http://www.nexusmods.com/oblivion/mods/8665/?)
-* [TES5Edit](https://github.com/TES5Edit) (also the TES4Edit, FO3Edit, FNVEdit, FO4Edit, xLODGen and xDump variants)
-* [TES5EditScripts](https://github.com/matortheeternal/TES5EditScripts)
-* [TESDumpStats](https://github.com/lojack5/TESDumpStats)
-* [TESVSnip](https://github.com/figment/tesvsnip)
 * [Wrye Bash](https://github.com/wrye-bash)
 * [Wrye Mash](https://github.com/Yacoby/Wrye-Mash)
 
-## Other
+## Plugin Editors
+
+* [FalloutSnip](https://github.com/figment/falloutsnip)
+* [merge-plugins](https://github.com/matortheeternal/merge-plugins)
+* [ObEdit](https://github.com/uesp/obedit)
+* [SkyEdit](https://github.com/uesp/skyedit)
+* [StrEdit](https://github.com/WrinklyNinja/stredit)
+* [TES5Edit](https://github.com/TES5Edit) (also the TES4Edit, FO3Edit, FNVEdit, FO4Edit, xLODGen and xDump variants)
+* [TES5EditScripts](https://github.com/matortheeternal/TES5EditScripts)
+* [TESVSnip](https://github.com/figment/tesvsnip)
+
+## Miscellaneous Utilities
 
 * [BOSS Userlist Manager](http://www.nexusmods.com/oblivion/mods/29790/)
-* [cpp-reorder](https://github.com/Yacoby/cpp-reorder)
-* [ES Search](https://github.com/Yacoby/es-search)
 * [DDSOpt](https://github.com/Ethatron/ddsopt)
-* [libloadorder](https://github.com/WrinklyNinja/libloadorder)
-* [libstrings](https://github.com/WrinklyNinja/libstrings)
 * [lltool](https://github.com/Gruftikus/lltool)
-* [MoreHeap](https://github.com/shadeMe/MoreHeap)
+* [mod-dump](https://github.com/matortheeternal/mod-dump)
 * [mpgui](https://github.com/Gruftikus/mpgui)
 * [Nifopt](https://github.com/Ethatron/nifopt)
 * [NMM Script Checker](https://github.com/miere43/nmm-script-checker)
-* [OBSE](http://obse.silverlock.org/)
 * [Oblivion Face Exchange Lite](http://www.nexusmods.com/oblivion/mods/7808/)
-* [Oscape](https://github.com/Ethatron/Oscape)
-* [spttools](https://github.com/anahuj/spttools)
+* [TES4Files](http://straygenius.com/index.php?title=TES4Files)
+* [TES4Gecko](http://www.nexusmods.com/oblivion/mods/8665/?)
 * [TES4LL](https://github.com/Gruftikus/tes4ll)
 * [TES Char Tracker](https://github.com/miere43/tes-char-tracker)
+* [TESDumpStats](https://github.com/lojack5/TESDumpStats)
 * [The OBSE Launcher](http://www.nexusmods.com/oblivion/mods/6696/)
+
+## Other
+
+* [cpp-reorder](https://github.com/Yacoby/cpp-reorder)
+* [ES Search](https://github.com/Yacoby/es-search)
+* [libloadorder](https://github.com/WrinklyNinja/libloadorder)
+* [libstrings](https://github.com/WrinklyNinja/libstrings)
+* [MoreHeap](https://github.com/shadeMe/MoreHeap)
+* [OBSE](http://obse.silverlock.org/)
+* [Oscape](https://github.com/Ethatron/Oscape)
+* [spttools](https://github.com/anahuj/spttools)
 
 ## OBSE Plugins
 
