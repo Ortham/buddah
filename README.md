@@ -37,7 +37,7 @@ Please fork and add any missing projects you know of, and share this list! Any u
 * [CBash](https://github.com/Ethatron/CBash)
 * [esptools](https://github.com/anahuj/esptools)
 * [libespm](https://github.com/WrinklyNinja/libespm)
-* [mod-dump](https://github.com/matortheeternal)
+* [mod-dump](https://github.com/matortheeternal/mod-dump)
 * [php-esmparser](https://github.com/Yacoby/php-esmparser)
 * [SkyProc](https://bitbucket.org/DienesToo/skyproc-library)
 * [TES5lib](https://github.com/uesp/tes5lib)
