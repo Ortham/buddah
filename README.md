@@ -9,12 +9,13 @@ Please fork and add any missing projects you know of, and share this list! Any u
 * [BA2 Explorer](https://github.com/miere43/ba2explorer)
 * [BA2Lib](https://github.com/digitalutopia1/BA2Lib)
 * [BA2 Tools](https://github.com/miere43/ba2tools)
-* [Bethesda Archive Extractor](https://github.com/jonwd7/bae)
+* [Bethesda Archive Extractor](https://github.com/jonwd7/bae) (BAE)
 
 ## BSAs
 
 * [Bethesda Archive Extractor](https://github.com/jonwd7/bae)
 * [BSA#](https://github.com/jzebedee/bsasharp)
+* [BSA Browser](https://github.com/AlexxEG/BSA_Browser)
 * [BSA Commander](http://letalka.sourceforge.net/morr/index.htm)
 * [BSA Extractor](https://github.com/CynicRus/BSAExtractor)
 * [BSA Manager (ousnius)](https://github.com/ousnius/BSA-Manager)
@@ -25,6 +26,7 @@ Please fork and add any missing projects you know of, and share this list! Any u
 * [BSA Unpacker (OBMM)](http://www.nexusmods.com/oblivion/mods/3117/)
 * [bsaunpak](https://github.com/figment/bsaunpak)
 * [cpp-bsa](https://github.com/Yacoby/cpp-bsa)
+* [FO3 Archive Utility](http://www.nexusmods.com/fallout3/mods/34/?)
 * [libbsa](https://github.com/WrinklyNinja/libbsa)
 * [Mod Organizer BSA Extractor](https://github.com/TanninOne/modorganizer-bsa_extractor)
 * [unbsa4](https://github.com/angeld29/unbsa4)
@@ -37,6 +39,7 @@ Please fork and add any missing projects you know of, and share this list! Any u
 * [libespm](https://github.com/WrinklyNinja/libespm)
 * [mod-dump](https://github.com/matortheeternal)
 * [php-esmparser](https://github.com/Yacoby/php-esmparser)
+* [SkyProc](https://bitbucket.org/DienesToo/skyproc-library)
 * [TES5lib](https://github.com/uesp/tes5lib)
 
 ## Mod Management Utilities
@@ -46,6 +49,7 @@ Please fork and add any missing projects you know of, and share this list! Any u
 * [Mod Conflict Detector](http://www.nexusmods.com/oblivion/mods/2579/)
 * [Mod Organizer](https://github.com/TanninOne/modorganizer)
 * [Morrowind Mod File Remover](https://github.com/Yacoby/Morrowind-Mod-File-Remover)
+* [Multiple Oblivion Manager](http://www.nexusmods.com/oblivion/mods/41271/?)
 * [Nexus Mod Manager](http://www.nexusmods.com/skyrim/mods/modmanager/?)
 * [Oblivion Mod Manager](http://www.nexusmods.com/oblivion/mods/2097/)
 * [Oblivion Mod Manager Extended](http://www.nexusmods.com/oblivion/mods/32277/)
@@ -59,26 +63,40 @@ Please fork and add any missing projects you know of, and share this list! Any u
 ## Plugin Editors
 
 * [FalloutSnip](https://github.com/figment/falloutsnip)
-* [merge-plugins](https://github.com/matortheeternal/merge-plugins)
+* [Merge Plugins](https://github.com/matortheeternal/merge-plugins)
 * [ObEdit](https://github.com/uesp/obedit)
 * [SkyEdit](https://github.com/uesp/skyedit)
 * [TES5Edit](https://github.com/TES5Edit) (also the TES4Edit, FO3Edit, FNVEdit, FO4Edit, xLODGen and xDump variants)
 * [TES5EditScripts](https://github.com/matortheeternal/TES5EditScripts)
 * [TESVSnip](https://github.com/figment/tesvsnip)
 
+## Audio
+
+* [Unfuzer](http://www.nexusmods.com/skyrim/mods/19242/?)
+* [XWM Ninja](http://www.nexusmods.com/skyrim/mods/53132/)
+
+## Texturing & Modelling
+
+* [DDSOpt](https://github.com/Ethatron/ddsopt)
+* [hkxcmd](http://www.nexusmods.com/skyrim/mods/1797/?)
+* [Nifopt](https://github.com/Ethatron/nifopt)
+* [Niftools](https://github.com/niftools) (Nifskope, PyFFI, niflib, plugins for Blender, 3DS Max and Maya)
+* [NifUtilsSuite](https://github.com/skyfox69/NifUtilsSuite)
+
 ## Miscellaneous Utilities
 
 * [BOSS Userlist Manager](http://www.nexusmods.com/oblivion/mods/29790/)
-* [DDSOpt](https://github.com/Ethatron/ddsopt)
+* [Dynamic Distant Objects LOD](http://www.nexusmods.com/skyrim/mods/59721/?) (DynDOLOD)
 * [ENB Helper](http://www.dev-c.com/skyrim/enbhelper/)
+* [Fallout Performance Monitor](http://www.nexusmods.com/fallout4/mods/1762/?)
 * [lltool](https://github.com/Gruftikus/lltool)
 * [mod-dump](https://github.com/matortheeternal/mod-dump)
 * [mpgui](https://github.com/Gruftikus/mpgui)
-* [Nifopt](https://github.com/Ethatron/nifopt)
 * [NMM Script Checker](https://github.com/miere43/nmm-script-checker)
 * [Oblivion Face Exchange Lite](http://www.nexusmods.com/oblivion/mods/7808/)
-* [scriptdump](http://f4se.silverlock.org/)
+* [Save Game Script Cleaner](http://www.nexusmods.com/skyrim/mods/52363/?)
 * [SkyBoost](http://www.dev-c.com/skyrim/skyboost/)
+* [Skyrim Performance Monitor](http://www.nexusmods.com/skyrim/mods/6491/?)
 * [StrEdit](https://github.com/WrinklyNinja/stredit)
 * [TES4Files](http://straygenius.com/index.php?title=TES4Files)
 * [TES4Gecko](http://www.nexusmods.com/oblivion/mods/8665/?)
@@ -91,11 +109,20 @@ Please fork and add any missing projects you know of, and share this list! Any u
 
 * [cpp-reorder](https://github.com/Yacoby/cpp-reorder)
 * [ES Search](https://github.com/Yacoby/es-search)
+* [Force New Idles in Skyrim](http://www.nexusmods.com/skyrim/mods/11811/) (FNIS)
 * [libloadorder](https://github.com/WrinklyNinja/libloadorder)
 * [libstrings](https://github.com/WrinklyNinja/libstrings)
 * [MoreHeap](https://github.com/shadeMe/MoreHeap)
 * [Oscape](https://github.com/Ethatron/Oscape)
 * [spttools](https://github.com/anahuj/spttools)
+
+## Scripting
+
+* [Caprica](https://github.com/Orvid/Caprica)
+* [Champollion](http://www.nexusmods.com/skyrim/mods/35307/?) (for Skyrim)
+* [Champollion](https://github.com/Orvid/Champollion) (for Fallout 4)
+* [scriptdump](http://f4se.silverlock.org/)
+* [Papyrus Log Viewer](http://www.nexusmods.com/skyrim/mods/42815/?)
 
 ## Script Extenders
 
@@ -134,5 +161,12 @@ Please fork and add any missing projects you know of, and share this list! Any u
 * [ConSkrybe](https://github.com/shadeMe/ConSkrybe)
 * [Creation Kit Extender](https://github.com/shadeMe/Creation-Kit-Extender)
 * [Fuz Ro D-oh](https://github.com/shadeMe/Fuz-Ro-D-oh)
+* [JContainers](https://github.com/SilverIce/JContainers)
+* [Memory Blocks Log](http://www.nexusmods.com/skyrim/mods/50471/?)
+* [NetImmerse Override](http://www.nexusmods.com/skyrim/mods/37481/)
 * [Nitpick](https://github.com/shadeMe/Nitpick)
+* [PapyrusUtil](http://www.nexusmods.com/skyrim/mods/58705/?)
+* [SKSE -Elys- Alt F4](http://www.nexusmods.com/skyrim/mods/17202/?)
+* [Skyrim -Community- Uncapper](http://www.nexusmods.com/skyrim/mods/1175/?)
+* [Skyrim -Elys- MemInfo](http://www.nexusmods.com/skyrim/mods/2006/?)
 * [Smart Souls](https://github.com/shadeMe/Smart-Souls)
