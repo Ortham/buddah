@@ -1,0 +1,8 @@
+language: node_js
+node_js:
+  - "4"
+
+
+install: npm install -g z-schema
+
+script: z-schema data.schema.json data.json

@@ -1,0 +1,45 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "Project definitions",
+  "description": "A list of project definitions for the ES Modding Tools site",
+  "type": "array",
+  "items": {
+    "title": "A project definition",
+    "type": "object",
+    "properties": {
+      "name": {
+        "description": "The name of a project",
+        "type": "string"
+      },
+      "sections": {
+        "description": "A list of names of sections a project should be listed in",
+        "type": "array",
+        "items": {
+          "id": "A section name",
+          "type": "string"
+        },
+        "minItems": 1,
+        "uniqueItems": true
+      },
+      "description": {
+        "description": "The short description of a project",
+        "type": "string"
+      },
+      "homepage": {
+        "description": "The URL of a project's homepage, for example a website or Nexus Mods file entry URL",
+        "type": "string",
+        "format": "uri"
+      },
+      "repository": {
+        "description": "The URL at which a project's source code can be found, for example a version control repository or source download host",
+        "type": "string",
+        "format": "uri"
+      }
+    },
+    "required": [
+      "name",
+      "sections"
+    ]
+  },
+  "uniqueItems": true
+}
