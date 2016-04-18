@@ -28,17 +28,21 @@ function getSections(entries) {
     })
   });
 
-  return sections.sort();
+  return sections.sort(sortByLowercasedStrings);
 }
 
-function sortByName(a, b) {
-  if (a.name < b.name) {
+function sortByLowercasedStrings(a, b) {
+  if (a.toLowerCase() < b.toLowerCase()) {
     return -1;
-  } else if (a.name > b.name) {
+  } else if (a.toLowerCase() > b.toLowerCase()) {
     return 1;
   }
 
   return 0;
+}
+
+function sortByName(a, b) {
+  return sortByLowercasedStrings(a.name, b.name);
 }
 
 function toTitleCase(str) {
