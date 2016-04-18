@@ -921,5 +921,12 @@
     "description": "",
     "homepage": "",
     "repository": "https://github.com/shadeMe/Smart-Souls"
+  },
+  {
+    "name": "Elder Scrolls Explorer",
+    "sections": [
+      "engines"
+    ],
+    "repository": "https://github.com/philjord/ElderScrollsExplorer"
   }
 ]
