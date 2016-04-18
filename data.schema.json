@@ -11,11 +11,11 @@
         "description": "The name of a project",
         "type": "string"
       },
-      "sections": {
-        "description": "A list of names of sections a project should be listed in",
+      "keywords": {
+        "description": "A list of keywords for a project",
         "type": "array",
         "items": {
-          "id": "A section name",
+          "id": "A keyword",
           "type": "string"
         },
         "minItems": 1,
@@ -38,7 +38,7 @@
     },
     "required": [
       "name",
-      "sections"
+      "keywords"
     ]
   },
   "uniqueItems": true

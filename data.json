@@ -1,35 +1,35 @@
 [
   {
     "name": "ba2extract",
-    "sections": [
+    "keywords": [
       "BA2"
     ],
     "repository": "http://f4se.silverlock.org/"
   },
   {
     "name": "BA2 Explorer",
-    "sections": [
+    "keywords": [
       "BA2"
     ],
     "repository": "https://github.com/miere43/ba2explorer"
   },
   {
     "name": "BA2Lib",
-    "sections": [
+    "keywords": [
       "BA2"
     ],
     "repository": "https://github.com/digitalutopia1/BA2Lib"
   },
   {
     "name": "BA2 Tools",
-    "sections": [
+    "keywords": [
       "BA2"
     ],
     "repository": "https://github.com/miere43/ba2tools"
   },
   {
     "name": "Bethesda Archive Extractor (BAE)",
-    "sections": [
+    "keywords": [
       "BA2",
       "BSA"
     ],
@@ -37,35 +37,35 @@
   },
   {
     "name": "BSA#",
-    "sections": [
+    "keywords": [
       "BSA"
     ],
     "repository": "https://github.com/jzebedee/bsasharp"
   },
   {
     "name": "BSA Browser",
-    "sections": [
+    "keywords": [
       "BSA"
     ],
     "repository": "https://github.com/AlexxEG/BSA_Browser"
   },
   {
     "name": "BSA Commander",
-    "sections": [
+    "keywords": [
       "BSA"
     ],
     "repository": "http://letalka.sourceforge.net/morr/index.htm"
   },
   {
     "name": "BSA Extractor",
-    "sections": [
+    "keywords": [
       "BSA"
     ],
     "repository": "https://github.com/CynicRus/BSAExtractor"
   },
   {
     "name": "BSA Manager",
-    "sections": [
+    "keywords": [
       "BSA"
     ],
     "description": "By ousnius",
@@ -73,7 +73,7 @@
   },
   {
     "name": "BSA Manager",
-    "sections": [
+    "keywords": [
       "BSA"
     ],
     "description": "By philjord",
@@ -81,28 +81,28 @@
   },
   {
     "name": "BSAOpt",
-    "sections": [
+    "keywords": [
       "BSA"
     ],
     "repository": "https://github.com/Ethatron/bsaopt"
   },
   {
     "name": "BSA Tool",
-    "sections": [
+    "keywords": [
       "BSA"
     ],
     "repository": "https://github.com/Dysperia/BSATool"
   },
   {
     "name": "BSA Unpacker",
-    "sections": [
+    "keywords": [
       "BSA"
     ],
     "repository": "https://github.com/pseudoh/BSAUnPacker"
   },
   {
     "name": "BSA Unpacker",
-    "sections": [
+    "keywords": [
       "BSA"
     ],
     "description": "The Oblivion Mod Manager's BSA unpacker.",
@@ -110,49 +110,49 @@
   },
   {
     "name": "bsaunpak",
-    "sections": [
+    "keywords": [
       "BSA"
     ],
     "repository": "https://github.com/figment/bsaunpak"
   },
   {
     "name": "cpp-bsa",
-    "sections": [
+    "keywords": [
       "BSA"
     ],
     "repository": "https://github.com/Yacoby/cpp-bsa"
   },
   {
     "name": "FO3 Archive Utility",
-    "sections": [
+    "keywords": [
       "BSA"
     ],
     "homepage": "http://www.nexusmods.com/fallout3/mods/34/"
   },
   {
     "name": "libbsa",
-    "sections": [
+    "keywords": [
       "BSA"
     ],
     "repository": "https://github.com/WrinklyNinja/libbsa"
   },
   {
     "name": "Mod Organizer BSA Extractor",
-    "sections": [
+    "keywords": [
       "BSA"
     ],
     "repository": "https://github.com/TanninOne/modorganizer-bsa_extractor"
   },
   {
     "name": "unbsa4",
-    "sections": [
+    "keywords": [
       "BSA"
     ],
     "repository": "https://github.com/angeld29/unbsa4"
   },
   {
     "name": "Bethesda",
-    "sections": [
+    "keywords": [
       "plugin parsing"
     ],
     "description": "Not official, despite the name.",
@@ -160,189 +160,189 @@
   },
   {
     "name": "CBash",
-    "sections": [
+    "keywords": [
       "plugin parsing"
     ],
     "repository": "https://github.com/Ethatron/CBash"
   },
   {
     "name": "esptools",
-    "sections": [
+    "keywords": [
       "plugin parsing"
     ],
     "repository": "https://github.com/anahuj/esptools"
   },
   {
     "name": "libespm",
-    "sections": [
+    "keywords": [
       "plugin parsing"
     ],
     "repository": "https://github.com/WrinklyNinja/libespm"
   },
   {
     "name": "mod-dump",
-    "sections": [
+    "keywords": [
       "plugin parsing"
     ],
     "repository": "https://github.com/matortheeternal"
   },
   {
     "name": "php-esmparser",
-    "sections": [
+    "keywords": [
       "plugin parsing"
     ],
     "repository": "https://github.com/Yacoby/php-esmparser"
   },
   {
     "name": "SkyProc",
-    "sections": [
+    "keywords": [
       "plugin parsing"
     ],
     "repository": "https://bitbucket.org/DienesToo/skyproc-library"
   },
   {
     "name": "TES5lib",
-    "sections": [
+    "keywords": [
       "plugin parsing"
     ],
     "repository": "https://github.com/uesp/tes5lib"
   },
   {
     "name": "BOSS",
-    "sections": [
+    "keywords": [
       "mod management"
     ],
     "repository": "https://github.com/boss-developers"
   },
   {
     "name": "LOOT",
-    "sections": [
+    "keywords": [
       "mod management"
     ],
     "repository": "https://github.com/loot"
   },
   {
     "name": "Mod Conflict Detector",
-    "sections": [
+    "keywords": [
       "mod management"
     ],
     "homepage": "http://www.nexusmods.com/oblivion/mods/2579/"
   },
   {
     "name": "Mod Organizer",
-    "sections": [
+    "keywords": [
       "mod management"
     ],
     "repository": "https://github.com/TanninOne/modorganizer"
   },
   {
     "name": "Morrowind Mod File Remover",
-    "sections": [
+    "keywords": [
       "mod management"
     ],
     "repository": "https://github.com/Yacoby/Morrowind-Mod-File-Remover"
   },
   {
     "name": "Multiple Oblivion Manager",
-    "sections": [
+    "keywords": [
       "mod management"
     ],
     "homepage": "http://www.nexusmods.com/oblivion/mods/41271/"
   },
   {
     "name": "Nexus Mod Manager",
-    "sections": [
+    "keywords": [
       "mod management"
     ],
     "homepage": "http://www.nexusmods.com/skyrim/mods/modmanager/"
   },
   {
     "name": "Oblivion Mod Manager",
-    "sections": [
+    "keywords": [
       "mod management"
     ],
     "homepage": "http://www.nexusmods.com/oblivion/mods/2097/"
   },
   {
     "name": "Oblivion Mod Manager Extended",
-    "sections": [
+    "keywords": [
       "mod management"
     ],
     "homepage": "http://www.nexusmods.com/oblivion/mods/32277/"
   },
   {
     "name": "Skyrim Package Manager",
-    "sections": [
+    "keywords": [
       "mod management"
     ],
     "repository": "https://github.com/Yacoby/skyrim-package-manager"
   },
   {
     "name": "Skyrim Profile Manager",
-    "sections": [
+    "keywords": [
       "mod management"
     ],
     "repository": "https://github.com/camvr/Skyrim-Profile-Manager"
   },
   {
     "name": "SLOT",
-    "sections": [
+    "keywords": [
       "mod management"
     ],
     "repository": "https://github.com/matortheeternal/SLOT"
   },
   {
     "name": "smash",
-    "sections": [
+    "keywords": [
       "mod management"
     ],
     "repository": "https://github.com/matortheeternal/smash"
   },
   {
     "name": "Wrye Bash",
-    "sections": [
+    "keywords": [
       "mod management"
     ],
     "repository": "https://github.com/wrye-bash"
   },
   {
     "name": "Wrye Mash",
-    "sections": [
+    "keywords": [
       "mod management"
     ],
     "repository": "https://github.com/Yacoby/Wrye-Mash"
   },
   {
     "name": "FalloutSnip",
-    "sections": [
+    "keywords": [
       "plugin editing"
     ],
     "repository": "https://github.com/figment/falloutsnip"
   },
   {
     "name": "Merge Plugins",
-    "sections": [
+    "keywords": [
       "plugin editing"
     ],
     "repository": "https://github.com/matortheeternal/merge-plugins"
   },
   {
     "name": "ObEdit",
-    "sections": [
+    "keywords": [
       "plugin editing"
     ],
     "repository": "https://github.com/uesp/obedit"
   },
   {
     "name": "SkyEdit",
-    "sections": [
+    "keywords": [
       "plugin editing"
     ],
     "repository": "https://github.com/uesp/skyedit"
   },
   {
     "name": "TES5Edit",
-    "sections": [
+    "keywords": [
       "plugin editing"
     ],
     "description": "Also the TES4Edit, FO3Edit, FNVEdit, FO4Edit, xLODGen and xDump variants.",
@@ -350,56 +350,56 @@
   },
   {
     "name": "TES5EditScripts",
-    "sections": [
+    "keywords": [
       "plugin editing"
     ],
     "repository": "https://github.com/matortheeternal/TES5EditScripts"
   },
   {
     "name": "TESVSnip",
-    "sections": [
+    "keywords": [
       "plugin editing"
     ],
     "repository": "https://github.com/figment/tesvsnip"
   },
   {
     "name": "Unfuzer",
-    "sections": [
+    "keywords": [
       "XWM conversion"
     ],
     "homepage": "http://www.nexusmods.com/skyrim/mods/19242/"
   },
   {
     "name": "XWM Ninja",
-    "sections": [
+    "keywords": [
       "XWM conversion"
     ],
     "homepage": "http://www.nexusmods.com/skyrim/mods/53132/"
   },
   {
     "name": "DDSOpt",
-    "sections": [
+    "keywords": [
       "DDS"
     ],
     "repository": "https://github.com/Ethatron/ddsopt"
   },
   {
     "name": "hkxcmd",
-    "sections": [
+    "keywords": [
       "havok"
     ],
     "homepage": "http://www.nexusmods.com/skyrim/mods/1797/"
   },
   {
     "name": "Nifopt",
-    "sections": [
+    "keywords": [
       "NIF"
     ],
     "repository": "https://github.com/Ethatron/nifopt"
   },
   {
     "name": "Niftools",
-    "sections": [
+    "keywords": [
       "NIF"
     ],
     "description": "Nifskope, PyFFI, niflib and plugins for Blender, 3DS Max and Maya.",
@@ -407,21 +407,21 @@
   },
   {
     "name": "NifUtilsSuite",
-    "sections": [
+    "keywords": [
       "NIF"
     ],
     "repository": "https://github.com/skyfox69/NifUtilsSuite"
   },
   {
     "name": "BOSS Userlist Manager",
-    "sections": [
+    "keywords": [
       "utility"
     ],
     "repository": "http://www.nexusmods.com/oblivion/mods/29790/"
   },
   {
     "name": "Dynamic Distant Objects LOD (DynDOLOD)",
-    "sections": [
+    "keywords": [
       "LOD",
       "utility"
     ],
@@ -429,28 +429,28 @@
   },
   {
     "name": "ENB Helper",
-    "sections": [
+    "keywords": [
       "utility"
     ],
     "homepage": "http://www.dev-c.com/skyrim/enbhelper/"
   },
   {
     "name": "Fallout Performance Monitor",
-    "sections": [
+    "keywords": [
       "utility"
     ],
     "homepage": "http://www.nexusmods.com/fallout4/mods/1762/"
   },
   {
     "name": "lltool",
-    "sections": [
+    "keywords": [
       "utility"
     ],
     "repository": "https://github.com/Gruftikus/lltool"
   },
   {
     "name": "mpgui",
-    "sections": [
+    "keywords": [
       "LOD",
       "utility"
     ],
@@ -458,63 +458,63 @@
   },
   {
     "name": "NMM Script Checker",
-    "sections": [
+    "keywords": [
       "utility"
     ],
     "repository": "https://github.com/miere43/nmm-script-checker"
   },
   {
     "name": "Oblivion Face Exchange Lite",
-    "sections": [
+    "keywords": [
       "utility"
     ],
     "homepage": "http://www.nexusmods.com/oblivion/mods/7808/"
   },
   {
     "name": "Save Game Script Cleaner",
-    "sections": [
+    "keywords": [
       "utility"
     ],
     "homepage": "http://www.nexusmods.com/skyrim/mods/52363/"
   },
   {
     "name": "SkyBoost",
-    "sections": [
+    "keywords": [
       "utility"
     ],
     "homepage": "http://www.dev-c.com/skyrim/skyboost/"
   },
   {
     "name": "Skyrim Performance Monitor",
-    "sections": [
+    "keywords": [
       "utility"
     ],
     "homepage": "http://www.nexusmods.com/skyrim/mods/6491/"
   },
   {
     "name": "StrEdit",
-    "sections": [
+    "keywords": [
       "utility"
     ],
     "repository": "https://github.com/WrinklyNinja/stredit"
   },
   {
     "name": "TES4Files",
-    "sections": [
+    "keywords": [
       "utility"
     ],
     "homepage": "http://straygenius.com/index.php?title=TES4Files"
   },
   {
     "name": "TES4Gecko",
-    "sections": [
+    "keywords": [
       "utility"
     ],
     "homepage": "http://www.nexusmods.com/oblivion/mods/8665/"
   },
   {
     "name": "TES4LL",
-    "sections": [
+    "keywords": [
       "LOD",
       "utility"
     ],
@@ -522,91 +522,91 @@
   },
   {
     "name": "TES Char Tracker",
-    "sections": [
+    "keywords": [
       "utility"
     ],
     "repository": "https://github.com/miere43/tes-char-tracker"
   },
   {
     "name": "TESDumpStats",
-    "sections": [
+    "keywords": [
       "utility"
     ],
     "repository": "https://github.com/lojack5/TESDumpStats"
   },
   {
     "name": "The OBSE Launcher",
-    "sections": [
+    "keywords": [
       "utility"
     ],
     "homepage": "http://www.nexusmods.com/oblivion/mods/6696/"
   },
   {
     "name": "cpp-reorder",
-    "sections": [
+    "keywords": [
       "load order"
     ],
     "repository": "https://github.com/Yacoby/cpp-reorder"
   },
   {
     "name": "ES Search",
-    "sections": [
+    "keywords": [
       "miscellaneous"
     ],
     "repository": "https://github.com/Yacoby/es-search"
   },
   {
     "name": "Force New Idles in Skyrim (FNIS)",
-    "sections": [
+    "keywords": [
       "animation"
     ],
     "homepage": "http://www.nexusmods.com/skyrim/mods/11811/"
   },
   {
     "name": "libloadorder",
-    "sections": [
+    "keywords": [
       "load order"
     ],
     "repository": "https://github.com/WrinklyNinja/libloadorder"
   },
   {
     "name": "libstrings",
-    "sections": [
+    "keywords": [
       "localisation"
     ],
     "repository": "https://github.com/WrinklyNinja/libstrings"
   },
   {
     "name": "MoreHeap",
-    "sections": [
+    "keywords": [
       "memory management"
     ],
     "repository": "https://github.com/shadeMe/MoreHeap"
   },
   {
     "name": "Oscape",
-    "sections": [
+    "keywords": [
       "LOD"
     ],
     "repository": "https://github.com/Ethatron/Oscape"
   },
   {
     "name": "spttools",
-    "sections": [
+    "keywords": [
       "speedtree"
     ],
     "repository": "https://github.com/anahuj/spttools"
   },
   {
     "name": "Caprica",
-    "sections": [
+    "keywords": [
       "scripting"
     ],
     "repository": "https://github.com/Orvid/Caprica"
   },
   {
     "name": "Champollion",
-    "sections": [
+    "keywords": [
       "scripting"
     ],
     "description": "For Skyrim",
@@ -614,7 +614,7 @@
   },
   {
     "name": "Champollion",
-    "sections": [
+    "keywords": [
       "scripting"
     ],
     "description": "For Fallout 4",
@@ -622,7 +622,7 @@
   },
   {
     "name": "scriptdump",
-    "sections": [
+    "keywords": [
       "scripting"
     ],
     "homepage": "http://f4se.silverlock.org/",
@@ -630,14 +630,14 @@
   },
   {
     "name": "Papyrus Log Viewer",
-    "sections": [
+    "keywords": [
       "scripting"
     ],
     "homepage": "http://www.nexusmods.com/skyrim/mods/42815/"
   },
   {
     "name": "Fallout 3 Script Extender (FOSE)",
-    "sections": [
+    "keywords": [
       "scripting",
       "script extenders"
     ],
@@ -647,7 +647,7 @@
   },
   {
     "name": "Fallout 4 Script Extender (F4SE)",
-    "sections": [
+    "keywords": [
       "scripting",
       "script extenders"
     ],
@@ -657,7 +657,7 @@
   },
   {
     "name": "Four Dragon",
-    "sections": [
+    "keywords": [
       "scripting",
       "script extenders"
     ],
@@ -665,7 +665,7 @@
   },
   {
     "name": "New Vegas Script Extender (NVSE)",
-    "sections": [
+    "keywords": [
       "scripting",
       "script extenders"
     ],
@@ -674,7 +674,7 @@
   },
   {
     "name": "Oblivion Script Extender (OBSE)",
-    "sections": [
+    "keywords": [
       "scripting",
       "script extenders"
     ],
@@ -683,7 +683,7 @@
   },
   {
     "name": "Script Dragon",
-    "sections": [
+    "keywords": [
       "scripting",
       "script extenders"
     ],
@@ -691,7 +691,7 @@
   },
   {
     "name": "Skyrim Script Extender (SKSE)",
-    "sections": [
+    "keywords": [
       "scripting",
       "script extenders"
     ],
@@ -700,84 +700,84 @@
   },
   {
     "name": "Clean Up",
-    "sections": [
+    "keywords": [
       "OBSE plugins"
     ],
     "homepage": "http://www.nexusmods.com/oblivion/mods/24606/"
   },
   {
     "name": "ConScribe",
-    "sections": [
+    "keywords": [
       "OBSE plugins"
     ],
     "repository": "https://github.com/shadeMe/ConScribe"
   },
   {
     "name": "Construction Set Extender",
-    "sections": [
+    "keywords": [
       "OBSE plugins"
     ],
     "repository": "https://github.com/shadeMe/Construction-Set-Extender"
   },
   {
     "name": "Better Cities Helper",
-    "sections": [
+    "keywords": [
       "OBSE plugins"
     ],
     "repository": "https://github.com/shadeMe/Better-Cities-Helper"
   },
   {
     "name": "Blockhead",
-    "sections": [
+    "keywords": [
       "OBSE plugins"
     ],
     "repository": "https://github.com/shadeMe/Blockhead"
   },
   {
     "name": "Exit Oblivion With No Crash",
-    "sections": [
+    "keywords": [
       "OBSE plugins"
     ],
     "homepage": "http://www.nexusmods.com/oblivion/mods/21416/"
   },
   {
     "name": "FormID Finder",
-    "sections": [
+    "keywords": [
       "OBSE plugins"
     ],
     "homepage": "http://www.nexusmods.com/oblivion/mods/16704/"
   },
   {
     "name": "INIzer",
-    "sections": [
+    "keywords": [
       "OBSE plugins"
     ],
     "repository": "https://github.com/shadeMe/INIzer"
   },
   {
     "name": "NifSE",
-    "sections": [
+    "keywords": [
       "OBSE plugins"
     ],
     "homepage": "http://www.nexusmods.com/oblivion/mods/21292/"
   },
   {
     "name": "Oblivion Graphics Extender v2",
-    "sections": [
+    "keywords": [
       "OBSE plugins"
     ],
     "repository": "https://github.com/scanti/Oblivion-Graphics-Extender-v2"
   },
   {
     "name": "Oblivion Graphics Extender v3",
-    "sections": [
+    "keywords": [
       "OBSE plugins"
     ],
     "repository": "https://github.com/shadeMe/Oblivion-Graphics-Extender-v3"
   },
   {
     "name": "Oblivon Reloaded",
-    "sections": [
+    "keywords": [
       "OBSE plugins"
     ],
     "description": "The link is to Alenett's GitHub profile: there are multiple repostories listed there for Oblivion Reloaded",
@@ -785,147 +785,147 @@
   },
   {
     "name": "Refscope",
-    "sections": [
+    "keywords": [
       "OBSE plugins"
     ],
     "homepage": "http://www.nexusmods.com/oblivion/mods/21862/"
   },
   {
     "name": "Runtime Debugger",
-    "sections": [
+    "keywords": [
       "OBSE plugins"
     ],
     "repository": "https://github.com/shadeMe/Runtime-Debugger"
   },
   {
     "name": "RuntimeEditorIDs",
-    "sections": [
+    "keywords": [
       "OBSE plugins"
     ],
     "repository": "https://github.com/shadeMe/RuntimeEditorIDs"
   },
   {
     "name": "Runtime Script Profiler",
-    "sections": [
+    "keywords": [
       "OBSE plugins"
     ],
     "repository": "https://github.com/shadeMe/RuntimeScriptProfiler"
   },
   {
     "name": "shadeMe",
-    "sections": [
+    "keywords": [
       "OBSE plugins"
     ],
     "repository": "https://github.com/shadeMe/shadeMe"
   },
   {
     "name": "Trifle",
-    "sections": [
+    "keywords": [
       "OBSE plugins"
     ],
     "repository": "https://github.com/shadeMe/Trifle"
   },
   {
     "name": "Universal Silent Voice",
-    "sections": [
+    "keywords": [
       "OBSE plugins"
     ],
     "homepage": "http://www.nexusmods.com/oblivion/mods/16622/"
   },
   {
     "name": "ConSkrybe",
-    "sections": [
+    "keywords": [
       "SKSE plugins"
     ],
     "repository": "https://github.com/shadeMe/ConSkrybe"
   },
   {
     "name": "Creation Kit Extender",
-    "sections": [
+    "keywords": [
       "SKSE plugins"
     ],
     "repository": "https://github.com/shadeMe/Creation-Kit-Extender"
   },
   {
     "name": "Fuz Ro D-oh",
-    "sections": [
+    "keywords": [
       "SKSE plugins"
     ],
     "repository": "https://github.com/shadeMe/Fuz-Ro-D-oh"
   },
   {
     "name": "JContainers",
-    "sections": [
+    "keywords": [
       "SKSE plugins"
     ],
     "repository": "https://github.com/SilverIce/JContainers"
   },
   {
     "name": "Memory Blocks Log",
-    "sections": [
+    "keywords": [
       "SKSE plugins"
     ],
     "homepage": "http://www.nexusmods.com/skyrim/mods/50471/"
   },
   {
     "name": "NetImmerse Override",
-    "sections": [
+    "keywords": [
       "SKSE plugins"
     ],
     "homepage": "http://www.nexusmods.com/skyrim/mods/37481/"
   },
   {
     "name": "Nitpick",
-    "sections": [
+    "keywords": [
       "SKSE plugins"
     ],
     "repository": "https://github.com/shadeMe/Nitpick"
   },
   {
     "name": "PapyrusUtil",
-    "sections": [
+    "keywords": [
       "SKSE plugins"
     ],
     "homepage": "http://www.nexusmods.com/skyrim/mods/58705/"
   },
   {
     "name": "SKSE -Elys- Alt F4",
-    "sections": [
+    "keywords": [
       "SKSE plugins"
     ],
     "homepage": "http://www.nexusmods.com/skyrim/mods/17202/"
   },
   {
     "name": "Skyrim -Community- Uncapper",
-    "sections": [
+    "keywords": [
       "SKSE plugins"
     ],
     "homepage": "http://www.nexusmods.com/skyrim/mods/1175/"
   },
   {
     "name": "Skyrim -Elys- MemInfo",
-    "sections": [
+    "keywords": [
       "SKSE plugins"
     ],
     "homepage": "http://www.nexusmods.com/skyrim/mods/2006/"
   },
   {
     "name": "Smart Souls",
-    "sections": [
+    "keywords": [
       "SKSE plugins"
     ],
     "repository": "https://github.com/shadeMe/Smart-Souls"
   },
   {
     "name": "Elder Scrolls Explorer",
-    "sections": [
+    "keywords": [
       "engines"
     ],
     "repository": "https://github.com/philjord/ElderScrollsExplorer"
   },
   {
     "name": "Fallout 4 Ultimate Tweak Tool",
-    "sections": [
+    "keywords": [
       "utility"
     ],
     "description": "A program to help tweak Fallout 4 .ini settings with a GUI instead of a user editing the .ini files.",
@@ -933,7 +933,7 @@
   },
   {
     "name": "Fallout 4 Configuration Tool",
-    "sections": [
+    "keywords": [
       "utility"
     ],
     "description": "Another program to change Fallout 4 .ini settings with a GUI.",

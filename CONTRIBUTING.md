@@ -10,7 +10,7 @@ Project definitions use the following JSON structure:
 ```
 {
   "name": "",
-  "sections": [
+  "keywords": [
     ""
   ],
   "description": "",
@@ -19,17 +19,17 @@ Project definitions use the following JSON structure:
 }
 ```
 
-The `name` and `sections` keys are required, and the `sections` array must contain at least one element. The other keys can be omitted if there is no content to set their values to.
+The `name` and `keywords` keys are required, and the `keywords` array must contain at least one element. The other keys can be omitted if there is no content to set their values to.
 
 ### name
 
-The `name` key takes a string that is the project's name.
+The `name` key takes a string that is the project's name. This is a searchable field.
 
-### sections
+### keywords
 
-The `sections` key takes an array of strings that are used to create list section names. The project will be listed in all the sections given.
+The `keywords` key takes an array of strings that are searchable keywords for the project.
 
-For example, if the sections for a project are `plugin parsing` and `save file parsing`, the project will be listed in the "Plugin Parsing" and "Save File Parsing" sections.
+For example, if the sections for a project are `plugin parsing` and `save file parsing`, the project will be listed if either of those keywords are included in a search.
 
 ### description
 
