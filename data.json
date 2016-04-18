@@ -922,5 +922,21 @@
       "engines"
     ],
     "repository": "https://github.com/philjord/ElderScrollsExplorer"
+  },
+  {
+    "name": "Fallout 4 Ultimate Tweak Tool",
+    "sections": [
+      "utility"
+    ],
+    "description": "A program to help tweak Fallout 4 .ini settings with a GUI instead of a user editing the .ini files.",
+    "homepage": "http://www.nexusmods.com/fallout4/mods/190/?"
+  },
+  {
+    "name": "Fallout 4 Configuration Tool",
+    "sections": [
+      "utility"
+    ],
+    "description": "Another program to change Fallout 4 .ini settings with a GUI.",
+    "homepage": "http://www.nexusmods.com/fallout4/mods/102/"
   }
 ]
