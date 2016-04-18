@@ -900,26 +900,20 @@
     "sections": [
       "SKSE plugins"
     ],
-    "description": "",
-    "homepage": "http://www.nexusmods.com/skyrim/mods/1175/",
-    "repository": ""
+    "homepage": "http://www.nexusmods.com/skyrim/mods/1175/"
   },
   {
     "name": "Skyrim -Elys- MemInfo",
     "sections": [
       "SKSE plugins"
     ],
-    "description": "",
-    "homepage": "http://www.nexusmods.com/skyrim/mods/2006/",
-    "repository": ""
+    "homepage": "http://www.nexusmods.com/skyrim/mods/2006/"
   },
   {
     "name": "Smart Souls",
     "sections": [
       "SKSE plugins"
     ],
-    "description": "",
-    "homepage": "",
     "repository": "https://github.com/shadeMe/Smart-Souls"
   },
   {
