@@ -1,9 +1,17 @@
 'use strict';
 
+function printAllEntries() {
+  var container = document.getElementById('results');
+  entries.forEach(function(entry) {
+    container.appendChild(createEntryHtml(entry));
+  });
+}
+
 function search(evt) {
   clearResults();
 
   if (evt.target.value.length === 0) {
+    printAllEntries();
     return;
   }
 
@@ -23,7 +31,18 @@ function searchByKeyword(evt) {
   search.dispatchEvent(new Event('input'));
 }
 
+function sortByLowercasedName(a, b) {
+  if (a.name.toLocaleLowerCase() < b.name.toLocaleLowerCase()) {
+    return -1;
+  } else if (a.name.toLocaleLowerCase() > b.name.toLocaleLowerCase()) {
+    return 1;
+  }
+
+  return 0;
+}
+
 function initSearchHandling(loadedEntries) {
+  entries.sort(sortByLowercasedName);
   entries = loadedEntries;
 
   fillIndex(entries);
@@ -31,6 +50,8 @@ function initSearchHandling(loadedEntries) {
 
   document.getElementById('search').addEventListener('input', search);
   document.getElementById('keywordList').addEventListener('click', searchByKeyword);
+
+  printAllEntries();
 }
 
 function initIndex() {
