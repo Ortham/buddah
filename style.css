@@ -1,0 +1,35 @@
+#keywordList > div {
+  display: inline-block;
+  margin: 8px;
+}
+.badge {
+  margin-left: 4px;
+}
+.keyword:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+#results {
+  margin-bottom: 100px;
+}
+.entry .left-column {
+  display: table-cell;
+  width: 100%;
+}
+.entry .right-column {
+  display: table-cell;
+  text-align: right;
+}
+.entry h3 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.entry a.btn {
+  margin: 4px;
+}
+.entry-keyword {
+  padding: 4px 8px;
+}
+.entry-keyword > .glyphicon {
+  margin-right: 4px;
+}
