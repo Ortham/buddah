@@ -42,8 +42,7 @@ function sortByLowercasedName(a, b) {
 }
 
 function initSearchHandling(loadedEntries) {
-  entries.sort(sortByLowercasedName);
-  entries = loadedEntries;
+  entries = loadedEntries.sort(sortByLowercasedName);
 
   fillIndex(entries);
   printKeywords(getKeywords(entries));
