@@ -938,5 +938,27 @@
     ],
     "description": "Another program to change Fallout 4 .ini settings with a GUI.",
     "homepage": "http://www.nexusmods.com/fallout4/mods/102/"
+  },
+  {
+    "name": "SublimePapyrus",
+    "keywords": [
+      "sublime text",
+      "papyrus",
+      "scripting"
+    ],
+    "description": "A Sublime Text 2 and 3 package for the Papyrus scripting language.",
+    "homepage": "https://github.com/Kapiainen/SublimePapyrus",
+    "repository": "https://github.com/Kapiainen/SublimePapyrus"
+  },
+  {
+    "name": "Advanced Papyrus",
+    "keywords": [
+      "creation kit",
+      "papyrus",
+      "scripting"
+    ],
+    "description": "A wrapper program that allows for more advanced use of the Papyrus compiler from within Creation Kit.",
+    "homepage": "https://github.com/Kapiainen/Advanced-Papyrus",
+    "repository": "https://github.com/Kapiainen/Advanced-Papyrus"
   }
 ]
