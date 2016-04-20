@@ -1,7 +1,7 @@
 'use strict';
 function createEntryHtml(entry) {
-  var li = document.createElement('li');
-  li.className = 'list-group-item entry';
+  var entryDiv = document.createElement('div');
+  entryDiv.className = 'entry';
 
   var leftColumn = document.createElement('div');
   leftColumn.className = 'left-column';
@@ -32,7 +32,7 @@ function createEntryHtml(entry) {
   });
   leftColumn.appendChild(div);
 
-  li.appendChild(leftColumn);
+  entryDiv.appendChild(leftColumn);
 
   var rightColumn = document.createElement('div');
   rightColumn.className = 'right-column';
@@ -41,7 +41,7 @@ function createEntryHtml(entry) {
     var homepageLink = document.createElement('a');
 
     homepageLink.href = entry.homepage;
-    homepageLink.className = 'btn btn-default';
+    homepageLink.className = 'btn btn-primary';
     homepageLink.textContent = 'Home Page';
 
     rightColumn.appendChild(homepageLink);
@@ -51,15 +51,15 @@ function createEntryHtml(entry) {
     var repositoryLink = document.createElement('a');
 
     repositoryLink.href = entry.repository;
-    repositoryLink.className = 'btn btn-default';
+    repositoryLink.className = 'btn btn-info';
     repositoryLink.textContent = 'Source Code';
 
     rightColumn.appendChild(repositoryLink);
   }
 
-  li.appendChild(rightColumn);
+  entryDiv.appendChild(rightColumn);
 
-  return li;
+  return entryDiv;
 }
 
 function createKeywordHtml(keyword) {
