@@ -1,7 +1,9 @@
 Contributing
 ============
 
-To add a project to the list, just append a definition for it to the `data.json` file.
+To add a project to the registry, just fork this repository, append a definition for the project to the `data.json` file, and send a pull request to get it included.
+
+Any software project related to modding Bethesda's Elder Scrolls and Fallout games can be added: a project can be open or closed source, and in any state of completion. The registry is intended to help reduce the duplication of effort within the games' modding communities, so if it exists, it can be registered!
 
 ## Project Definition Format
 
