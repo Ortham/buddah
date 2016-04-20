@@ -2,44 +2,62 @@
   {
     "name": "ba2extract",
     "keywords": [
-      "BA2"
+      "BA2",
+      "cli",
+      "fallout 4"
     ],
+    "description": "A command-line tool to extract the contents of ba2 files.",
+    "homepage": "http://f4se.silverlock.org/",
     "repository": "http://f4se.silverlock.org/"
   },
   {
     "name": "BA2 Explorer",
     "keywords": [
-      "BA2"
+      "BA2",
+      "fallout 4",
+      "gui"
     ],
+    "description": "Tool to explore BA2 archives.",
     "repository": "https://github.com/miere43/ba2explorer"
   },
   {
     "name": "BA2Lib",
     "keywords": [
-      "BA2"
+      "BA2",
+      "fallout 4",
+      "api"
     ],
+    "description": "A .NET CLI/C++ Wrapper around a C++ class for opening and extracting files from Bethesda's BA2 archive format.",
     "repository": "https://github.com/digitalutopia1/BA2Lib"
   },
   {
     "name": "BA2 Tools",
     "keywords": [
-      "BA2"
+      "BA2",
+      "fallout 4",
+      "api"
     ],
+    "description": "Provides managed access to BA2 archives.",
     "repository": "https://github.com/miere43/ba2tools"
   },
   {
     "name": "Bethesda Archive Extractor (BAE)",
     "keywords": [
       "BA2",
-      "BSA"
+      "BSA",
+      "gui",
     ],
     "repository": "https://github.com/jonwd7/bae"
   },
   {
     "name": "BSA#",
     "keywords": [
-      "BSA"
+      "BSA",
+      "fallout 3",
+      "fallout new vegas",
+      "cli"
     ],
+    "description": "BSA# is a managed implementation of the BSA format that allows for efficient in-memory reading, writing, and manipulation of Bethesda Archives.",
     "repository": "https://github.com/jzebedee/bsasharp"
   },
   {
