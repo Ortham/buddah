@@ -164,18 +164,21 @@
   {
     "name": "cpp-bsa",
     "keywords": [
-      "BSA"
+      "BSA",
+      "morrowind",
+      "api"
     ],
+    "description": "Library for parsing Morrowind BSA files",
     "repository": "https://github.com/Yacoby/cpp-bsa"
   },
   {
     "name": "FO3 Archive Utility",
     "keywords": [
       "BSA",
-      "morrowind",
-      "api"
+      "gui",
+      "fallout 3"
     ],
-    "description": "Library for parsing Morrowind BSA files",
+    "description": "This is a BSA archive utility for Fallout 3. You can display the files in an archive, extract all files from the archive, extract selected files/directories from the archive, and create a new archive.",
     "homepage": "http://www.nexusmods.com/fallout3/mods/34/"
   },
   {
