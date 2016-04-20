@@ -2,81 +2,116 @@
   {
     "name": "ba2extract",
     "keywords": [
-      "BA2"
+      "BA2",
+      "cli",
+      "fallout 4"
     ],
+    "description": "A command-line tool to extract the contents of ba2 files.",
+    "homepage": "http://f4se.silverlock.org/",
     "repository": "http://f4se.silverlock.org/"
   },
   {
     "name": "BA2 Explorer",
     "keywords": [
-      "BA2"
+      "BA2",
+      "fallout 4",
+      "gui"
     ],
+    "description": "Tool to explore BA2 archives.",
     "repository": "https://github.com/miere43/ba2explorer"
   },
   {
     "name": "BA2Lib",
     "keywords": [
-      "BA2"
+      "BA2",
+      "fallout 4",
+      "api"
     ],
+    "description": "A .NET CLI/C++ Wrapper around a C++ class for opening and extracting files from Bethesda's BA2 archive format.",
     "repository": "https://github.com/digitalutopia1/BA2Lib"
   },
   {
     "name": "BA2 Tools",
     "keywords": [
-      "BA2"
+      "BA2",
+      "fallout 4",
+      "api"
     ],
+    "description": "Provides managed access to BA2 archives.",
     "repository": "https://github.com/miere43/ba2tools"
   },
   {
     "name": "Bethesda Archive Extractor (BAE)",
     "keywords": [
       "BA2",
-      "BSA"
+      "BSA",
+      "gui"
     ],
     "repository": "https://github.com/jonwd7/bae"
   },
   {
     "name": "BSA#",
     "keywords": [
-      "BSA"
+      "BSA",
+      "fallout 3",
+      "fallout new vegas",
+      "cli"
     ],
+    "description": "BSA# is a managed implementation of the BSA format that allows for efficient in-memory reading, writing, and manipulation of Bethesda Archives.",
     "repository": "https://github.com/jzebedee/bsasharp"
   },
   {
     "name": "BSA Browser",
     "keywords": [
-      "BSA"
+      "BSA",
+      "fallout 3",
+      "gui"
     ],
+    "description": "Fallout Mod Manager's BSA Browser as a standalone application, with some new features.",
     "repository": "https://github.com/AlexxEG/BSA_Browser"
   },
   {
     "name": "BSA Commander",
     "keywords": [
-      "BSA"
+      "BSA",
+      "oblivion",
+      "gui"
     ],
+    "description": "Work with oblivion archive files (.bsa) with friendly interface.",
     "repository": "http://letalka.sourceforge.net/morr/index.htm"
   },
   {
     "name": "BSA Extractor",
     "keywords": [
-      "BSA"
+      "BSA",
+      "fallout 3",
+      "morrowind",
+      "oblivion",
+      "skyrim",
+      "gui"
     ],
+    "description": "Extractor of files for TES 3,4,5 and Fallout 3.",
     "repository": "https://github.com/CynicRus/BSAExtractor"
   },
   {
     "name": "BSA Manager",
     "keywords": [
-      "BSA"
+      "BSA",
+      "BA2",
+      "gui"
     ],
-    "description": "By ousnius",
+    "description": "Manager program for the Bethesda Softworks Archives (BSA). Made by ousnius.",
     "repository": "https://github.com/ousnius/BSA-Manager"
   },
   {
     "name": "BSA Manager",
     "keywords": [
-      "BSA"
+      "BSA",
+      "fallout 3",
+      "oblivion",
+      "skyrim"
     ],
-    "description": "By philjord",
+    "description": "This project allows you to open the media files (*.bsa) for the Bethesda games Oblivion, Fallout 3 and Skyrim. Made by philjord.",
     "repository": "https://github.com/philjord/BSAManager"
   },
   {
@@ -84,26 +119,34 @@
     "keywords": [
       "BSA"
     ],
+    "description": "BSAopt is a tool which manages and recompresses BSA-files. It has been forked off NIFopt and both programs share the same underlying technology regarding BSAs. Both programs treat BSAs exactly like directories, files inside can be adressed easily.",
     "repository": "https://github.com/Ethatron/bsaopt"
   },
   {
     "name": "BSA Tool",
     "keywords": [
-      "BSA"
+      "BSA",
+      "arena",
+      "gui"
     ],
+    "description": "Tool to edit various files in TES1: Arena.",
     "repository": "https://github.com/Dysperia/BSATool"
   },
   {
     "name": "BSA Unpacker",
     "keywords": [
-      "BSA"
+      "BSA",
+      "gui"
     ],
+    "homepage": "BSA (Bethesda Softworks Archive) Unpacker",
     "repository": "https://github.com/pseudoh/BSAUnPacker"
   },
   {
     "name": "BSA Unpacker",
     "keywords": [
-      "BSA"
+      "BSA",
+      "oblivion",
+      "gui"
     ],
     "description": "The Oblivion Mod Manager's BSA unpacker.",
     "homepage": "http://www.nexusmods.com/oblivion/mods/3117/"
@@ -111,8 +154,11 @@
   {
     "name": "bsaunpak",
     "keywords": [
-      "BSA"
+      "BSA",
+      "skyrim",
+      "cli"
     ],
+    "description": "Command line tool for extracting Skyrim BSA files.",
     "repository": "https://github.com/figment/bsaunpak"
   },
   {
@@ -125,15 +171,22 @@
   {
     "name": "FO3 Archive Utility",
     "keywords": [
-      "BSA"
+      "BSA",
+      "morrowind",
+      "api"
     ],
+    "description": "Library for parsing Morrowind BSA files",
     "homepage": "http://www.nexusmods.com/fallout3/mods/34/"
   },
   {
     "name": "libbsa",
     "keywords": [
-      "BSA"
+      "BSA",
+      "morrowind",
+      "oblivion",
+      "api"
     ],
+    "description": "A free software library for reading BSA files.",
     "repository": "https://github.com/WrinklyNinja/libbsa"
   },
   {
@@ -146,8 +199,11 @@
   {
     "name": "unbsa4",
     "keywords": [
-      "BSA"
+      "BSA",
+      "oblivion",
+      "cli"
     ],
+    "description": "The Elder Scrolls 4 - Oblivion BSA archive unpacker.",
     "repository": "https://github.com/angeld29/unbsa4"
   },
   {
