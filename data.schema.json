@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "title": "Project definitions",
-  "description": "A list of project definitions for the ES Modding Tools site",
+  "description": "A list of project definitions for the Buddah site",
   "type": "array",
   "items": {
     "title": "A project definition",
