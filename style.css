@@ -9,9 +9,10 @@ nav {
 nav > div {
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
 }
 nav h1 {
-  padding: 0 24px;
+  padding-left: 24px;
   margin: 0;
 }
 nav a {
@@ -32,6 +33,7 @@ nav p {
   font-size: 20px;
   font-weight: 900;
   flex-grow: 1;
+  padding: 0 24px;
 }
 #search {
   border: none;
@@ -43,6 +45,7 @@ nav ul {
   list-style: none;
   flex-shrink: 0;
   margin: 0;
+  padding: 0;
 }
 nav li {
   display: inline-block;
@@ -56,6 +59,18 @@ nav li a:hover {
 }
 nav li:last-child {
   padding-right: 16px;
+}
+@media (max-width: 730px) {
+  nav {
+    text-align: center;
+  }
+}
+@media (max-width: 1010px) {
+
+  nav h1,
+  nav ul {
+    margin: 0 auto;
+  }
 }
 
 #keywords > p {
