@@ -78,10 +78,18 @@ function createKeywordHtml(keyword) {
   return div;
 }
 
-function printKeywords(keywords) {
-  var keywordList = document.getElementById('keywordList');
+function printAllEntries() {
+  var container = document.getElementById('results');
+  entries.forEach(function(entry) {
+    container.appendChild(createEntryHtml(entry));
+  });
+}
 
-  keywords.forEach(function(keyword) {
+function printKeywords(evt) {
+  var keywordList = document.getElementById('results');
+
+  clearResults();
+  getKeywords(entries).forEach(function(keyword) {
     keywordList.appendChild(createKeywordHtml(keyword));
   });
 }

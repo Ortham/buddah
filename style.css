@@ -1,8 +1,68 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
+nav {
+  font-family: 'Source Sans Pro', sans-serif;
+  background: #E65100;
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+nav > div {
+  display: flex;
+  align-items: center;
+}
+nav h1 {
+  padding: 0 24px;
+  margin: 0;
+}
+nav a {
+  color: white;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 900;
+  flex-shrink: 0;
+}
+nav a:hover {
+  text-decoration: none;
+  color: inherit;
+}
+nav a:focus {
+  color: inherit;
+}
+nav p {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 900;
+  flex-grow: 1;
+}
+#search {
+  border: none;
+  width: 80%;
+  margin: 8px auto;
+  border-radius: 2px;
+}
+nav ul {
+  list-style: none;
+  flex-shrink: 0;
+  margin: 0;
+}
+nav li {
+  display: inline-block;
+}
+nav li a {
+  padding: 16px;
+  display: block;
+}
+nav li a:hover {
+  background: #FFB74D;
+}
+nav li:last-child {
+  padding-right: 16px;
+}
+
 #keywords > p {
   margin-top: 30px;
 }
 .keyword {
-  display: block;
+  display: inline-block;
   margin: 8px;
 }
 .badge {
@@ -13,10 +73,15 @@
   cursor: pointer;
 }
 #results {
+  margin-top: 40px;
   margin-bottom: 100px;
 }
 .entry {
   padding: 20px 10px;
+  border-bottom: 1px solid #E0E0E0;
+}
+.entry:last-child {
+  border-bottom: none;
 }
 .entry .left-column {
   display: table-cell;
@@ -35,6 +100,7 @@
   margin: 4px;
 }
 .entry-keyword {
+  color: #757575;
   padding: 4px 8px;
 }
 .entry-keyword > .glyphicon {

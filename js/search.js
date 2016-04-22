@@ -1,12 +1,5 @@
 'use strict';
 
-function printAllEntries() {
-  var container = document.getElementById('results');
-  entries.forEach(function(entry) {
-    container.appendChild(createEntryHtml(entry));
-  });
-}
-
 function search(evt) {
   clearResults();
 
@@ -45,10 +38,10 @@ function initSearchHandling(loadedEntries) {
   entries = loadedEntries.sort(sortByLowercasedName);
 
   fillIndex(entries);
-  printKeywords(getKeywords(entries));
 
   document.getElementById('search').addEventListener('input', search);
-  document.getElementById('keywordList').addEventListener('click', searchByKeyword);
+  document.getElementById('results').addEventListener('click', searchByKeyword);
+  document.getElementById('showKeywords').addEventListener('click', printKeywords);
 
   printAllEntries();
 }

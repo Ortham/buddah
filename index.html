@@ -8,30 +8,21 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
   <link rel="stylesheet" href="style.css">
 </head>
-<body class="container">
-  <div class="page-header">
-    <h1>Buddah</h1>
-
-    <p>A simple registry for community-made game modding software.</p>
-
-    <p><input id="search" type="search" class="form-control" placeholder="Search by software name, keywords and description text"></p>
-
-    <p>Is this site missing a software project you know of? Add it <a href="https://github.com/WrinklyNinja/buddah/blob/gh-pages/CONTRIBUTING.md">on GitHub</a>!</p>
-  </div>
-
-  <div class="row">
-    <div class="col-md-9">
-      <h2>Projects</h2>
-
-      <div id="results"></div>
+<body>
+  <nav>
+    <div>
+      <h1><a href="/">Buddah</a></h1>
+      <p>A simple registry for community-made game modding software</p>
+      <ul>
+        <li><a href="https://github.com/WrinklyNinja/buddah/blob/gh-pages/CONTRIBUTING.md">Add A Project</a></li>
+        <li><a id="showKeywords" href="#show-keywords">Show All Keywords</a></li>
+      </ul>
     </div>
-    <div id="keywords" class="col-md-3">
-      <h2>Keywords</h2>
+    <input id="search" type="search" class="form-control" placeholder="Search by software name, keywords and description text">
+  </nav>
 
-      <p>Click on a keyword below to see all matching projects.</p>
-
-      <div id="keywordList"></div>
-    </div>
+  <div class="container">
+    <div id="results"></div>
   </div>
 
 
