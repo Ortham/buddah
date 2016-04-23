@@ -4,7 +4,7 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
-  min-width: 354px;
+  min-width: 320px;
 }
 nav {
   background: #C70039;
@@ -50,7 +50,6 @@ nav p {
 }
 nav ul {
   list-style: none;
-  flex-shrink: 0;
   margin: 0;
   padding: 0;
 }
@@ -103,6 +102,7 @@ body > div.container {
   margin-bottom: 100px;
 }
 .entry {
+  display: flex;
   padding: 20px 10px;
   border-bottom: 1px solid #E0E0E0;
 }
@@ -110,13 +110,19 @@ body > div.container {
   border-bottom: none;
 }
 .entry .left-column {
-  display: table-cell;
-  width: 100%;
+  flex-grow: 1;
 }
 .entry .right-column {
-  display: table-cell;
   text-align: right;
-  vertical-align: middle;
+  align-self: center;
+}
+@media (max-width: 360px) {
+  .entry {
+    flex-wrap: wrap;
+  }
+  .entry .right-column {
+    margin-top: 16px;
+  }
 }
 .entry h3 {
   margin-top: 10px;
