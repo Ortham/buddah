@@ -3,7 +3,7 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 nav {
-  background: #E65100;
+  background: #C70039;
   color: white;
   display: flex;
   flex-direction: column;
@@ -58,7 +58,7 @@ nav li a {
   display: block;
 }
 nav li a:hover {
-  background: #FFB74D;
+  background: #C78E00;
 }
 nav li:last-child {
   padding-right: 16px;
