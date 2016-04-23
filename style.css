@@ -170,10 +170,16 @@ body > div.container {
   border-radius: 4px;
 }
 .entry a.home {
-  background: #337ab7;
+  background: #9DC700;
+}
+.entry a.home:hover {
+  background-color: #39C700;
 }
 .entry a.source {
-  background: #5bc0de;
+  background: #00C78E;
+}
+.entry a.source:hover {
+  background-color: #009DC7;
 }
 .entry-keyword {
   color: #757575;
