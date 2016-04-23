@@ -22,7 +22,7 @@ function createEntryHtml(entry) {
     keywordSpan.className = 'entry-keyword';
 
     var icon = document.createElement('span');
-    icon.className = 'glyphicon glyphicon-tag';
+    icon.className = 'octicon octicon-tag';
 
     var text = document.createTextNode(keyword);
 
@@ -41,7 +41,7 @@ function createEntryHtml(entry) {
     var homepageLink = document.createElement('a');
 
     homepageLink.href = entry.homepage;
-    homepageLink.className = 'btn btn-primary';
+    homepageLink.className = 'home';
     homepageLink.textContent = 'Home Page';
 
     rightColumn.appendChild(homepageLink);
@@ -51,7 +51,7 @@ function createEntryHtml(entry) {
     var repositoryLink = document.createElement('a');
 
     repositoryLink.href = entry.repository;
-    repositoryLink.className = 'btn btn-info';
+    repositoryLink.className = 'source';
     repositoryLink.textContent = 'Source Code';
 
     rightColumn.appendChild(repositoryLink);
