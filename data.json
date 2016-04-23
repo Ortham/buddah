@@ -1023,6 +1023,8 @@
   {
     "name": "Unforbidable Patcher",
     "keywords": [
+      "skyrim",
+      "fallout 4",
       "plugin editing"
     ],
     "description": "The Patcher is a tool that allows automatic creation of plugin files for games The Elder Scrolls V: Skyrim and Fallout 4 according to predefined rules provided by the user or a third party.",
@@ -1032,6 +1034,7 @@
   {
     "name": "PapyrusDotNet",
     "keywords": [
+      "skyrim",
       "papyrus",
       "scripting"
     ],
@@ -1042,6 +1045,7 @@
   {
     "name": "MCM Designer",
     "keywords": [
+      "skyrim",
       "papyrus",
       "scripting"
     ],
