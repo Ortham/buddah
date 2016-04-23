@@ -152,3 +152,8 @@ footer a {
   width: 50%;
   padding: 16px;
 }
+@media (max-width: 820px) {
+  #footerFlex > section {
+    width: auto;
+  }
+}
