@@ -1019,5 +1019,38 @@
     "description": "A wrapper program that allows for more advanced use of the Papyrus compiler from within Creation Kit.",
     "homepage": "https://github.com/Kapiainen/Advanced-Papyrus",
     "repository": "https://github.com/Kapiainen/Advanced-Papyrus"
+  },
+  {
+    "name": "Unforbidable Patcher",
+    "keywords": [
+      "skyrim",
+      "fallout 4",
+      "plugin editing"
+    ],
+    "description": "The Patcher is a tool that allows automatic creation of plugin files for games The Elder Scrolls V: Skyrim and Fallout 4 according to predefined rules provided by the user or a third party.",
+    "homepage": "http://www.nexusmods.com/skyrim/mods/70197/",
+    "repository": "https://github.com/Unforbidable/Patcher/"
+  },
+  {
+    "name": "PapyrusDotNet",
+    "keywords": [
+      "skyrim",
+      "papyrus",
+      "scripting"
+    ],
+    "description": "PapyrusDotNet is a papyrus compiler that compiles .NET binaries into papyrus binaries.",
+    "homepage": "https://github.com/zerratar/PapyrusDotNet",
+    "repository": "https://github.com/zerratar/PapyrusDotNet"
+  },
+  {
+    "name": "MCM Designer",
+    "keywords": [
+      "skyrim",
+      "papyrus",
+      "scripting"
+    ],
+    "description": "An application that generates papyrus scripts for MCM menus.",
+    "homepage": "http://www.nexusmods.com/skyrim/mods/29821/",
+    "repository": "https://github.com/Daimakaicho/MenuDesigner"
   }
 ]
