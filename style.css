@@ -4,6 +4,7 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
+  min-width: 354px;
 }
 nav {
   background: #C70039;
@@ -69,6 +70,9 @@ nav li:last-child {
 @media (max-width: 820px) {
   nav {
     text-align: center;
+  }
+  nav li:last-child {
+    padding-right: 0;
   }
 }
 @media (max-width: 1189px) {
