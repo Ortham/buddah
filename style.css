@@ -204,6 +204,9 @@ footer h1 {
 footer a {
   color: #581845;
 }
+footer a:hover {
+  text-decoration: underline;
+}
 #footerFlex {
   display: flex;
   flex-wrap: wrap;
