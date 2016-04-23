@@ -1,6 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans|Raleway);
 body {
   font-family: 'Open Sans', sans-serif;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
 }
 nav {
   background: #C70039;
@@ -77,9 +80,8 @@ nav li:last-child {
     margin: 0 auto;
   }
 }
-
-#keywords > p {
-  margin-top: 30px;
+body > div.container {
+  flex: 1;
 }
 .keyword {
   display: inline-block;
@@ -125,4 +127,24 @@ nav li:last-child {
 }
 .entry-keyword > .glyphicon {
   margin-right: 4px;
+}
+footer {
+  background: #C78E00;
+  color: white;
+  padding: 16px;
+}
+footer h1 {
+  font-size: 20px;
+  padding-left: 16px;
+}
+footer a {
+  color: #581845;
+}
+#footerFlex {
+  display: flex;
+  flex-wrap: wrap;
+}
+#footerFlex > section {
+  width: 50%;
+  padding: 16px;
 }
