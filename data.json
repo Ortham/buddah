@@ -614,7 +614,7 @@
     "name": "TES5EditScripts",
     "keywords": [
       "skyrim",
-      "xedit scripts"
+      "xEdit scripting"
     ],
     "description": "A collection of TES5Edit/FNVEdit scripts for modders.",
     "repository": "https://github.com/matortheeternal/TES5EditScripts"
@@ -626,7 +626,7 @@
       "skyrim",
       "fallout 3",
       "fallout new vegas",
-      "xedit scripts"
+      "xEdit scripting"
     ],
     "description": "A collection of xEdit scripts for experienced xEdit users.",
     "repository": "https://github.com/TES5Edit/xEditScripts"
@@ -653,109 +653,226 @@
   {
     "name": "Unfuzer",
     "keywords": [
-      "XWM conversion"
+      "skyrim",
+      "XWM conversion",
+      "gui"
     ],
+    "description": "A utility that does mass extracting/inserting of xwm files from/into voice files (.fuz), with automatic xWMA <-> PCM transcoding.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/19242/"
   },
   {
     "name": "XWM Ninja",
     "keywords": [
-      "XWM conversion"
+      "skyrim",
+      "XWM conversion",
+      "gui"
     ],
+    "description": "Xwm Ninja is a tool that converts between xWMA (*.xwm) and a variety of other formats.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/53132/"
   },
   {
     "name": "DDSOpt",
     "keywords": [
-      "DDS"
+      "DDS",
+      "gui"
     ],
+    "description": "DDSopt is a tool which manages and recompressed DDS-files. It has been forked off NIFopt and both programm share the same underlying technology regarding DDSs and BSAs.",
+    "homepage": "http://www.nexusmods.com/skyrim/mods/5755/",
     "repository": "https://github.com/Ethatron/ddsopt"
   },
   {
     "name": "hkxcmd",
     "keywords": [
-      "havok"
+      "havok",
+      "skyrim",
+      "cli"
     ],
-    "homepage": "http://www.nexusmods.com/skyrim/mods/1797/"
+    "description": "This tool enables converting Havok animation from the Skyrim-compatible binary format to the Havok XML format or to the Gamebryo KF animation format.",
+    "homepage": "http://www.nexusmods.com/skyrim/mods/1797/",
+    "repository": "https://github.com/figment/hkxcmd"
   },
   {
     "name": "Nifopt",
     "keywords": [
-      "NIF"
+      "NIF",
+      "gui"
     ],
+    "description": "Optimizing NIF models and more",
     "repository": "https://github.com/Ethatron/nifopt"
   },
   {
-    "name": "Niftools",
+    "name": "Nifscope",
     "keywords": [
-      "NIF"
+      "NIF",
+      "gui"
     ],
-    "description": "Nifskope, PyFFI, niflib and plugins for Blender, 3DS Max and Maya.",
-    "repository": "https://github.com/niftools"
+    "description": "NifSkope is a tool for opening and editing the NetImmerse file format (NIF). NIF is used by video games such as Morrowind, Oblivion, Skyrim, Fallout 3, Fallout: New Vegas, Civilization IV, and more.",
+    "homepage": "https://github.com/niftools/nifskope",
+    "repository": "https://github.com/niftools/nifskope"
+  },
+  {
+    "name": "Blender NIF Plugin",
+    "keywords": [
+      "NIF",
+      "blender plugin"
+    ],
+    "description": "The Blender NIF Plugin is a Blender addon to enable import and export of the .Nif File Format.",
+    "homepage": "https://github.com/niftools/nifskope",
+    "repository": "https://github.com/niftools/nifskope"
+  },
+  {
+    "name": "PyFFI",
+    "keywords": [
+      "NIF",
+      "DDS",
+      "KFM",
+      "CGF",
+      "EGM",
+      "TGA"
+    ],
+    "description": "The Python File Format Interface is a Python library for processing block structured files.",
+    "homepage": "https://github.com/niftools/pyffi",
+    "repository": "https://github.com/niftools/pyffi"
+  },
+  {
+    "name": "Mopper",
+    "keywords": [
+      "havok"
+    ],
+    "description": "Tool for creating havok mopp code.",
+    "repository": "https://github.com/niftools/mopper"
+  },
+  {
+    "name": "3DS Max NIF Plugin",
+    "keywords": [
+      "NIF",
+      "3DS max plugin"
+    ],
+    "description": "The nif plugin for 3ds max.",
+    "repository": "https://github.com/niftools/max_nif_plugin"
+  },
+  {
+    "name": "Maya NIF Plugin",
+    "keywords": [
+      "NIF",
+      "maya plugin"
+    ],
+    "description": "The nif plugin for maya.",
+    "repository": "https://github.com/niftools/maya_nif_plugin"
+  },
+  {
+    "name": "Niflib",
+    "keywords": [
+      "NIF",
+      "api"
+    ],
+    "description": "A C++ library for reading and writing Nif files.",
+    "repository": "https://github.com/niftools/niflib"
   },
   {
     "name": "NifUtilsSuite",
     "keywords": [
-      "NIF"
+      "NIF",
+      "gui"
     ],
+    "description": "Collection of NifUtils within one App",
+    "homepage": "http://niftools.sourceforge.net/forum/viewtopic.php?f=38&t=4128",
     "repository": "https://github.com/skyfox69/NifUtilsSuite"
   },
   {
     "name": "BOSS Userlist Manager",
     "keywords": [
-      "utility"
+      "load order",
+      "gui"
     ],
+    "description": "The BOSS Userlist Manager (BUM) helps you manage your mod load order for Skyrim, Oblivion, Nehrim, Fallout3 and FalloutNV. It uses BOSS Userlist rules to customise the order in which mods should be loaded and allows you to specify the load order for unknown mods without editing the BOSS Masterlist.",
     "repository": "http://www.nexusmods.com/oblivion/mods/29790/"
   },
   {
     "name": "Dynamic Distant Objects LOD (DynDOLOD)",
     "keywords": [
       "LOD",
-      "utility"
+      "gui"
     ],
+    "description": "Dynamic Distant Objects LOD (DynDOLOD) is a set of tools based on TES5Edit and TES5LODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects to Skyrim. By combining DynDOLOD with TES5LODGen users can create drastically enhanced traditional static LOD plus tree LOD and a new, optional dynamic distant object LOD in a few 'simple' steps.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/59721/"
   },
   {
     "name": "ENB Helper",
     "keywords": [
-      "utility"
+      "skyrim",
+      "enbseries plugin"
     ],
     "homepage": "http://www.dev-c.com/skyrim/enbhelper/"
   },
   {
     "name": "Fallout Performance Monitor",
     "keywords": [
-      "utility"
+      "fallout 4",
+      "performance",
+      "gui"
     ],
+    "description": "The Fallout Performance Monitor is a utility used for tracking Fallout 4’s system resource usage as they relate to the game engine, your system hardware, and installed mods.",
     "homepage": "http://www.nexusmods.com/fallout4/mods/1762/"
   },
   {
     "name": "lltool",
     "keywords": [
-      "utility"
+      "landscape",
+      "heightmap",
+      "lod",
+      "api",
+      "cli"
     ],
+    "description": "lltool provides several methods and algorithms for heightmap manipulation and terrain triangulation.",
     "repository": "https://github.com/Gruftikus/lltool"
   },
   {
-    "name": "mpgui",
+    "name": "Multi Purpose GUI",
     "keywords": [
       "LOD",
-      "utility"
+      "morrowind",
+      "oblivion",
+      "skyrim",
+      "fallout 3",
+      "gui"
     ],
+    "description": "MPGUI (Multi Purpose GUI) aims to be a graphical frontend for various command-line based tools such as Lightwaves TESAnnwyn or TES4qLOD.",
+    "homepage": "http://www.nexusmods.com/oblivion/mods/41447/",
     "repository": "https://github.com/Gruftikus/mpgui"
+  },
+  {
+    "name": "Landscape LOD Generator",
+    "keywords": [
+      "lod",
+      "heightmap",
+      "landscape",
+      "oblivion",
+      "cli"
+    ],
+    "description": "This tool creates LOD meshes, color and normal maps based on landscape heightmaps as generated by esp/esm files. Therefore, it can be used to replace the meshes of Oblivion/FalloutNV (Fallout3 is under preparation) including all the additional changes added by landscape and texture mods.",
+    "homepage": "http://www.nexusmods.com/oblivion/mods/40549/",
+    "repository": "https://github.com/Gruftikus/tes4ll"
   },
   {
     "name": "NMM Script Checker",
     "keywords": [
-      "utility"
+      "scripting",
+      "validator",
+      "cli"
     ],
+    "description": "Validates C# installer scripts for Nexus Mod Manager for being valid.",
+    "homepage": "https://github.com/miere43/nmm-script-checker",
     "repository": "https://github.com/miere43/nmm-script-checker"
   },
   {
     "name": "Oblivion Face Exchange Lite",
     "keywords": [
-      "utility"
+      "character appearance import / export",
+      "oblivion",
+      "gui"
     ],
+    "description": "With this tool, you can change your character's name, hairstyle, hair length, hair color, eyes and copy face from a another save file, from a face file, from text that is copied to the clipboard or from a non-player character.",
     "homepage": "http://www.nexusmods.com/oblivion/mods/7808/"
   },
   {
@@ -927,7 +1044,7 @@
     "name": "Fallout 3 Script Extender (FOSE)",
     "keywords": [
       "scripting",
-      "script extenders"
+      "script extender"
     ],
     "description": "",
     "homepage": "http://fose.silverlock.org/",
@@ -937,7 +1054,7 @@
     "name": "Fallout 4 Script Extender (F4SE)",
     "keywords": [
       "scripting",
-      "script extenders"
+      "script extender"
     ],
     "description": "",
     "homepage": "http://f4se.silverlock.org/",
@@ -947,7 +1064,7 @@
     "name": "Four Dragon",
     "keywords": [
       "scripting",
-      "script extenders"
+      "script extender"
     ],
     "homepage": "http://www.dev-c.com/fallout4/fourdragon/"
   },
@@ -955,7 +1072,7 @@
     "name": "New Vegas Script Extender (NVSE)",
     "keywords": [
       "scripting",
-      "script extenders"
+      "script extender"
     ],
     "homepage": "http://nvse.silverlock.org/",
     "repository": "http://nvse.silverlock.org/"
@@ -964,7 +1081,7 @@
     "name": "Oblivion Script Extender (OBSE)",
     "keywords": [
       "scripting",
-      "script extenders"
+      "script extender"
     ],
     "homepage": "http://obse.silverlock.org/",
     "repository": "http://obse.silverlock.org/"
@@ -973,7 +1090,7 @@
     "name": "Script Dragon",
     "keywords": [
       "scripting",
-      "script extenders"
+      "script extender"
     ],
     "homepage": "http://www.dev-c.com/skyrim/scriptdragon/"
   },
@@ -981,7 +1098,7 @@
     "name": "Skyrim Script Extender (SKSE)",
     "keywords": [
       "scripting",
-      "script extenders"
+      "script extender"
     ],
     "homepage": "http://skse.silverlock.org/",
     "repository": "http://skse.silverlock.org/"
@@ -989,84 +1106,84 @@
   {
     "name": "Clean Up",
     "keywords": [
-      "OBSE plugins"
+      "OBSE plugin"
     ],
     "homepage": "http://www.nexusmods.com/oblivion/mods/24606/"
   },
   {
     "name": "ConScribe",
     "keywords": [
-      "OBSE plugins"
+      "OBSE plugin"
     ],
     "repository": "https://github.com/shadeMe/ConScribe"
   },
   {
     "name": "Construction Set Extender",
     "keywords": [
-      "OBSE plugins"
+      "OBSE plugin"
     ],
     "repository": "https://github.com/shadeMe/Construction-Set-Extender"
   },
   {
     "name": "Better Cities Helper",
     "keywords": [
-      "OBSE plugins"
+      "OBSE plugin"
     ],
     "repository": "https://github.com/shadeMe/Better-Cities-Helper"
   },
   {
     "name": "Blockhead",
     "keywords": [
-      "OBSE plugins"
+      "OBSE plugin"
     ],
     "repository": "https://github.com/shadeMe/Blockhead"
   },
   {
     "name": "Exit Oblivion With No Crash",
     "keywords": [
-      "OBSE plugins"
+      "OBSE plugin"
     ],
     "homepage": "http://www.nexusmods.com/oblivion/mods/21416/"
   },
   {
     "name": "FormID Finder",
     "keywords": [
-      "OBSE plugins"
+      "OBSE plugin"
     ],
     "homepage": "http://www.nexusmods.com/oblivion/mods/16704/"
   },
   {
     "name": "INIzer",
     "keywords": [
-      "OBSE plugins"
+      "OBSE plugin"
     ],
     "repository": "https://github.com/shadeMe/INIzer"
   },
   {
     "name": "NifSE",
     "keywords": [
-      "OBSE plugins"
+      "OBSE plugin"
     ],
     "homepage": "http://www.nexusmods.com/oblivion/mods/21292/"
   },
   {
     "name": "Oblivion Graphics Extender v2",
     "keywords": [
-      "OBSE plugins"
+      "OBSE plugin"
     ],
     "repository": "https://github.com/scanti/Oblivion-Graphics-Extender-v2"
   },
   {
     "name": "Oblivion Graphics Extender v3",
     "keywords": [
-      "OBSE plugins"
+      "OBSE plugin"
     ],
     "repository": "https://github.com/shadeMe/Oblivion-Graphics-Extender-v3"
   },
   {
-    "name": "Oblivon Reloaded",
+    "name": "Oblivion Reloaded",
     "keywords": [
-      "OBSE plugins"
+      "OBSE plugin"
     ],
     "description": "The link is to Alenett's GitHub profile: there are multiple repostories listed there for Oblivion Reloaded",
     "repository": "https://github.com/Alenett"
@@ -1074,140 +1191,140 @@
   {
     "name": "Refscope",
     "keywords": [
-      "OBSE plugins"
+      "OBSE plugin"
     ],
     "homepage": "http://www.nexusmods.com/oblivion/mods/21862/"
   },
   {
     "name": "Runtime Debugger",
     "keywords": [
-      "OBSE plugins"
+      "OBSE plugin"
     ],
     "repository": "https://github.com/shadeMe/Runtime-Debugger"
   },
   {
     "name": "RuntimeEditorIDs",
     "keywords": [
-      "OBSE plugins"
+      "OBSE plugin"
     ],
     "repository": "https://github.com/shadeMe/RuntimeEditorIDs"
   },
   {
     "name": "Runtime Script Profiler",
     "keywords": [
-      "OBSE plugins"
+      "OBSE plugin"
     ],
     "repository": "https://github.com/shadeMe/RuntimeScriptProfiler"
   },
   {
     "name": "shadeMe",
     "keywords": [
-      "OBSE plugins"
+      "OBSE plugin"
     ],
     "repository": "https://github.com/shadeMe/shadeMe"
   },
   {
     "name": "Trifle",
     "keywords": [
-      "OBSE plugins"
+      "OBSE plugin"
     ],
     "repository": "https://github.com/shadeMe/Trifle"
   },
   {
     "name": "Universal Silent Voice",
     "keywords": [
-      "OBSE plugins"
+      "OBSE plugin"
     ],
     "homepage": "http://www.nexusmods.com/oblivion/mods/16622/"
   },
   {
     "name": "ConSkrybe",
     "keywords": [
-      "SKSE plugins"
+      "SKSE plugin"
     ],
     "repository": "https://github.com/shadeMe/ConSkrybe"
   },
   {
     "name": "Creation Kit Extender",
     "keywords": [
-      "SKSE plugins"
+      "SKSE plugin"
     ],
     "repository": "https://github.com/shadeMe/Creation-Kit-Extender"
   },
   {
     "name": "Fuz Ro D-oh",
     "keywords": [
-      "SKSE plugins"
+      "SKSE plugin"
     ],
     "repository": "https://github.com/shadeMe/Fuz-Ro-D-oh"
   },
   {
     "name": "JContainers",
     "keywords": [
-      "SKSE plugins"
+      "SKSE plugin"
     ],
     "repository": "https://github.com/SilverIce/JContainers"
   },
   {
     "name": "Memory Blocks Log",
     "keywords": [
-      "SKSE plugins"
+      "SKSE plugin"
     ],
     "homepage": "http://www.nexusmods.com/skyrim/mods/50471/"
   },
   {
     "name": "NetImmerse Override",
     "keywords": [
-      "SKSE plugins"
+      "SKSE plugin"
     ],
     "homepage": "http://www.nexusmods.com/skyrim/mods/37481/"
   },
   {
     "name": "Nitpick",
     "keywords": [
-      "SKSE plugins"
+      "SKSE plugin"
     ],
     "repository": "https://github.com/shadeMe/Nitpick"
   },
   {
     "name": "PapyrusUtil",
     "keywords": [
-      "SKSE plugins"
+      "SKSE plugin"
     ],
     "homepage": "http://www.nexusmods.com/skyrim/mods/58705/"
   },
   {
     "name": "SKSE -Elys- Alt F4",
     "keywords": [
-      "SKSE plugins"
+      "SKSE plugin"
     ],
     "homepage": "http://www.nexusmods.com/skyrim/mods/17202/"
   },
   {
     "name": "Skyrim -Community- Uncapper",
     "keywords": [
-      "SKSE plugins"
+      "SKSE plugin"
     ],
     "homepage": "http://www.nexusmods.com/skyrim/mods/1175/"
   },
   {
     "name": "Skyrim -Elys- MemInfo",
     "keywords": [
-      "SKSE plugins"
+      "SKSE plugin"
     ],
     "homepage": "http://www.nexusmods.com/skyrim/mods/2006/"
   },
   {
     "name": "Smart Souls",
     "keywords": [
-      "SKSE plugins"
+      "SKSE plugin"
     ],
     "repository": "https://github.com/shadeMe/Smart-Souls"
   },
   {
     "name": "Elder Scrolls Explorer",
     "keywords": [
-      "engines"
+      "game engine"
     ],
     "repository": "https://github.com/philjord/ElderScrollsExplorer"
   },
@@ -1286,7 +1403,7 @@
     "name": "xedit-tesv-scripts",
     "keywords": [
       "skyrim",
-      "xEdit scripts",
+      "xEdit scripting",
       "papyrus"
     ],
     "description": "A package of scripts for TES5Edit that modify Papyrus-related data bound to forms in your mod.",
