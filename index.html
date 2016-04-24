@@ -17,13 +17,16 @@
       <ul>
         <li><a href="#about">About</a></li>
         <li><a href="https://github.com/WrinklyNinja/buddah/blob/gh-pages/CONTRIBUTING.md">Add A Project</a></li>
-        <li><a id="showKeywords" href="#show-keywords">Show All Keywords</a></li>
+        <li><button id="showKeywords">Toggle Keywords List</button></li>
       </ul>
     </div>
     <input id="search" type="search" placeholder="Search by software name, keywords and description text">
   </nav>
 
-  <div id="results" class="container"></div>
+  <div class="container">
+    <div id="keywordList" hidden></div>
+    <div id="results"></div>
+  </div>
 
   <footer id="about">
     <div class="container">

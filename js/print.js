@@ -19,7 +19,7 @@ function createEntryHtml(entry) {
   var div = document.createElement('div');
   entry.keywords.forEach(function(keyword) {
     var keywordSpan = document.createElement('span');
-    keywordSpan.className = 'entry-keyword';
+    keywordSpan.className = 'keyword';
 
     var icon = document.createElement('span');
     icon.className = 'octicon octicon-tag';
@@ -86,9 +86,7 @@ function printAllEntries() {
 }
 
 function printKeywords(evt) {
-  var keywordList = document.getElementById('results');
-
-  clearResults();
+  var keywordList = document.getElementById('keywordList');
   getKeywords(entries).forEach(function(keyword) {
     keywordList.appendChild(createKeywordHtml(keyword));
   });

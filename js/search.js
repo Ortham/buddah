@@ -15,12 +15,20 @@ function search(evt) {
 }
 
 function searchByKeyword(evt) {
-  if (evt.target.className !== 'keyword') {
+  var target = evt.target;
+  if (target.className !== 'keyword') {
+    target = target.parentElement;
+  }
+  if (target.className !== 'keyword') {
     return;
   }
 
   var search = document.getElementById('search');
-  search.value = '"' + evt.target.firstChild.textContent + '"';
+  if (target.firstElementChild.classList.contains('octicon')) {
+    search.value = '"' + target.textContent + '"';
+  } else {
+    search.value = '"' + target.firstChild.textContent + '"';
+  }
   search.dispatchEvent(new Event('input'));
 }
 
@@ -34,14 +42,23 @@ function sortByLowercasedName(a, b) {
   return 0;
 }
 
+function toggleKeywordList(evt) {
+  evt.target.blur();
+
+  var keywordList = document.getElementById('keywordList');
+  keywordList.hidden = !keywordList.hidden;
+}
+
 function initSearchHandling(loadedEntries) {
   entries = loadedEntries.sort(sortByLowercasedName);
 
   fillIndex(entries);
 
+  printKeywords();
+
   document.getElementById('search').addEventListener('input', search);
-  document.getElementById('results').addEventListener('click', searchByKeyword);
-  document.getElementById('showKeywords').addEventListener('click', printKeywords);
+  document.body.addEventListener('click', searchByKeyword);
+  document.getElementById('showKeywords').addEventListener('click', toggleKeywordList);
 
   printAllEntries();
 }

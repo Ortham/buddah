@@ -83,7 +83,16 @@ nav li a {
   padding: 16px;
   display: block;
 }
-nav li a:hover {
+nav button {
+  background: inherit;
+  border: inherit;
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
+  padding: 16px;
+}
+nav li a:hover,
+nav button:hover {
   background: #C78E00;
 }
 nav li:last-child {
@@ -111,6 +120,7 @@ body > div.container {
 }
 .keyword {
   display: inline-block;
+  white-space: nowrap;
   margin: 8px;
 }
 .badge {
@@ -127,6 +137,9 @@ body > div.container {
 .keyword:hover {
   text-decoration: underline;
   cursor: pointer;
+}
+#keywordList {
+  margin-top: 40px;
 }
 #results {
   margin-top: 40px;
@@ -183,13 +196,11 @@ body > div.container {
 .entry a.source:hover {
   background-color: #009DC7;
 }
-.entry-keyword {
+.entry .keyword {
   color: #757575;
-  padding: 4px 8px;
-  display: inline-block;
-  white-space: nowrap;
+  margin: 4px 8px;
 }
-.entry-keyword > .octicon {
+.entry .keyword > .octicon {
   margin-right: 4px;
 }
 footer {
