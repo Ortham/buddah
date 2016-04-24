@@ -1350,85 +1350,105 @@
   {
     "name": "ConSkrybe",
     "keywords": [
+      "skyrim",
       "SKSE plugin"
     ],
+    "description": "A plugin for the Skyrim Script Extender that attaches itself to the in-game console's brainstem (not unlike a mutant Babel fish) and illicitly siphons any and all I/O it handles.",
+    "homepage": "http://www.nexusmods.com/skyrim/mods/19630/",
     "repository": "https://github.com/shadeMe/ConSkrybe"
   },
   {
     "name": "Creation Kit Extender",
     "keywords": [
+      "skyrim",
       "SKSE plugin"
     ],
+    "description": "A plugin for the Skyrim Script Extender that does to the Creation Kit what the Construction Set Extender did to the Construction Set.",
     "repository": "https://github.com/shadeMe/Creation-Kit-Extender"
   },
   {
     "name": "Fuz Ro D-oh",
     "keywords": [
+      "skyrim",
       "SKSE plugin"
     ],
+    "description": "A plugin for the Skyrim Script Extender that adds support for unvoiced in-game dialog",
+    "homepage": "http://www.nexusmods.com/skyrim/mods/14884/",
     "repository": "https://github.com/shadeMe/Fuz-Ro-D-oh"
   },
   {
     "name": "JContainers",
     "keywords": [
+      "skyrim",
       "SKSE plugin"
     ],
+    "description": "JSON-based data structures for Papyrus",
+    "homepage": "http://www.nexusmods.com/skyrim/mods/49743/",
     "repository": "https://github.com/SilverIce/JContainers"
   },
   {
     "name": "Memory Blocks Log",
     "keywords": [
+      "skyrim",
       "SKSE plugin"
     ],
+    "description": "A SKSE plugin that writes the sizes of the two memory blocks DefaultHeap and ScrapHeap to a logfile whenever more memory is committed to them.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/50471/"
   },
   {
     "name": "NetImmerse Override",
     "keywords": [
+      "skyrim",
       "SKSE plugin"
     ],
+    "description": "Allows overriding of Armor shader properties that are active on particular Actors. Also allows overriding properties of specific node names (Advanced use only). All modifications are saved to the SKSE co-save and do not need to be re-applied on reload. All armor modifications are re-applied automatically when re-equipped.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/37481/"
   },
   {
     "name": "Nitpick",
     "keywords": [
+      "skyrim",
       "SKSE plugin"
     ],
+    "description": "Removes the 255-character limit placed on string values in Skyrim’s INI files, and fixes the bug that prevented active mod files from loading at start-up if there were more than 508 ESP/ESM files in the Data directory.",
+    "homepage": "http://www.nexusmods.com/skyrim/mods/19556/",
     "repository": "https://github.com/shadeMe/Nitpick"
   },
   {
     "name": "PapyrusUtil",
     "keywords": [
+      "skyrim",
       "SKSE plugin"
     ],
+    "description": "allows you to save any amount of int, float, form and string values on any form or globally from papyrus scripts. Also supports lists of those data types. These values can be accessed from any mod allowing easy dynamic compatibility.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/58705/"
   },
   {
     "name": "SKSE -Elys- Alt F4",
     "keywords": [
+      "skyrim",
       "SKSE plugin"
     ],
+    "description": "Allows pressing Alt+F4 keys to close the game.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/17202/"
-  },
-  {
-    "name": "Skyrim -Community- Uncapper",
-    "keywords": [
-      "SKSE plugin"
-    ],
-    "homepage": "http://www.nexusmods.com/skyrim/mods/1175/"
   },
   {
     "name": "Skyrim -Elys- MemInfo",
     "keywords": [
+      "skyrim",
       "SKSE plugin"
     ],
+    "description": "This plugin will display Memory Usage and Frames per Second information on the top right corner of your screen.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/2006/"
   },
   {
     "name": "Smart Souls",
     "keywords": [
+      "skyrim",
       "SKSE plugin"
     ],
+    "description": "A plugin for the Skyrim Script Extender that modifies how the Soul Trap magic effect behaves.",
+    "homepage": "http://www.nexusmods.com/skyrim/mods/14559/",
     "repository": "https://github.com/shadeMe/Smart-Souls"
   },
   {
