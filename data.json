@@ -1201,137 +1201,150 @@
     "repository": "http://skse.silverlock.org/"
   },
   {
-    "name": "Clean Up",
-    "keywords": [
-      "OBSE plugin"
-    ],
-    "homepage": "http://www.nexusmods.com/oblivion/mods/24606/"
-  },
-  {
     "name": "ConScribe",
     "keywords": [
-      "OBSE plugin"
+      "oblivion",
+      "OBSE plugin",
+      "logging"
     ],
+    "description": "A plugin for the Oblivion Script Extender that logs console messages and adds textual I/O commands.",
+    "homepage": "http://www.nexusmods.com/oblivion/mods/26510/",
     "repository": "https://github.com/shadeMe/ConScribe"
   },
   {
     "name": "Construction Set Extender",
     "keywords": [
+      "oblivion",
       "OBSE plugin"
     ],
+    "description": "A plugin for the Oblivion Script Extender that overhauls and fixes the TES 4 Oblivion Construction Set.",
+    "homepage": "http://www.nexusmods.com/oblivion/mods/36370/",
     "repository": "https://github.com/shadeMe/Construction-Set-Extender"
   },
   {
     "name": "Better Cities Helper",
     "keywords": [
+      "oblivion",
       "OBSE plugin"
     ],
+    "description": "A plugin for the Oblivion Script Extender that helps out the Better Cities mod by punching the daylights out of certain stubborn references",
     "repository": "https://github.com/shadeMe/Better-Cities-Helper"
   },
   {
     "name": "Blockhead",
     "keywords": [
+      "oblivion",
       "OBSE plugin"
     ],
+    "description": "A plugin for the Oblivion Script Extender that adds support for gender variant head meshes/textures (among other pointless things) by applying excessive verbal pressure on the engine.",
+    "homepage": "http://www.nexusmods.com/oblivion/mods/43752/",
     "repository": "https://github.com/shadeMe/Blockhead"
-  },
-  {
-    "name": "Exit Oblivion With No Crash",
-    "keywords": [
-      "OBSE plugin"
-    ],
-    "homepage": "http://www.nexusmods.com/oblivion/mods/21416/"
-  },
-  {
-    "name": "FormID Finder",
-    "keywords": [
-      "OBSE plugin"
-    ],
-    "homepage": "http://www.nexusmods.com/oblivion/mods/16704/"
   },
   {
     "name": "INIzer",
     "keywords": [
+      "oblivion",
       "OBSE plugin"
     ],
+    "description": "A plugin for the Oblivion Script Extender that allows multiple game installations use different sets of active plugins and INI settings",
+    "homepage": "http://www.nexusmods.com/oblivion/mods/41862/",
     "repository": "https://github.com/shadeMe/INIzer"
   },
   {
     "name": "NifSE",
     "keywords": [
+      "oblivion",
       "OBSE plugin"
     ],
+    "description": "NifSE is a modder's resource, an OBSE plugin that brings the functionality of the NifTools team's incredible Niflib to Oblivion scripters. NifSE allows scripters to read and modify nif files during the game through scripts, and does so without changing any files on your harddrive or writing any permanent data to the disk!",
     "homepage": "http://www.nexusmods.com/oblivion/mods/21292/"
   },
   {
     "name": "Oblivion Graphics Extender v2",
     "keywords": [
+      "oblivion",
       "OBSE plugin"
     ],
+    "description": "An OBSE plug-in that will increase the eye candy in the game Oblivion.",
     "repository": "https://github.com/scanti/Oblivion-Graphics-Extender-v2"
   },
   {
     "name": "Oblivion Graphics Extender v3",
     "keywords": [
+      "oblivion",
       "OBSE plugin"
     ],
+    "description": "An OBSE plugin that adds extra functionality to Oblivion's scripting language, focussed on the implementation and manipulation of graphics effects. It adds support for fullscreen shaders and extra HUD elements, provides information about graphics memory and screen resolution and allows you to clear some of oblivions textures from graphics memory.",
+    "homepage": "http://www.nexusmods.com/oblivion/mods/30054/",
     "repository": "https://github.com/shadeMe/Oblivion-Graphics-Extender-v3"
   },
   {
     "name": "Oblivion Reloaded",
     "keywords": [
+      "oblivion",
       "OBSE plugin"
     ],
-    "description": "The link is to Alenett's GitHub profile: there are multiple repostories listed there for Oblivion Reloaded",
-    "repository": "https://github.com/Alenett"
-  },
-  {
-    "name": "Refscope",
-    "keywords": [
-      "OBSE plugin"
-    ],
-    "homepage": "http://www.nexusmods.com/oblivion/mods/21862/"
+    "description": "Oblivion Reloaded mainly modifies the rendering pipeline, adding new features and providing screen effects not supported in vanilla Oblivion. This project begins where Oblivion Graphics Extender (OBGE) left off, implementing a series of new features and removing limitations that no longer make sense. OR is the new OBGE version, but it has been re-written to go over the OBGE limitations, removing also the retro compatibility.",
+    "homepage": "http://www.nexusmods.com/oblivion/mods/45749/",
+    "repository": "https://github.com/Alenett/Oblivion-Reloaded-Source"
   },
   {
     "name": "Runtime Debugger",
     "keywords": [
+      "oblivion",
       "OBSE plugin"
     ],
+    "description": "A plugin for the Oblivion Script Extender that adds a full-scale script debugger for the game's runtime.",
+    "description": "http://www.nexusmods.com/oblivion/mods/37105/",
     "repository": "https://github.com/shadeMe/Runtime-Debugger"
   },
   {
     "name": "RuntimeEditorIDs",
     "keywords": [
+      "oblivion",
       "OBSE plugin"
     ],
+    "description": "A plugin for the Oblivion Script Extender that allocates editorIDs for forms during runtime.",
+    "homepage": "http://www.nexusmods.com/oblivion/mods/40132/",
     "repository": "https://github.com/shadeMe/RuntimeEditorIDs"
   },
   {
     "name": "Runtime Script Profiler",
     "keywords": [
+      "oblivion",
       "OBSE plugin"
     ],
+    "description": "A plugin for the Oblivion Script Extender that profiles script execution during runtime",
+    "homepage": "http://www.nexusmods.com/oblivion/mods/41863/",
     "repository": "https://github.com/shadeMe/RuntimeScriptProfiler"
   },
   {
     "name": "shadeMe",
     "keywords": [
+      "oblivion",
       "OBSE plugin"
     ],
+    "description": "An OBSE plugin that adds dynamic shadows to all entities in Tamriel.",
+    "homepage": "http://www.nexusmods.com/oblivion/mods/45043/",
     "repository": "https://github.com/shadeMe/shadeMe"
   },
   {
     "name": "Trifle",
     "keywords": [
+      "oblivion",
       "OBSE plugin"
     ],
+    "description": "An omnibus OBSE plugin.",
+    "homepage": "http://www.nexusmods.com/oblivion/mods/44108/",
     "repository": "https://github.com/shadeMe/Trifle"
   },
   {
     "name": "Universal Silent Voice",
     "keywords": [
+      "oblivion",
       "OBSE plugin"
     ],
+    "description": "This OBSE plugin makes Oblivion play a 8 seconds duration silent voice for any missing voice files and use generic lips movements for 8 seconds for any missing lip synchronization files.",
     "homepage": "http://www.nexusmods.com/oblivion/mods/16622/"
   },
   {
