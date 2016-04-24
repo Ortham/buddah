@@ -349,142 +349,305 @@
   {
     "name": "Mod Conflict Detector",
     "keywords": [
-      "mod management"
+      "oblivion",
+      "conflict detection",
+      "gui"
     ],
+    "description": "A stand alone version of the conflict detector used by oblivion mod manager",
     "homepage": "http://www.nexusmods.com/oblivion/mods/2579/"
   },
   {
     "name": "Mod Organizer",
     "keywords": [
-      "mod management"
+      "oblivion",
+      "skyrim",
+      "fallout 3",
+      "fallout new vegas",
+      "mod management",
+      "gui"
     ],
+    "description": "Mod Organizer (MO) is a tool for managing mod collections of arbitrary size. It is specifically designed for people who like to experiment with mods and thus need an easy and reliable way to install and uninstall them.",
     "repository": "https://github.com/TanninOne/modorganizer"
   },
   {
     "name": "Morrowind Mod File Remover",
     "keywords": [
-      "mod management"
+      "morrowind",
+      "mod management",
+      "gui"
     ],
     "repository": "https://github.com/Yacoby/Morrowind-Mod-File-Remover"
   },
   {
     "name": "Multiple Oblivion Manager",
     "keywords": [
-      "mod management"
+      "oblivion",
+      "mod management",
+      "gui"
     ],
+    "description": "MOM is a new take on managing multiple Oblivion installs. It's a small app with a powerful punch that will ease the confusion of trying to manually switch between two or more Oblivion setups.",
     "homepage": "http://www.nexusmods.com/oblivion/mods/41271/"
   },
   {
     "name": "Nexus Mod Manager",
     "keywords": [
-      "mod management"
+      "morrowind",
+      "oblivion",
+      "skyrim",
+      "the elder scrolls online",
+      "fallout 3",
+      "fallout new vegas",
+      "fallout 4",
+      "dragon age",
+      "dragon age 2",
+      "the witcher 2",
+      "the witcher 3",
+      "dark souls",
+      "dark souls 2",
+      "world of tanks",
+      "x rebirth",
+      "starbound",
+      "dragon's dogma dark arisen",
+      "xcom 2",
+      "war thunder",
+      "state of decay",
+      "legend of grimrock",
+      "mod management",
+      "gui"
     ],
-    "homepage": "http://www.nexusmods.com/skyrim/mods/modmanager/"
+    "description": "The Nexus Mod Manager (NMM) is a free and open source piece of software that allows you to download, install, update and manage your files through an easy to use interface. It integrates with the Nexus sites to provide you with a fast, efficient and much less hassled modding experience.",
+    "homepage": "http://www.nexusmods.com/skyrim/mods/modmanager/",
+    "repository": "https://github.com/Nexus-Mods/Nexus-Mod-Manager"
   },
   {
     "name": "Oblivion Mod Manager",
     "keywords": [
-      "mod management"
+      "oblivion",
+      "mod management",
+      "gui"
     ],
-    "homepage": "http://www.nexusmods.com/oblivion/mods/2097/"
+    "description": "This is a utility for managing plugins, and also for packing them for distribution. It can be used either as an enhanced version of the oblivion launcher's data files selector, or as a more advanced mod manager when mods are specially packed into omod files.",
+    "homepage": "http://www.nexusmods.com/oblivion/mods/2097/",
+    "repository": "http://www.nexusmods.com/oblivion/mods/2097/"
   },
   {
     "name": "Oblivion Mod Manager Extended",
     "keywords": [
-      "mod management"
+      "oblivion",
+      "mod management",
+      "gui"
     ],
-    "homepage": "http://www.nexusmods.com/oblivion/mods/32277/"
+    "homepage": "http://www.nexusmods.com/oblivion/mods/32277/",
+    "repository": "http://www.nexusmods.com/oblivion/mods/32277/"
   },
   {
     "name": "Skyrim Package Manager",
     "keywords": [
-      "mod management"
+      "skyrim",
+      "mod management",
+      "cli"
     ],
     "repository": "https://github.com/Yacoby/skyrim-package-manager"
   },
   {
     "name": "Skyrim Profile Manager",
     "keywords": [
-      "mod management"
+      "skyrim",
+      "mod management",
+      "gui"
     ],
     "repository": "https://github.com/camvr/Skyrim-Profile-Manager"
   },
   {
     "name": "SLOT",
     "keywords": [
-      "mod management"
+      "oblivion",
+      "skyrim",
+      "fallout 3",
+      "fallout new vegas",
+      "fallout 4",
+      "load order",
+      "gui"
     ],
+    "description": "Structured Load Order Tool - a load order sorting tool for sorting ESP file load orders for Bethesda games.",
     "repository": "https://github.com/matortheeternal/SLOT"
   },
   {
     "name": "smash",
     "keywords": [
-      "mod management"
+      "oblivion",
+      "skyrim",
+      "fallout 3",
+      "fallout new vegas",
+      "conflict detection",
+      "gui"
     ],
+    "description": "An application that provides a means of performing automatic conflict resolution between multiple Bethesda Plugin Files for Skyrim, Oblivion, Fallout 3, and Fallout New Vegas.",
+    "homepage": "https://github.com/matortheeternal/smash",
     "repository": "https://github.com/matortheeternal/smash"
   },
   {
     "name": "Wrye Bash",
     "keywords": [
-      "mod management"
+      "oblivion",
+      "skyrim",
+      "mod management",
+      "gui"
     ],
-    "repository": "https://github.com/wrye-bash"
+    "description": "Wrye Bash is a mod management utility for Oblivion and Skyrim with a rich set of features.",
+    "homepage": "https://github.com/wrye-bash/wrye-bash",
+    "repository": "https://github.com/wrye-bash/wrye-bash"
   },
   {
     "name": "Wrye Mash",
     "keywords": [
-      "mod management"
+      "morrowind",
+      "mod management",
+      "gui"
     ],
     "repository": "https://github.com/Yacoby/Wrye-Mash"
   },
   {
     "name": "FalloutSnip",
     "keywords": [
-      "plugin editing"
+      "fallout 4",
+      "esp / esm editor"
     ],
+    "description": "FalloutSnip is a fork of the TESVSnip which was itself a fork of the TESsnip utility bundled with Fallout Mod Manager with changes specifically for Fallout 4.",
+    "homepage": "https://github.com/figment/falloutsnip",
     "repository": "https://github.com/figment/falloutsnip"
   },
   {
     "name": "Merge Plugins",
     "keywords": [
-      "plugin editing"
+      "oblivion",
+      "skyrim",
+      "fallout 3",
+      "fallout new vegas",
+      "esp / esm editor",
+      "gui"
     ],
+    "description": "Merge Plugins Standalone (or just Merge Plugins), is a tool for combining mods from Bethesda games which have .ESP/.ESM files.",
+    "homepage": "https://github.com/matortheeternal/merge-plugins",
     "repository": "https://github.com/matortheeternal/merge-plugins"
-  },
-  {
-    "name": "ObEdit",
-    "keywords": [
-      "plugin editing"
-    ],
-    "repository": "https://github.com/uesp/obedit"
   },
   {
     "name": "SkyEdit",
     "keywords": [
-      "plugin editing"
+      "skyrim",
+      "esp / esm editor",
+      "gui"
     ],
+    "description": "SkyEdit is an alternate editor for The Elder Scrolls: Skyrim, similar to the official \"Creation Kit\".",
+    "homepage": "http://www.uesp.net/wiki/Tes5Mod:SkyEdit",
     "repository": "https://github.com/uesp/skyedit"
   },
   {
-    "name": "TES5Edit",
+    "name": "xEdit",
     "keywords": [
-      "plugin editing"
+      "oblivion",
+      "skyrim",
+      "fallout 3",
+      "fallout new vegas",
+      "esp / esm editor",
+      "gui"
     ],
-    "description": "Also the TES4Edit, FO3Edit, FNVEdit, FO4Edit, xLODGen and xDump variants.",
-    "repository": "https://github.com/TES5Edit"
+    "description": "xEdit (TES5Edit, TES4Edit, FO3Edit, FNVEdit) is an advanced graphical .esp and .esm file editor and conflict detector.",
+    "homepage": "https://github.com/TES5Edit/TES5Edit",
+    "repository": "https://github.com/TES5Edit/TES5Edit"
+  },
+  {
+    "name": "TES4LODGen",
+    "keywords": [
+      "oblivion",
+      "lod",
+      "gui"
+    ],
+    "description": "This tool allows to generate Objects LOD for worldspace(s) by scanning all mods in load order that add visible from distant objects.",
+    "homepage": "http://www.nexusmods.com/oblivion/mods/15781/",
+    "repository": "https://github.com/TES5Edit/xLODGen"
+  },
+  {
+    "name": "TES5LODGen",
+    "keywords": [
+      "skyrim",
+      "lod",
+      "gui"
+    ],
+    "description": "This tool allows to generate Objects LOD for worldspace(s) by scanning all mods in load order that add visible from distant objects.",
+    "homepage": "http://www.nexusmods.com/skyrim/mods/62698/",
+    "repository": "https://github.com/TES5Edit/xLODGen"
+  },
+  {
+    "name": "FO3LODGen",
+    "keywords": [
+      "fallout 3",
+      "lod",
+      "gui"
+    ],
+    "description": "This tool allows to generate Objects LOD for worldspace(s) by scanning all mods in load order that add visible from distant objects.",
+    "homepage": "http://www.nexusmods.com/fallout3/mods/21174/",
+    "repository": "https://github.com/TES5Edit/xLODGen"
+  },
+  {
+    "name": "FNVLODGen",
+    "keywords": [
+      "fallout new vegas",
+      "lod",
+      "gui"
+    ],
+    "description": "This tool allows to generate Objects LOD for worldspace(s) by scanning all mods in load order that add visible from distant objects.",
+    "homepage": "http://www.nexusmods.com/newvegas/mods/58562/",
+    "repository": "https://github.com/TES5Edit/xLODGen"
+  },
+  {
+    "name": "TES3Edit",
+    "keywords": [
+      "morrowind",
+      "esp / esm editor",
+      "gui"
+    ],
+    "description": "Adaptation of xEdit for Morrowind.",
+    "repository": "https://github.com/TES5Edit/TES3Edit"
   },
   {
     "name": "TES5EditScripts",
     "keywords": [
-      "plugin editing"
+      "skyrim",
+      "xedit scripts"
     ],
+    "description": "A collection of TES5Edit/FNVEdit scripts for modders.",
     "repository": "https://github.com/matortheeternal/TES5EditScripts"
+  },
+  {
+    "name": "xEditScripts",
+    "keywords": [
+      "oblivion",
+      "skyrim",
+      "fallout 3",
+      "fallout new vegas",
+      "xedit scripts"
+    ],
+    "description": "A collection of xEdit scripts for experienced xEdit users.",
+    "repository": "https://github.com/TES5Edit/xEditScripts"
+  },
+  {
+    "name": "TESVESSE",
+    "keywords": [
+      "skyrim",
+      "save game editor"
+    ],
+    "description": "TESV save game editor",
+    "repository": "https://github.com/TES5Edit/TESVESSE"
   },
   {
     "name": "TESVSnip",
     "keywords": [
-      "plugin editing"
+      "skyrim",
+      "esp / esm editor",
+      "gui"
     ],
+    "description": "Skyrim fork of the Fallout Mod Manager TESsnip dialog.",
     "repository": "https://github.com/figment/tesvsnip"
   },
   {
@@ -1091,7 +1254,7 @@
     "keywords": [
       "skyrim",
       "fallout 4",
-      "plugin editing"
+      "esp / esm editor"
     ],
     "description": "The Patcher is a tool that allows automatic creation of plugin files for games The Elder Scrolls V: Skyrim and Fallout 4 according to predefined rules provided by the user or a third party.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/70197/",
