@@ -147,9 +147,10 @@
     "name": "BSA Unpacker",
     "keywords": [
       "BSA",
+      "oblivion",
       "gui"
     ],
-    "homepage": "BSA (Bethesda Softworks Archive) Unpacker",
+    "description": "BSA (Bethesda Softworks Archive) Unpacker",
     "repository": "https://github.com/pseudoh/BSAUnPacker"
   },
   {
