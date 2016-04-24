@@ -58,7 +58,7 @@
       "fallout new vegas",
       "cli"
     ],
-    "description": "BSA# is a managed implementation of the BSA format that allows for efficient in-memory reading, writing, and manipulation of Bethesda Archives.",
+    "description": "A managed implementation of the BSA format that allows for efficient in-memory reading, writing, and manipulation of Bethesda Archives.",
     "repository": "https://github.com/jzebedee/bsasharp"
   },
   {
@@ -129,7 +129,7 @@
       "fallout 3",
       "fallout new vegas"
     ],
-    "description": "BSAopt is a tool which manages and recompresses BSA-files. It has been forked off NIFopt and both programs share the same underlying technology regarding BSAs. Both programs treat BSAs exactly like directories, files inside can be adressed easily.",
+    "description": "A tool which manages and recompresses BSA-files. It has been forked off NIFopt and both programs share the same underlying technology regarding BSAs. Both programs treat BSAs exactly like directories, files inside can be adressed easily.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/247/",
     "repository": "https://github.com/Ethatron/bsaopt"
   },
@@ -191,7 +191,7 @@
       "fallout 3",
       "fallout new vegas"
     ],
-    "description": "This is a BSA archive utility for Fallout 3. You can display the files in an archive, extract all files from the archive, extract selected files/directories from the archive, and create a new archive.",
+    "description": "A BSA archive utility for Fallout 3. You can display the files in an archive, extract all files from the archive, extract selected files/directories from the archive, and create a new archive.",
     "homepage": "http://www.nexusmods.com/fallout3/mods/34/"
   },
   {
@@ -357,7 +357,7 @@
     "homepage": "http://www.nexusmods.com/oblivion/mods/2579/"
   },
   {
-    "name": "Mod Organizer",
+    "name": "Mod Organizer (MO)",
     "keywords": [
       "oblivion",
       "skyrim",
@@ -366,7 +366,7 @@
       "mod management",
       "gui"
     ],
-    "description": "Mod Organizer (MO) is a tool for managing mod collections of arbitrary size. It is specifically designed for people who like to experiment with mods and thus need an easy and reliable way to install and uninstall them.",
+    "description": "A tool for managing mod collections of arbitrary size. It is specifically designed for people who like to experiment with mods and thus need an easy and reliable way to install and uninstall them.",
     "repository": "https://github.com/TanninOne/modorganizer"
   },
   {
@@ -379,17 +379,17 @@
     "repository": "https://github.com/Yacoby/Morrowind-Mod-File-Remover"
   },
   {
-    "name": "Multiple Oblivion Manager",
+    "name": "Multiple Oblivion Manager (MOM)",
     "keywords": [
       "oblivion",
       "mod management",
       "gui"
     ],
-    "description": "MOM is a new take on managing multiple Oblivion installs. It's a small app with a powerful punch that will ease the confusion of trying to manually switch between two or more Oblivion setups.",
+    "description": "A new take on managing multiple Oblivion installs. It's a small app with a powerful punch that will ease the confusion of trying to manually switch between two or more Oblivion setups.",
     "homepage": "http://www.nexusmods.com/oblivion/mods/41271/"
   },
   {
-    "name": "Nexus Mod Manager",
+    "name": "Nexus Mod Manager (NMM)",
     "keywords": [
       "morrowind",
       "oblivion",
@@ -415,7 +415,7 @@
       "mod management",
       "gui"
     ],
-    "description": "The Nexus Mod Manager (NMM) is a free and open source piece of software that allows you to download, install, update and manage your files through an easy to use interface. It integrates with the Nexus sites to provide you with a fast, efficient and much less hassled modding experience.",
+    "description": "A free and open source piece of software that allows you to download, install, update and manage your files through an easy to use interface. It integrates with the Nexus sites to provide you with a fast, efficient and much less hassled modding experience.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/modmanager/",
     "repository": "https://github.com/Nexus-Mods/Nexus-Mod-Manager"
   },
@@ -426,7 +426,7 @@
       "mod management",
       "gui"
     ],
-    "description": "This is a utility for managing plugins, and also for packing them for distribution. It can be used either as an enhanced version of the oblivion launcher's data files selector, or as a more advanced mod manager when mods are specially packed into omod files.",
+    "description": "A utility for managing plugins, and also for packing them for distribution. It can be used either as an enhanced version of the oblivion launcher's data files selector, or as a more advanced mod manager when mods are specially packed into omod files.",
     "homepage": "http://www.nexusmods.com/oblivion/mods/2097/",
     "repository": "http://www.nexusmods.com/oblivion/mods/2097/"
   },
@@ -459,7 +459,7 @@
     "repository": "https://github.com/camvr/Skyrim-Profile-Manager"
   },
   {
-    "name": "SLOT",
+    "name": "Structured Load Order Tool (SLOT)",
     "keywords": [
       "oblivion",
       "skyrim",
@@ -469,7 +469,7 @@
       "load order",
       "gui"
     ],
-    "description": "Structured Load Order Tool - a load order sorting tool for sorting ESP file load orders for Bethesda games.",
+    "description": "A load order sorting tool for sorting ESP file load orders for Bethesda games.",
     "repository": "https://github.com/matortheeternal/SLOT"
   },
   {
@@ -494,7 +494,7 @@
       "mod management",
       "gui"
     ],
-    "description": "Wrye Bash is a mod management utility for Oblivion and Skyrim with a rich set of features.",
+    "description": "A mod management utility for Oblivion and Skyrim with a rich set of features.",
     "homepage": "https://github.com/wrye-bash/wrye-bash",
     "repository": "https://github.com/wrye-bash/wrye-bash"
   },
@@ -513,7 +513,7 @@
       "fallout 4",
       "esp / esm editor"
     ],
-    "description": "FalloutSnip is a fork of the TESVSnip which was itself a fork of the TESsnip utility bundled with Fallout Mod Manager with changes specifically for Fallout 4.",
+    "description": "A fork of the TESVSnip which was itself a fork of the TESsnip utility bundled with Fallout Mod Manager with changes specifically for Fallout 4.",
     "homepage": "https://github.com/figment/falloutsnip",
     "repository": "https://github.com/figment/falloutsnip"
   },
@@ -527,7 +527,7 @@
       "esp / esm editor",
       "gui"
     ],
-    "description": "Merge Plugins Standalone (or just Merge Plugins), is a tool for combining mods from Bethesda games which have .ESP/.ESM files.",
+    "description": "A tool for combining mods from Bethesda games which have .ESP/.ESM files.",
     "homepage": "https://github.com/matortheeternal/merge-plugins",
     "repository": "https://github.com/matortheeternal/merge-plugins"
   },
@@ -538,7 +538,7 @@
       "esp / esm editor",
       "gui"
     ],
-    "description": "SkyEdit is an alternate editor for The Elder Scrolls: Skyrim, similar to the official \"Creation Kit\".",
+    "description": "An alternate editor for The Elder Scrolls: Skyrim, similar to the official \"Creation Kit\".",
     "homepage": "http://www.uesp.net/wiki/Tes5Mod:SkyEdit",
     "repository": "https://github.com/uesp/skyedit"
   },
@@ -563,7 +563,7 @@
       "lod",
       "gui"
     ],
-    "description": "This tool allows to generate Objects LOD for worldspace(s) by scanning all mods in load order that add visible from distant objects.",
+    "description": "Allows you to generate Objects LOD for worldspace(s) by scanning all mods in load order that add visible from distant objects.",
     "homepage": "http://www.nexusmods.com/oblivion/mods/15781/",
     "repository": "https://github.com/TES5Edit/xLODGen"
   },
@@ -574,7 +574,7 @@
       "lod",
       "gui"
     ],
-    "description": "This tool allows to generate Objects LOD for worldspace(s) by scanning all mods in load order that add visible from distant objects.",
+    "description": "Allows you to generate Objects LOD for worldspace(s) by scanning all mods in load order that add visible from distant objects.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/62698/",
     "repository": "https://github.com/TES5Edit/xLODGen"
   },
@@ -585,7 +585,7 @@
       "lod",
       "gui"
     ],
-    "description": "This tool allows to generate Objects LOD for worldspace(s) by scanning all mods in load order that add visible from distant objects.",
+    "description": "Allows you to generate Objects LOD for worldspace(s) by scanning all mods in load order that add visible from distant objects.",
     "homepage": "http://www.nexusmods.com/fallout3/mods/21174/",
     "repository": "https://github.com/TES5Edit/xLODGen"
   },
@@ -596,7 +596,7 @@
       "lod",
       "gui"
     ],
-    "description": "This tool allows to generate Objects LOD for worldspace(s) by scanning all mods in load order that add visible from distant objects.",
+    "description": "Allows you to generate Objects LOD for worldspace(s) by scanning all mods in load order that add visible from distant objects.",
     "homepage": "http://www.nexusmods.com/newvegas/mods/58562/",
     "repository": "https://github.com/TES5Edit/xLODGen"
   },
@@ -635,7 +635,7 @@
     "name": "TESVESSE",
     "keywords": [
       "skyrim",
-      "save game editor"
+      "save file editor"
     ],
     "description": "TESV save game editor",
     "repository": "https://github.com/TES5Edit/TESVESSE"
@@ -667,7 +667,7 @@
       "XWM conversion",
       "gui"
     ],
-    "description": "Xwm Ninja is a tool that converts between xWMA (*.xwm) and a variety of other formats.",
+    "description": "A tool that converts between xWMA (*.xwm) and a variety of other formats.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/53132/"
   },
   {
@@ -676,7 +676,7 @@
       "DDS",
       "gui"
     ],
-    "description": "DDSopt is a tool which manages and recompressed DDS-files. It has been forked off NIFopt and both programm share the same underlying technology regarding DDSs and BSAs.",
+    "description": "A tool which manages and recompressed DDS-files. It has been forked off NIFopt and both programm share the same underlying technology regarding DDSs and BSAs.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/5755/",
     "repository": "https://github.com/Ethatron/ddsopt"
   },
@@ -687,7 +687,7 @@
       "skyrim",
       "cli"
     ],
-    "description": "This tool enables converting Havok animation from the Skyrim-compatible binary format to the Havok XML format or to the Gamebryo KF animation format.",
+    "description": "Enables converting Havok animation from the Skyrim-compatible binary format to the Havok XML format or to the Gamebryo KF animation format.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/1797/",
     "repository": "https://github.com/figment/hkxcmd"
   },
@@ -706,7 +706,7 @@
       "NIF",
       "gui"
     ],
-    "description": "NifSkope is a tool for opening and editing the NetImmerse file format (NIF). NIF is used by video games such as Morrowind, Oblivion, Skyrim, Fallout 3, Fallout: New Vegas, Civilization IV, and more.",
+    "description": "A tool for opening and editing the NetImmerse file format (NIF). NIF is used by video games such as Morrowind, Oblivion, Skyrim, Fallout 3, Fallout: New Vegas, Civilization IV, and more.",
     "homepage": "https://github.com/niftools/nifskope",
     "repository": "https://github.com/niftools/nifskope"
   },
@@ -716,12 +716,12 @@
       "NIF",
       "blender plugin"
     ],
-    "description": "The Blender NIF Plugin is a Blender addon to enable import and export of the .Nif File Format.",
+    "description": "A Blender addon to enable import and export of the .Nif File Format.",
     "homepage": "https://github.com/niftools/nifskope",
     "repository": "https://github.com/niftools/nifskope"
   },
   {
-    "name": "PyFFI",
+    "name": "Python File Format Interface (PyFFI)",
     "keywords": [
       "NIF",
       "DDS",
@@ -730,7 +730,7 @@
       "EGM",
       "TGA"
     ],
-    "description": "The Python File Format Interface is a Python library for processing block structured files.",
+    "description": "A Python library for processing block structured files.",
     "homepage": "https://github.com/niftools/pyffi",
     "repository": "https://github.com/niftools/pyffi"
   },
@@ -785,7 +785,7 @@
       "load order",
       "gui"
     ],
-    "description": "The BOSS Userlist Manager (BUM) helps you manage your mod load order for Skyrim, Oblivion, Nehrim, Fallout3 and FalloutNV. It uses BOSS Userlist rules to customise the order in which mods should be loaded and allows you to specify the load order for unknown mods without editing the BOSS Masterlist.",
+    "description": "Helps you manage your mod load order for Skyrim, Oblivion, Nehrim, Fallout3 and FalloutNV. It uses BOSS Userlist rules to customise the order in which mods should be loaded and allows you to specify the load order for unknown mods without editing the BOSS Masterlist.",
     "repository": "http://www.nexusmods.com/oblivion/mods/29790/"
   },
   {
@@ -794,7 +794,7 @@
       "LOD",
       "gui"
     ],
-    "description": "Dynamic Distant Objects LOD (DynDOLOD) is a set of tools based on TES5Edit and TES5LODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects to Skyrim. By combining DynDOLOD with TES5LODGen users can create drastically enhanced traditional static LOD plus tree LOD and a new, optional dynamic distant object LOD in a few 'simple' steps.",
+    "description": "A set of tools based on TES5Edit and TES5LODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects to Skyrim.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/59721/"
   },
   {
@@ -812,7 +812,7 @@
       "performance",
       "gui"
     ],
-    "description": "The Fallout Performance Monitor is a utility used for tracking Fallout 4’s system resource usage as they relate to the game engine, your system hardware, and installed mods.",
+    "description": "A utility used for tracking Fallout 4’s system resource usage as they relate to the game engine, your system hardware, and installed mods.",
     "homepage": "http://www.nexusmods.com/fallout4/mods/1762/"
   },
   {
@@ -824,11 +824,11 @@
       "api",
       "cli"
     ],
-    "description": "lltool provides several methods and algorithms for heightmap manipulation and terrain triangulation.",
+    "description": "Provides several methods and algorithms for heightmap manipulation and terrain triangulation.",
     "repository": "https://github.com/Gruftikus/lltool"
   },
   {
-    "name": "Multi Purpose GUI",
+    "name": "Multi Purpose GUI (MPGUI)",
     "keywords": [
       "LOD",
       "morrowind",
@@ -837,7 +837,7 @@
       "fallout 3",
       "gui"
     ],
-    "description": "MPGUI (Multi Purpose GUI) aims to be a graphical frontend for various command-line based tools such as Lightwaves TESAnnwyn or TES4qLOD.",
+    "description": "Aims to be a graphical frontend for various command-line based tools such as Lightwaves TESAnnwyn or TES4qLOD.",
     "homepage": "http://www.nexusmods.com/oblivion/mods/41447/",
     "repository": "https://github.com/Gruftikus/mpgui"
   },
@@ -878,211 +878,305 @@
   {
     "name": "Save Game Script Cleaner",
     "keywords": [
-      "utility"
+      "save file",
+      "scripting",
+      "skyrim",
+      "gui"
     ],
-    "homepage": "http://www.nexusmods.com/skyrim/mods/52363/"
+    "description": "This tool can remove selected Papyrus scripts from a save game file",
+    "homepage": "http://www.nexusmods.com/skyrim/mods/52363/",
+    "repository": "http://www.nexusmods.com/skyrim/mods/52363/"
   },
   {
     "name": "SkyBoost",
     "keywords": [
-      "utility"
+      "skyrim",
+      "performance"
     ],
+    "description": "Boosts Skyrim via replacing most bottleneck code parts in the executable at runtime.",
     "homepage": "http://www.dev-c.com/skyrim/skyboost/"
   },
   {
     "name": "Skyrim Performance Monitor",
     "keywords": [
-      "utility"
+      "skyrim",
+      "performance",
+      "gui"
     ],
+    "description": "A utility used for tracking Skyrim’s system resource usage as it relates to INI settings and installed mods. ",
     "homepage": "http://www.nexusmods.com/skyrim/mods/6491/"
   },
   {
     "name": "StrEdit",
     "keywords": [
-      "utility"
+      "skyrim",
+      "strings file",
+      "translation",
+      "gui"
     ],
+    "description": "A minimalistic editor of the string table files that TES V: Skyrim plugins use to provide support for multiple languages. StrEdit can be used to create or update translations of string tables, without requiring their associated plugin to be present.",
+    "homepage": "http://skyrim.nexusmods.com/mods/28365/",
     "repository": "https://github.com/WrinklyNinja/stredit"
   },
   {
     "name": "TES4Files",
     "keywords": [
-      "utility"
+      "mod packager",
+      "oblivion",
+      "gui"
     ],
+    "description": "A tool that packages a mod for you, all you do is tell it what ESM/ESP file to package and poof all the files are copied into a subdirectory suitable for zipping or compressing and sending off.",
     "homepage": "http://straygenius.com/index.php?title=TES4Files"
   },
   {
     "name": "TES4Gecko",
     "keywords": [
-      "utility"
+      "oblivion",
+      "esp / esm editor",
+      "gui"
     ],
+    "description": "Works with The Elder Scrolls IV: Oblivion plugin and master files (*.esp/*.esm). It is designed to let mod-creators manipulate plugin and master files in ways that Bethesda either did not imagine or decided to leave out of the official Construction Set.",
     "homepage": "http://www.nexusmods.com/oblivion/mods/8665/"
-  },
-  {
-    "name": "TES4LL",
-    "keywords": [
-      "LOD",
-      "utility"
-    ],
-    "repository": "https://github.com/Gruftikus/tes4ll"
   },
   {
     "name": "TES Char Tracker",
     "keywords": [
-      "utility"
+      "save file",
+      "skyrim",
+      "fallout 4",
+      "character tracker",
+      "gui"
     ],
+    "description": "Draws your Skyrim/Fallout 4 character movement map.",
+    "homepage": "https://github.com/miere43/tes-char-tracker",
     "repository": "https://github.com/miere43/tes-char-tracker"
   },
   {
     "name": "TESDumpStats",
     "keywords": [
-      "utility"
+      "esp / esm",
+      "oblivion",
+      "skyrim",
+      "fallout 3",
+      "fallout new vegas",
+      "cli"
     ],
+    "description": "Dump very basic statistics about ES plugins (record counts, subrecord counts, etc)",
     "repository": "https://github.com/lojack5/TESDumpStats"
   },
   {
     "name": "The OBSE Launcher",
     "keywords": [
-      "utility"
+      "obse",
+      "launcher",
+      "gui"
     ],
+    "description": "A program to help launching oblivion with or without OBSE.",
     "homepage": "http://www.nexusmods.com/oblivion/mods/6696/"
   },
   {
     "name": "cpp-reorder",
     "keywords": [
-      "load order"
+      "morrowind",
+      "oblivion",
+      "load order",
+      "gui"
     ],
+    "description": "A program for reordering mods.",
     "repository": "https://github.com/Yacoby/cpp-reorder"
   },
   {
     "name": "ES Search",
     "keywords": [
-      "miscellaneous"
+      "oblivion",
+      "skyrim",
+      "search engine"
     ],
+    "description": "A search engine for Morrowind and Oblivion modifcations.",
     "repository": "https://github.com/Yacoby/es-search"
   },
   {
     "name": "Force New Idles in Skyrim (FNIS)",
     "keywords": [
+      "skyrim",
       "animation"
     ],
-    "homepage": "http://www.nexusmods.com/skyrim/mods/11811/"
+    "description": "Allows other mods to add different types of animations to the game: idles/poses, sequenced, arm offset, furniture, and paired animations, killmoves, and creature animations.",
+    "homepage": "http://www.nexusmods.com/skyrim/mods/11811/",
+    "repository": "http://www.nexusmods.com/skyrim/mods/11811/"
   },
   {
     "name": "libloadorder",
     "keywords": [
-      "load order"
+      "morrowind",
+      "oblivion",
+      "skyrim",
+      "fallout 3",
+      "fallout new vegas",
+      "fallout 4",
+      "load order",
+      "api"
     ],
+    "description": "A free software library for manipulating the load order and active status of plugins for TES III: Morrowind, TES IV: Oblivion, TES V: Skyrim, Fallout 3, Fallout: New Vegas and Fallout 4.",
+    "homepage": "https://github.com/WrinklyNinja/libloadorder",
     "repository": "https://github.com/WrinklyNinja/libloadorder"
   },
   {
     "name": "libstrings",
     "keywords": [
-      "localisation"
+      "skyrim",
+      "strings file",
+      "translation",
+      "api"
     ],
+    "description": "A free software library for reading and writing TES V: Skyrim's .STRINGS, .DLSTRINGS and .ILSTRINGS files.",
     "repository": "https://github.com/WrinklyNinja/libstrings"
   },
   {
     "name": "MoreHeap",
     "keywords": [
+      "oblivion",
+      "performance",
       "memory management"
     ],
+    "description": "Allows the user to increase the size of the initially allocated memory block, possibly increasing stability in the process.",
+    "homepage": "http://www.nexusmods.com/oblivion/mods/44985/",
     "repository": "https://github.com/shadeMe/MoreHeap"
   },
   {
     "name": "Oscape",
     "keywords": [
-      "LOD"
+      "oblivion",
+      "skyrim",
+      "LOD",
+      "gui"
     ],
+    "description": "Generates all resources for Oblivion's & Skyrim's LOD: color-maps, normal-maps and meshes at any resolution.",
+    "homepage": "http://www.nexusmods.com/skyrim/mods/4727/",
     "repository": "https://github.com/Ethatron/Oscape"
   },
   {
     "name": "spttools",
     "keywords": [
-      "speedtree"
+      "oblivion",
+      "speedtree",
+      "gui"
     ],
+    "description": "SpeedTreeRT SPT file converter for text editing",
     "repository": "https://github.com/anahuj/spttools"
   },
   {
     "name": "Caprica",
     "keywords": [
-      "scripting"
+      "papyrus",
+      "skyrim",
+      "fallout 4",
+      "scripting",
+      "compiler"
     ],
+    "description": "A compiler for the Papyrus scripting language used by the Creation Engine.",
     "repository": "https://github.com/Orvid/Caprica"
   },
   {
     "name": "Champollion",
     "keywords": [
-      "scripting"
+      "scripting",
+      "papyrus",
+      "skyrim",
+      "decompiler",
+      "cli"
     ],
-    "description": "For Skyrim",
+    "description": "A PEX to Papyrus Decompiler for Skyrim",
     "homepage": "http://www.nexusmods.com/skyrim/mods/35307/"
   },
   {
     "name": "Champollion",
     "keywords": [
-      "scripting"
+      "scripting",
+      "papyrus",
+      "fallout 4",
+      "decompiler",
+      "cli"
     ],
-    "description": "For Fallout 4",
+    "description": "A PEX to Papyrus Decompiler for Fallout 4",
+    "homepage": "http://www.nexusmods.com/fallout4/mods/3742/",
     "repository": "https://github.com/Orvid/Champollion"
   },
   {
     "name": "scriptdump",
     "keywords": [
-      "scripting"
+      "fallout 4",
+      "scripting",
+      "papyrus",
+      "decompiler",
+      "cli"
     ],
+    "description": "A command-line tool to disassemble pex files",
     "homepage": "http://f4se.silverlock.org/",
     "repository": "http://f4se.silverlock.org/"
   },
   {
     "name": "Papyrus Log Viewer",
     "keywords": [
-      "scripting"
+      "skyrim",
+      "scripting",
+      "gui",
+      "papyrus"
     ],
+    "description": "Papyrus logs can become very large and be cluttered with countless duplicates of each warning or error. This simple log viewer will only show each entry once, making it easier to get an overview and less likely to miss less common entries among all the duplicates.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/42815/"
   },
   {
-    "name": "Fallout 3 Script Extender (FOSE)",
+    "name": "Fallout Script Extender (FOSE)",
     "keywords": [
+      "fallout 3",
       "scripting",
       "script extender"
     ],
-    "description": "",
+    "description": "The Fallout Script Extender, or FOSE for short, is a modder's resource that expands the scripting capabilities of Fallout 3. It does so without modifying the Fallout3.exe or the G.E.C.K. files on disk, so there are no permanent side effects.",
     "homepage": "http://fose.silverlock.org/",
     "repository": "http://fose.silverlock.org/"
   },
   {
     "name": "Fallout 4 Script Extender (F4SE)",
     "keywords": [
+      "fallout 4",
       "scripting",
       "script extender"
     ],
-    "description": "",
+    "description": "The Fallout 4 Script Extender, or F4SE for short, is a modder's resource that expands the scripting capabilities of Fallout 4. It does so without modifying the Fallout4.exe or the G.E.C.K. files on disk, so there are no permanent side effects.",
     "homepage": "http://f4se.silverlock.org/",
     "repository": "http://f4se.silverlock.org/"
   },
   {
     "name": "Four Dragon",
     "keywords": [
+      "fallout 4",
       "scripting",
       "script extender"
     ],
+    "description": "Four Dragon is the custom script engine for Fallout 4 which allows to use Papyrus script events and functions in 3rd party plugins written in any .NET language (C#, VB). User written plugins can be located in plain source files (*.cs/*.vb) or in compiled libraries (*.dll).",
     "homepage": "http://www.dev-c.com/fallout4/fourdragon/"
   },
   {
     "name": "New Vegas Script Extender (NVSE)",
     "keywords": [
+      "fallout new vegas",
       "scripting",
       "script extender"
     ],
+    "description": "The New Vegas Script Extender, or NVSE for short, is a modder's resource that expands the scripting capabilities of Fallout: NV. It does so without modifying the executable files on disk, so there are no permanent side effects.",
     "homepage": "http://nvse.silverlock.org/",
     "repository": "http://nvse.silverlock.org/"
   },
   {
     "name": "Oblivion Script Extender (OBSE)",
     "keywords": [
+      "oblivion",
       "scripting",
       "script extender"
     ],
+    "description": "The Oblivion Script Extender, or OBSE for short, is a modder's resource that expands the scripting capabilities of TES IV: Oblivion. It does so without modifying the executable files on disk, so there are no permanent side effects.",
     "homepage": "http://obse.silverlock.org/",
     "repository": "http://obse.silverlock.org/"
   },
@@ -1092,14 +1186,17 @@
       "scripting",
       "script extender"
     ],
+    "description": "ScriptDragon is Skyrim engine extender, which allows to use Skyrim Papyrus script functions in 3rd party ScriptDragon plugins.",
     "homepage": "http://www.dev-c.com/skyrim/scriptdragon/"
   },
   {
     "name": "Skyrim Script Extender (SKSE)",
     "keywords": [
+      "skyrim",
       "scripting",
       "script extender"
     ],
+    "description": "The Skyrim Script Extender, or SKSE for short, is a modder's resource that expands the scripting capabilities of TES V: Skyrim. It does so without modifying the executable files on disk, so there are no permanent side effects.",
     "homepage": "http://skse.silverlock.org/",
     "repository": "http://skse.silverlock.org/"
   },
@@ -1324,14 +1421,23 @@
   {
     "name": "Elder Scrolls Explorer",
     "keywords": [
+      "morrowind",
+      "oblivion",
+      "skyrim",
+      "fallout 3",
+      "fallout new vegas",
+      "fallout 4",
       "game engine"
     ],
+    "description": "Pure java project for wandering around in the TES games Morrowind, Oblivion, Fallout3, FalloutNV, Skyrim, Fallout 4",
     "repository": "https://github.com/philjord/ElderScrollsExplorer"
   },
   {
     "name": "Fallout 4 Ultimate Tweak Tool",
     "keywords": [
-      "utility"
+      "fallout 4",
+      "ini editor",
+      "gui"
     ],
     "description": "A program to help tweak Fallout 4 .ini settings with a GUI instead of a user editing the .ini files.",
     "homepage": "http://www.nexusmods.com/fallout4/mods/190/?"
@@ -1339,7 +1445,9 @@
   {
     "name": "Fallout 4 Configuration Tool",
     "keywords": [
-      "utility"
+      "fallout 4",
+      "ini editor",
+      "gui"
     ],
     "description": "Another program to change Fallout 4 .ini settings with a GUI.",
     "homepage": "http://www.nexusmods.com/fallout4/mods/102/"
@@ -1358,6 +1466,7 @@
   {
     "name": "Advanced Papyrus",
     "keywords": [
+      "skyrim",
       "creation kit",
       "papyrus",
       "scripting"
@@ -1373,7 +1482,7 @@
       "fallout 4",
       "esp / esm editor"
     ],
-    "description": "The Patcher is a tool that allows automatic creation of plugin files for games The Elder Scrolls V: Skyrim and Fallout 4 according to predefined rules provided by the user or a third party.",
+    "description": "A tool that allows automatic creation of plugin files for games The Elder Scrolls V: Skyrim and Fallout 4 according to predefined rules provided by the user or a third party.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/70197/",
     "repository": "https://github.com/Unforbidable/Patcher/"
   },
@@ -1382,9 +1491,10 @@
     "keywords": [
       "skyrim",
       "papyrus",
-      "scripting"
+      "scripting",
+      "compiler"
     ],
-    "description": "PapyrusDotNet is a papyrus compiler that compiles .NET binaries into papyrus binaries.",
+    "description": "A papyrus compiler that compiles .NET binaries into papyrus binaries.",
     "homepage": "https://github.com/zerratar/PapyrusDotNet",
     "repository": "https://github.com/zerratar/PapyrusDotNet"
   },
