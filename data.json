@@ -47,6 +47,7 @@
       "BSA",
       "gui"
     ],
+    "homepage": "http://www.nexusmods.com/fallout4/mods/78/",
     "repository": "https://github.com/jonwd7/bae"
   },
   {
@@ -65,9 +66,11 @@
     "keywords": [
       "BSA",
       "fallout 3",
+      "fallout new vegas",
       "gui"
     ],
     "description": "Fallout Mod Manager's BSA Browser as a standalone application, with some new features.",
+    "homepage": "http://www.nexusmods.com/skyrim/mods/59553/",
     "repository": "https://github.com/AlexxEG/BSA_Browser"
   },
   {
@@ -78,6 +81,7 @@
       "gui"
     ],
     "description": "Work with oblivion archive files (.bsa) with friendly interface.",
+    "homepage": "http://www.nexusmods.com/oblivion/mods/3311/",
     "repository": "http://letalka.sourceforge.net/morr/index.htm"
   },
   {
@@ -85,6 +89,7 @@
     "keywords": [
       "BSA",
       "fallout 3",
+      "fallout new vegas",
       "morrowind",
       "oblivion",
       "skyrim",
@@ -108,6 +113,7 @@
     "keywords": [
       "BSA",
       "fallout 3",
+      "fallout new vegas",
       "oblivion",
       "skyrim"
     ],
@@ -117,9 +123,14 @@
   {
     "name": "BSAOpt",
     "keywords": [
-      "BSA"
+      "BSA",
+      "oblivion",
+      "skyrim",
+      "fallout 3",
+      "fallout new vegas"
     ],
     "description": "BSAopt is a tool which manages and recompresses BSA-files. It has been forked off NIFopt and both programs share the same underlying technology regarding BSAs. Both programs treat BSAs exactly like directories, files inside can be adressed easily.",
+    "homepage": "http://www.nexusmods.com/skyrim/mods/247/",
     "repository": "https://github.com/Ethatron/bsaopt"
   },
   {
@@ -176,7 +187,8 @@
     "keywords": [
       "BSA",
       "gui",
-      "fallout 3"
+      "fallout 3",
+      "fallout new vegas"
     ],
     "description": "This is a BSA archive utility for Fallout 3. You can display the files in an archive, extract all files from the archive, extract selected files/directories from the archive, and create a new archive.",
     "homepage": "http://www.nexusmods.com/fallout3/mods/34/"
@@ -187,17 +199,26 @@
       "BSA",
       "morrowind",
       "oblivion",
+      "skyrim",
+      "fallout 3",
+      "fallout new vegas",
       "api"
     ],
     "description": "A free software library for reading BSA files.",
     "repository": "https://github.com/WrinklyNinja/libbsa"
   },
   {
-    "name": "Mod Organizer BSA Extractor",
+    "name": "bsatk",
     "keywords": [
-      "BSA"
+      "BSA",
+      "oblivion",
+      "skyrim",
+      "fallout 3",
+      "fallout new vegas",
+      "api"
     ],
-    "repository": "https://github.com/TanninOne/modorganizer-bsa_extractor"
+    "description": "Library to deal with BSA files.",
+    "repository": "https://github.com/TanninOne/modorganizer-bsatk"
   },
   {
     "name": "unbsa4",
@@ -212,72 +233,116 @@
   {
     "name": "Bethesda",
     "keywords": [
-      "plugin parsing"
+      "fallout new vegas",
+      "esp / esm"
     ],
-    "description": "Not official, despite the name.",
+    "description": "Various libraries that can marshal/unmarshal files associated with Bethesda Game Studios games",
     "repository": "https://github.com/acsellers/bethesda"
   },
   {
     "name": "CBash",
     "keywords": [
-      "plugin parsing"
+      "oblivion",
+      "skyrim",
+      "esp / esm"
     ],
+    "description": "CBash fork with partial Skyrim support",
     "repository": "https://github.com/Ethatron/CBash"
   },
   {
     "name": "esptools",
     "keywords": [
-      "plugin parsing"
+      "morrowind",
+      "oblivion",
+      "skyrim",
+      "fallout 3",
+      "fallout new vegas",
+      "esp / esm"
     ],
+    "description": "Tools for Bethesda games mod file formats",
     "repository": "https://github.com/anahuj/esptools"
   },
   {
     "name": "libespm",
     "keywords": [
-      "plugin parsing"
+      "morrowind",
+      "oblivion",
+      "skyrim",
+      "fallout 3",
+      "fallout new vegas",
+      "fallout 4",
+      "esp / esm",
+      "api"
     ],
+    "description": "A free software library for reading Elder Scrolls Plugin (.esp) and Elder Scrolls Master (.esm) files. Libespm focuses on providing a useful API to libloadorder and LOOT, rather than a general-purpose plugin parser.",
     "repository": "https://github.com/WrinklyNinja/libespm"
   },
   {
     "name": "mod-dump",
     "keywords": [
-      "plugin parsing"
+      "oblivion",
+      "skyrim",
+      "fallout 3",
+      "fallout new vegas",
+      "fallout 4",
+      "esp / esm",
+      "cli"
     ],
-    "repository": "https://github.com/matortheeternal"
+    "description": "A command line application to produce compatibility dumps on bethesda plugins built on top of the xEdit codebase.",
+    "repository": "https://github.com/matortheeternal/mod-dump"
   },
   {
     "name": "php-esmparser",
     "keywords": [
-      "plugin parsing"
+      "morrowind",
+      "esp / esm"
     ],
+    "description": "Very low level esm/esp parser",
     "repository": "https://github.com/Yacoby/php-esmparser"
   },
   {
     "name": "SkyProc",
     "keywords": [
-      "plugin parsing"
+      "skyrim",
+      "esp / esm",
+      "api"
     ],
+    "description": "A Java library that offers easy to use Java API for importing, manipulating, and exporting mods.",
     "repository": "https://bitbucket.org/DienesToo/skyproc-library"
   },
   {
     "name": "TES5lib",
     "keywords": [
-      "plugin parsing"
+      "skyrim",
+      "esp / esm",
+      "api"
     ],
     "repository": "https://github.com/uesp/tes5lib"
   },
   {
     "name": "BOSS",
     "keywords": [
-      "mod management"
+      "oblivion",
+      "load order",
+      "gui"
     ],
+    "description": "An automated plugin load order sorting tool for TES IV: Oblivion.",
+    "homepage": "https://boss-developers.github.io/",
     "repository": "https://github.com/boss-developers"
   },
   {
     "name": "LOOT",
     "keywords": [
-      "mod management"
+      "oblivion",
+      "skyrim",
+      "fallout 3",
+      "fallout new vegas",
+      "fallout 4",
+      "load order",
+      "gui"
     ],
+    "description": "A plugin load order optimisation tool for TES IV: Oblivion, TES V: Skyrim, Fallout 3, Fallout: New Vegas and Fallout 4.",
+    "homepage": "https://loot.github.io/",
     "repository": "https://github.com/loot"
   },
   {
