@@ -142,6 +142,7 @@ body > div.container {
 }
 .entry .left-column {
   flex-grow: 1;
+  margin-right: 16px;
 }
 .entry .right-column {
   text-align: right;
