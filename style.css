@@ -186,6 +186,8 @@ body > div.container {
 .entry-keyword {
   color: #757575;
   padding: 4px 8px;
+  display: inline-block;
+  white-space: nowrap;
 }
 .entry-keyword > .octicon {
   margin-right: 4px;
