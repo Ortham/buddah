@@ -33,7 +33,7 @@ The project's name. This is a searchable field.
 
 Type: `Array` of `String`
 
-Keywords for the project. Keywords are searchable.
+Keywords for the project. Keywords are searchable. As a minimum, please supply keywords for the game the software is for, and (if it's not a plugin or extension of some sort) whether it provides a `cli`, `gui` and/or `api`.
 
 ### description
 
