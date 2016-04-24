@@ -1295,7 +1295,7 @@
       "OBSE plugin"
     ],
     "description": "A plugin for the Oblivion Script Extender that adds a full-scale script debugger for the game's runtime.",
-    "description": "http://www.nexusmods.com/oblivion/mods/37105/",
+    "homepage": "http://www.nexusmods.com/oblivion/mods/37105/",
     "repository": "https://github.com/shadeMe/Runtime-Debugger"
   },
   {
