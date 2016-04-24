@@ -120,7 +120,6 @@ body > div.container {
 }
 .keyword {
   display: inline-block;
-  white-space: nowrap;
   margin: 8px;
 }
 .badge {
@@ -160,13 +159,16 @@ body > div.container {
 .entry .right-column {
   text-align: right;
   align-self: center;
+  max-width: 220px;
 }
-@media (max-width: 360px) {
+@media (max-width: 630px) {
   .entry {
-    flex-wrap: wrap;
+    display: block;
   }
   .entry .right-column {
-    margin-top: 16px;
+    margin-top: 14px;
+    text-align: left;
+    max-width: initial;
   }
 }
 .entry h3 {
