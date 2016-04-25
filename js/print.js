@@ -1,4 +1,17 @@
 'use strict';
+function toUrl(license) {
+  var regex = /https?:\/\//;
+  if (regex.test(license)) {
+    return regex;
+  }
+
+  if (license[license.length - 1] === '+') {
+    license = license.substring(0, license.length - 1);
+  }
+
+  return 'https://spdx.org/licenses/' + license + '.html';
+}
+
 function createEntryHtml(entry) {
   var entryDiv = document.createElement('div');
   entryDiv.className = 'entry';
@@ -55,6 +68,21 @@ function createEntryHtml(entry) {
     repositoryLink.textContent = 'Source Code';
 
     rightColumn.appendChild(repositoryLink);
+  }
+
+  if (entry.license) {
+    if (!Array.isArray(entry.license)) {
+      entry.license = [ entry.license ];
+    }
+
+    entry.license.forEach(function(license) {
+      var link = document.createElement('a');
+      link.className = 'license';
+      link.textContent = license;
+      link.href = toUrl(license);
+
+      rightColumn.appendChild(link);
+    });
   }
 
   entryDiv.appendChild(rightColumn);
