@@ -1,8 +1,11 @@
 'use strict';
-function toUrl(license) {
+function isUrl(license) {
   var regex = /https?:\/\//;
-  if (regex.test(license)) {
-    return regex;
+  return regex.test(license);
+}
+function toUrl(license) {
+  if (isUrl(license)) {
+    return license;
   }
 
   if (license[license.length - 1] === '+') {
@@ -78,7 +81,11 @@ function createEntryHtml(entry) {
     entry.license.forEach(function(license) {
       var link = document.createElement('a');
       link.className = 'license';
-      link.textContent = license;
+      if (isUrl(license)) {
+        link.textContent = 'License';
+      } else {
+        link.textContent = license;
+      }
       link.href = toUrl(license);
 
       rightColumn.appendChild(link);
