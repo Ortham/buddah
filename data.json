@@ -1561,5 +1561,99 @@
     ],
     "description": "A rotation library that makes it easier to work with rotation math in Skyrim. Among other things, it can position and rotate one object relative to another for you.",
     "repository": "http://www.creationkit.com/User:DavidJCobb/Rotation_Library"
+  },
+  {
+    "name": "Skyrim DDS Image Viewer",
+    "keywords": [
+      "skyrim",
+      "DDS",
+      "gui"
+    ],
+    "description": "A utility used for viewing the .dds texture files and displaying the details of the DDS image pixel dimensions and file sizes in an orderable list.",
+    "license": "LGPL-2.1",
+    "homepage": "http://www.nexusmods.com/skyrim/mods/30745/"
+  },
+  {
+    "name": "Ini File Editor",
+    "keywords": [
+      "oblivion",
+      "skyrim",
+      "fallout 3",
+      "fallout new vegas",
+      "ini editor",
+      "gui"
+    ],
+    "description": "An advanced config file editor for making updates/tweaks to ini files for games like Skyrim, Fallout 3, Fallout New Vegas, and Oblivion.",
+    "homepage": "http://www.nexusmods.com/skyrim/mods/514/"
+  },
+  {
+    "name": "Nexus Mod Monitor",
+    "keywords": [
+      "mod tracker",
+      "nexus mods",
+      "gui"
+    ],
+    "description": "A utility which allows mod authors to track user activity of their mods.",
+    "homepage": "http://www.nexusmods.com/skyrim/mods/44397/"
+  },
+  {
+    "name": "TESVTranslator",
+    "keywords": [
+      "translation",
+      "gui",
+      "skyrim"
+    ],
+    "description": "An advanced editor for translate mod built with automatic translation logic in mind, and allows easy translation updates.",
+    "homepage": "http://www.nexusmods.com/skyrim/mods/29148/",
+    "repository": "http://www.nexusmods.com/skyrim/mods/29148/"
+  },
+  {
+    "name": "Fallout4Translator ",
+    "keywords": [
+      "translation",
+      "gui",
+      "fallout 4"
+    ],
+    "description": "An advanced editor for translate mod built with automatic translation logic in mind, and allows easy translation updates.",
+    "homepage": "http://www.nexusmods.com/fallout4/mods/215/",
+    "repository": "http://www.nexusmods.com/fallout4/mods/215/"
+  },
+  {
+    "name": "PapyrusED",
+    "keywords": [
+      "papyrus",
+      "scripting",
+      "skyrim",
+      "gui",
+      "compiler",
+      "editor"
+    ],
+    "description": "A script-editor for Papyrus.",
+    "homepage": "http://www.nexusmods.com/skyrim/mods/49517/"
+  },
+  {
+    "name": "BodySlide and Outfit Studio",
+    "keywords": [
+      "NIF",
+      "animation",
+      "oblivion",
+      "skyrim",
+      "fallout 3",
+      "fallout new vegas",
+      "gui"
+    ],
+    "description": "BodySlide and Outfit Studio, a tool to convert, create, and customize outfits and bodies for Bethesda games.",
+    "license": "GPL-3.0+",
+    "homepage": "http://www.nexusmods.com/skyrim/mods/49015/",
+    "repository": "https://github.com/ousnius/BodySlide-and-Outfit-Studio"
+  },
+  {
+    "name": "Mfg Console",
+    "keywords": [
+      "skyrim",
+      "skse plugin"
+    ],
+    "description": "This mod resurrects \"mfg phoneme/modifier\" console command and playerBlink at Skyrim ver.1.9.32 again, and adds some information window, some commands and customizable command-alias to the console.",
+    "homepage": "http://www.nexusmods.com/skyrim/mods/44596/"
   }
 ]
