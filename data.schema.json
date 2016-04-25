@@ -25,6 +25,14 @@
         "description": "The short description of a project",
         "type": "string"
       },
+      "license": {
+        "description": "The license or licenses under which the project is licensed",
+        "type": ["string", "array"],
+        "items": {
+          "id": "A SPDX license identifier, or a URL to a license if it has no SPDX identifier",
+          "type": "string"
+        }
+      },
       "homepage": {
         "description": "The URL of a project's homepage, for example a website or Nexus Mods file entry URL",
         "type": "string",
