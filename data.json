@@ -27,6 +27,7 @@
       "fallout 4",
       "api"
     ],
+    "license": "https://github.com/digitalutopia1/BA2Lib/blob/master/LICENSE.txt",
     "description": "A .NET CLI/C++ Wrapper around a C++ class for opening and extracting files from Bethesda's BA2 archive format.",
     "repository": "https://github.com/digitalutopia1/BA2Lib"
   },
@@ -37,6 +38,7 @@
       "fallout 4",
       "api"
     ],
+    "license": "WTFPL",
     "description": "Provides managed access to BA2 archives.",
     "repository": "https://github.com/miere43/ba2tools"
   },
@@ -58,6 +60,7 @@
       "fallout new vegas",
       "cli"
     ],
+    "license": "MIT",
     "description": "A managed implementation of the BSA format that allows for efficient in-memory reading, writing, and manipulation of Bethesda Archives.",
     "repository": "https://github.com/jzebedee/bsasharp"
   },
@@ -69,6 +72,7 @@
       "fallout new vegas",
       "gui"
     ],
+    "license": "GPL-3.0",
     "description": "Fallout Mod Manager's BSA Browser as a standalone application, with some new features.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/59553/",
     "repository": "https://github.com/AlexxEG/BSA_Browser"
@@ -105,6 +109,7 @@
       "BA2",
       "gui"
     ],
+    "license": "BSD-3-Clause",
     "description": "Manager program for the Bethesda Softworks Archives (BSA). Made by ousnius.",
     "repository": "https://github.com/ousnius/BSA-Manager"
   },
@@ -117,6 +122,7 @@
       "oblivion",
       "skyrim"
     ],
+    "license": "LGPL-3.0",
     "description": "This project allows you to open the media files (*.bsa) for the Bethesda games Oblivion, Fallout 3 and Skyrim. Made by philjord.",
     "repository": "https://github.com/philjord/BSAManager"
   },
@@ -129,6 +135,10 @@
       "fallout 3",
       "fallout new vegas"
     ],
+    "license": [
+      "MPL-1.1",
+      "LGPL-3.0"
+    ],
     "description": "A tool which manages and recompresses BSA-files. It has been forked off NIFopt and both programs share the same underlying technology regarding BSAs. Both programs treat BSAs exactly like directories, files inside can be adressed easily.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/247/",
     "repository": "https://github.com/Ethatron/bsaopt"
@@ -140,6 +150,7 @@
       "arena",
       "gui"
     ],
+    "license": "GPL-3.0",
     "description": "Tool to edit various files in TES1: Arena.",
     "repository": "https://github.com/Dysperia/BSATool"
   },
@@ -205,6 +216,7 @@
       "fallout new vegas",
       "api"
     ],
+    "license": "GPL-3.0",
     "description": "A free software library for reading BSA files.",
     "repository": "https://github.com/WrinklyNinja/libbsa"
   },
@@ -218,6 +230,7 @@
       "fallout new vegas",
       "api"
     ],
+    "license": "LGPL-3.0+",
     "description": "Library to deal with BSA files.",
     "repository": "https://github.com/TanninOne/modorganizer-bsatk"
   },
@@ -228,6 +241,7 @@
       "oblivion",
       "cli"
     ],
+    "license": "GPL-2.0",
     "description": "The Elder Scrolls 4 - Oblivion BSA archive unpacker.",
     "repository": "https://github.com/angeld29/unbsa4"
   },
@@ -247,6 +261,7 @@
       "skyrim",
       "esp / esm"
     ],
+    "license": "GPL-2.0",
     "description": "CBash fork with partial Skyrim support",
     "repository": "https://github.com/Ethatron/CBash"
   },
@@ -275,6 +290,7 @@
       "esp / esm",
       "api"
     ],
+    "license": "GPL-3.0",
     "description": "A free software library for reading Elder Scrolls Plugin (.esp) and Elder Scrolls Master (.esm) files. Libespm focuses on providing a useful API to libloadorder and LOOT, rather than a general-purpose plugin parser.",
     "repository": "https://github.com/WrinklyNinja/libespm"
   },
@@ -289,6 +305,7 @@
       "esp / esm",
       "cli"
     ],
+    "license": "MPL-1.1",
     "description": "A command line application to produce compatibility dumps on bethesda plugins built on top of the xEdit codebase.",
     "repository": "https://github.com/matortheeternal/mod-dump"
   },
@@ -298,6 +315,7 @@
       "morrowind",
       "esp / esm"
     ],
+    "license": "MIT",
     "description": "Very low level esm/esp parser",
     "repository": "https://github.com/Yacoby/php-esmparser"
   },
@@ -327,6 +345,7 @@
       "load order",
       "gui"
     ],
+    "license": "GPL-3.0",
     "description": "An automated plugin load order sorting tool for TES IV: Oblivion.",
     "homepage": "https://boss-developers.github.io/",
     "repository": "https://github.com/boss-developers"
@@ -342,6 +361,7 @@
       "load order",
       "gui"
     ],
+    "license": "GPL-3.0",
     "description": "A plugin load order optimisation tool for TES IV: Oblivion, TES V: Skyrim, Fallout 3, Fallout: New Vegas and Fallout 4.",
     "homepage": "https://loot.github.io/",
     "repository": "https://github.com/loot"
@@ -366,6 +386,7 @@
       "mod management",
       "gui"
     ],
+    "license": "GPL-3.0+",
     "description": "A tool for managing mod collections of arbitrary size. It is specifically designed for people who like to experiment with mods and thus need an easy and reliable way to install and uninstall them.",
     "repository": "https://github.com/TanninOne/modorganizer"
   },
@@ -415,6 +436,7 @@
       "mod management",
       "gui"
     ],
+    "license": "GPL-2.0",
     "description": "A free and open source piece of software that allows you to download, install, update and manage your files through an easy to use interface. It integrates with the Nexus sites to provide you with a fast, efficient and much less hassled modding experience.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/modmanager/",
     "repository": "https://github.com/Nexus-Mods/Nexus-Mod-Manager"
@@ -426,6 +448,7 @@
       "mod management",
       "gui"
     ],
+    "license": "GPL-2.0",
     "description": "A utility for managing plugins, and also for packing them for distribution. It can be used either as an enhanced version of the oblivion launcher's data files selector, or as a more advanced mod manager when mods are specially packed into omod files.",
     "homepage": "http://www.nexusmods.com/oblivion/mods/2097/",
     "repository": "http://www.nexusmods.com/oblivion/mods/2097/"
@@ -437,6 +460,7 @@
       "mod management",
       "gui"
     ],
+    "license": "GPL-2.0",
     "homepage": "http://www.nexusmods.com/oblivion/mods/32277/",
     "repository": "http://www.nexusmods.com/oblivion/mods/32277/"
   },
@@ -447,6 +471,7 @@
       "mod management",
       "cli"
     ],
+    "license": "MIT",
     "repository": "https://github.com/Yacoby/skyrim-package-manager"
   },
   {
@@ -456,6 +481,7 @@
       "mod management",
       "gui"
     ],
+    "license": "GPL-3.0",
     "repository": "https://github.com/camvr/Skyrim-Profile-Manager"
   },
   {
@@ -494,6 +520,7 @@
       "mod management",
       "gui"
     ],
+    "license": "GPL-2.0",
     "description": "A mod management utility for Oblivion and Skyrim with a rich set of features.",
     "homepage": "https://github.com/wrye-bash/wrye-bash",
     "repository": "https://github.com/wrye-bash/wrye-bash"
@@ -513,6 +540,7 @@
       "fallout 4",
       "esp / esm editor"
     ],
+    "license": "GPL-3.0",
     "description": "A fork of the TESVSnip which was itself a fork of the TESsnip utility bundled with Fallout Mod Manager with changes specifically for Fallout 4.",
     "homepage": "https://github.com/figment/falloutsnip",
     "repository": "https://github.com/figment/falloutsnip"
@@ -527,6 +555,7 @@
       "esp / esm editor",
       "gui"
     ],
+    "license": "MPL-1.1",
     "description": "A tool for combining mods from Bethesda games which have .ESP/.ESM files.",
     "homepage": "https://github.com/matortheeternal/merge-plugins",
     "repository": "https://github.com/matortheeternal/merge-plugins"
@@ -552,6 +581,7 @@
       "esp / esm editor",
       "gui"
     ],
+    "license": "MPL-1.1",
     "description": "xEdit (TES5Edit, TES4Edit, FO3Edit, FNVEdit) is an advanced graphical .esp and .esm file editor and conflict detector.",
     "homepage": "https://github.com/TES5Edit/TES5Edit",
     "repository": "https://github.com/TES5Edit/TES5Edit"
@@ -607,6 +637,7 @@
       "esp / esm editor",
       "gui"
     ],
+    "license": "MPL-1.1",
     "description": "Adaptation of xEdit for Morrowind.",
     "repository": "https://github.com/TES5Edit/TES3Edit"
   },
@@ -616,6 +647,7 @@
       "skyrim",
       "xEdit scripting"
     ],
+    "license": "GPL-2.0",
     "description": "A collection of TES5Edit/FNVEdit scripts for modders.",
     "repository": "https://github.com/matortheeternal/TES5EditScripts"
   },
@@ -628,6 +660,7 @@
       "fallout new vegas",
       "xEdit scripting"
     ],
+    "license": "GPL-3.0",
     "description": "A collection of xEdit scripts for experienced xEdit users.",
     "repository": "https://github.com/TES5Edit/xEditScripts"
   },
@@ -647,6 +680,7 @@
       "esp / esm editor",
       "gui"
     ],
+    "license": "GPL-3.0",
     "description": "Skyrim fork of the Fallout Mod Manager TESsnip dialog.",
     "repository": "https://github.com/figment/tesvsnip"
   },
@@ -687,6 +721,7 @@
       "skyrim",
       "cli"
     ],
+    "license": "BSD-3-Clause",
     "description": "Enables converting Havok animation from the Skyrim-compatible binary format to the Havok XML format or to the Gamebryo KF animation format.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/1797/",
     "repository": "https://github.com/figment/hkxcmd"
@@ -706,6 +741,7 @@
       "NIF",
       "gui"
     ],
+    "license": "BSD-3-Clause",
     "description": "A tool for opening and editing the NetImmerse file format (NIF). NIF is used by video games such as Morrowind, Oblivion, Skyrim, Fallout 3, Fallout: New Vegas, Civilization IV, and more.",
     "homepage": "https://github.com/niftools/nifskope",
     "repository": "https://github.com/niftools/nifskope"
@@ -716,9 +752,10 @@
       "NIF",
       "blender plugin"
     ],
+    "license": "BSD-3-Clause",
     "description": "A Blender addon to enable import and export of the .Nif File Format.",
-    "homepage": "https://github.com/niftools/nifskope",
-    "repository": "https://github.com/niftools/nifskope"
+    "homepage": "https://github.com/niftools/blender_nif_plugin",
+    "repository": "https://github.com/niftools/blender_nif_plugin"
   },
   {
     "name": "Python File Format Interface (PyFFI)",
@@ -730,6 +767,7 @@
       "EGM",
       "TGA"
     ],
+    "license": "BSD-3-Clause",
     "description": "A Python library for processing block structured files.",
     "homepage": "https://github.com/niftools/pyffi",
     "repository": "https://github.com/niftools/pyffi"
@@ -739,6 +777,7 @@
     "keywords": [
       "havok"
     ],
+    "license": "BSD-3-Clause",
     "description": "Tool for creating havok mopp code.",
     "repository": "https://github.com/niftools/mopper"
   },
@@ -748,6 +787,7 @@
       "NIF",
       "3DS max plugin"
     ],
+    "license": "BSD-3-Clause",
     "description": "The nif plugin for 3ds max.",
     "repository": "https://github.com/niftools/max_nif_plugin"
   },
@@ -757,6 +797,7 @@
       "NIF",
       "maya plugin"
     ],
+    "license": "BSD-3-Clause",
     "description": "The nif plugin for maya.",
     "repository": "https://github.com/niftools/maya_nif_plugin"
   },
@@ -766,6 +807,7 @@
       "NIF",
       "api"
     ],
+    "license": "BSD-3-Clause",
     "description": "A C++ library for reading and writing Nif files.",
     "repository": "https://github.com/niftools/niflib"
   },
@@ -824,6 +866,7 @@
       "api",
       "cli"
     ],
+    "license": "GPL-3.0+",
     "description": "Provides several methods and algorithms for heightmap manipulation and terrain triangulation.",
     "repository": "https://github.com/Gruftikus/lltool"
   },
@@ -837,6 +880,7 @@
       "fallout 3",
       "gui"
     ],
+    "license": "MIT",
     "description": "Aims to be a graphical frontend for various command-line based tools such as Lightwaves TESAnnwyn or TES4qLOD.",
     "homepage": "http://www.nexusmods.com/oblivion/mods/41447/",
     "repository": "https://github.com/Gruftikus/mpgui"
@@ -850,6 +894,7 @@
       "oblivion",
       "cli"
     ],
+    "license": "GPL-3.0+",
     "description": "This tool creates LOD meshes, color and normal maps based on landscape heightmaps as generated by esp/esm files. Therefore, it can be used to replace the meshes of Oblivion/FalloutNV (Fallout3 is under preparation) including all the additional changes added by landscape and texture mods.",
     "homepage": "http://www.nexusmods.com/oblivion/mods/40549/",
     "repository": "https://github.com/Gruftikus/tes4ll"
@@ -861,6 +906,7 @@
       "validator",
       "cli"
     ],
+    "license": "GPL-2.0",
     "description": "Validates C# installer scripts for Nexus Mod Manager for being valid.",
     "homepage": "https://github.com/miere43/nmm-script-checker",
     "repository": "https://github.com/miere43/nmm-script-checker"
@@ -914,6 +960,7 @@
       "translation",
       "gui"
     ],
+    "license": "GPL-3.0",
     "description": "A minimalistic editor of the string table files that TES V: Skyrim plugins use to provide support for multiple languages. StrEdit can be used to create or update translations of string tables, without requiring their associated plugin to be present.",
     "homepage": "http://skyrim.nexusmods.com/mods/28365/",
     "repository": "https://github.com/WrinklyNinja/stredit"
@@ -947,6 +994,7 @@
       "character tracker",
       "gui"
     ],
+    "license": "MIT",
     "description": "Draws your Skyrim/Fallout 4 character movement map.",
     "homepage": "https://github.com/miere43/tes-char-tracker",
     "repository": "https://github.com/miere43/tes-char-tracker"
@@ -961,6 +1009,7 @@
       "fallout new vegas",
       "cli"
     ],
+    "license": "BSD-3-Clause",
     "description": "Dump very basic statistics about ES plugins (record counts, subrecord counts, etc)",
     "repository": "https://github.com/lojack5/TESDumpStats"
   },
@@ -992,6 +1041,7 @@
       "skyrim",
       "search engine"
     ],
+    "license": "AGPL-3.0",
     "description": "A search engine for Morrowind and Oblivion modifcations.",
     "repository": "https://github.com/Yacoby/es-search"
   },
@@ -1017,6 +1067,7 @@
       "load order",
       "api"
     ],
+    "license": "GPL-3.0",
     "description": "A free software library for manipulating the load order and active status of plugins for TES III: Morrowind, TES IV: Oblivion, TES V: Skyrim, Fallout 3, Fallout: New Vegas and Fallout 4.",
     "homepage": "https://github.com/WrinklyNinja/libloadorder",
     "repository": "https://github.com/WrinklyNinja/libloadorder"
@@ -1029,6 +1080,7 @@
       "translation",
       "api"
     ],
+    "license": "GPL-3.0",
     "description": "A free software library for reading and writing TES V: Skyrim's .STRINGS, .DLSTRINGS and .ILSTRINGS files.",
     "repository": "https://github.com/WrinklyNinja/libstrings"
   },
@@ -1051,6 +1103,7 @@
       "LOD",
       "gui"
     ],
+    "license": "MPL-1.1",
     "description": "Generates all resources for Oblivion's & Skyrim's LOD: color-maps, normal-maps and meshes at any resolution.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/4727/",
     "repository": "https://github.com/Ethatron/Oscape"
@@ -1074,6 +1127,7 @@
       "scripting",
       "compiler"
     ],
+    "license": "MIT",
     "description": "A compiler for the Papyrus scripting language used by the Creation Engine.",
     "repository": "https://github.com/Orvid/Caprica"
   },
@@ -1098,6 +1152,7 @@
       "decompiler",
       "cli"
     ],
+    "license": "LGPL-3.0",
     "description": "A PEX to Papyrus Decompiler for Fallout 4",
     "homepage": "http://www.nexusmods.com/fallout4/mods/3742/",
     "repository": "https://github.com/Orvid/Champollion"
@@ -1324,6 +1379,7 @@
       "oblivion",
       "OBSE plugin"
     ],
+    "license": "GPL-3.0",
     "description": "An OBSE plugin that adds dynamic shadows to all entities in Tamriel.",
     "homepage": "http://www.nexusmods.com/oblivion/mods/45043/",
     "repository": "https://github.com/shadeMe/shadeMe"
@@ -1382,6 +1438,7 @@
       "skyrim",
       "SKSE plugin"
     ],
+    "license": "MIT",
     "description": "JSON-based data structures for Papyrus",
     "homepage": "http://www.nexusmods.com/skyrim/mods/49743/",
     "repository": "https://github.com/SilverIce/JContainers"
@@ -1462,6 +1519,7 @@
       "fallout 4",
       "game engine"
     ],
+    "license": "GPL-3.0",
     "description": "Pure java project for wandering around in the TES games Morrowind, Oblivion, Fallout3, FalloutNV, Skyrim, Fallout 4",
     "repository": "https://github.com/philjord/ElderScrollsExplorer"
   },
@@ -1492,6 +1550,7 @@
       "papyrus",
       "scripting"
     ],
+    "license": "MIT",
     "description": "A Sublime Text 2 and 3 package for the Papyrus scripting language.",
     "homepage": "https://github.com/Kapiainen/SublimePapyrus",
     "repository": "https://github.com/Kapiainen/SublimePapyrus"
@@ -1504,6 +1563,7 @@
       "papyrus",
       "scripting"
     ],
+    "license": "MIT",
     "description": "A wrapper program that allows for more advanced use of the Papyrus compiler from within Creation Kit.",
     "homepage": "https://github.com/Kapiainen/Advanced-Papyrus",
     "repository": "https://github.com/Kapiainen/Advanced-Papyrus"
@@ -1515,6 +1575,7 @@
       "fallout 4",
       "esp / esm editor"
     ],
+    "license": "GPL-3.0",
     "description": "A tool that allows automatic creation of plugin files for games The Elder Scrolls V: Skyrim and Fallout 4 according to predefined rules provided by the user or a third party.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/70197/",
     "repository": "https://github.com/Unforbidable/Patcher/"
@@ -1527,6 +1588,7 @@
       "scripting",
       "compiler"
     ],
+    "license": "GPL-3.0",
     "description": "A papyrus compiler that compiles .NET binaries into papyrus binaries.",
     "homepage": "https://github.com/zerratar/PapyrusDotNet",
     "repository": "https://github.com/zerratar/PapyrusDotNet"
@@ -1603,6 +1665,7 @@
       "gui",
       "skyrim"
     ],
+    "license": "MPL-1.1",
     "description": "An advanced editor for translate mod built with automatic translation logic in mind, and allows easy translation updates.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/29148/",
     "repository": "http://www.nexusmods.com/skyrim/mods/29148/"
@@ -1614,6 +1677,7 @@
       "gui",
       "fallout 4"
     ],
+    "license": "MPL-1.1",
     "description": "An advanced editor for translate mod built with automatic translation logic in mind, and allows easy translation updates.",
     "homepage": "http://www.nexusmods.com/fallout4/mods/215/",
     "repository": "http://www.nexusmods.com/fallout4/mods/215/"
