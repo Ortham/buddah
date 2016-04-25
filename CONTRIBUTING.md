@@ -16,6 +16,7 @@ Project definitions use a JSON structure very similar to those used by [Bower](h
     ""
   ],
   "description": "",
+  "license": "",
   "homepage": "",
   "repository": ""
 }
@@ -40,6 +41,12 @@ Keywords for the project. Keywords are searchable. As a minimum, please supply k
 Type: `String`
 
 A brief description of the project. This is a searchable field.
+
+### license
+
+Type: `String` or `Array` of `String`
+
+[SPDX license identifier](https://spdx.org/licenses/) or, if the license used has no SPDX identifier, a URL to a license. If the software is licensed under multiple licenses, give them in an array. If no license is specified, omit this field.
 
 ### homepage
 
