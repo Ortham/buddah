@@ -1719,5 +1719,18 @@
     ],
     "description": "This mod resurrects \"mfg phoneme/modifier\" console command and playerBlink at Skyrim ver.1.9.32 again, and adds some information window, some commands and customizable command-alias to the console.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/44596/"
+  },
+  {
+    "name": "Lilac",
+    "keywords": [
+      "skyrim",
+      "fallout 4",
+      "papyrus",
+      "test framework"
+    ],
+    "description": "A Papyrus unit test framework for Skyrim and Fallout 4.",
+    "license": "MIT",
+    "homepage": "https://chesko256.github.io/Lilac/",
+    "repository": "https://github.com/chesko256/Lilac"
   }
 ]
