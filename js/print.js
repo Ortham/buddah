@@ -57,6 +57,7 @@ function createEntryHtml(entry) {
     var homepageLink = document.createElement('a');
 
     homepageLink.href = entry.homepage;
+    homepageLink.target = '_blank';
     homepageLink.className = 'home';
     homepageLink.textContent = 'Home Page';
 
@@ -67,6 +68,7 @@ function createEntryHtml(entry) {
     var repositoryLink = document.createElement('a');
 
     repositoryLink.href = entry.repository;
+    repositoryLink.target = '_blank';
     repositoryLink.className = 'source';
     repositoryLink.textContent = 'Source Code';
 
@@ -87,6 +89,7 @@ function createEntryHtml(entry) {
         link.textContent = license;
       }
       link.href = toUrl(license);
+      link.target = '_blank';
 
       rightColumn.appendChild(link);
     });
