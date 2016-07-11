@@ -1732,5 +1732,19 @@
     "license": "MIT",
     "homepage": "https://chesko256.github.io/Lilac/",
     "repository": "https://github.com/chesko256/Lilac"
+  },
+  {
+    "name": "SkyrimTools",
+    "keywords": [
+      "skyrim",
+      "save file",
+      "Papyrus",
+      "scripting",
+      "gui"
+    ],
+    "description": "ReSaver is a new savegame editor, based loosely on the excellent user interface of SaveTool. ReStringer can analyze a mod or group of mods, and rewrite their scripts so that they use fewer strings.",
+    "license": "Apache-2.0",
+    "homepage": "http://www.nexusmods.com/skyrim/mods/76776/",
+    "repository": "http://www.nexusmods.com/skyrim/mods/76776/"
   }
 ]
