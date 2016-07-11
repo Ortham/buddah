@@ -33,7 +33,7 @@ function createEntryHtml(entry) {
   }
 
   var div = document.createElement('div');
-  entry.keywords.forEach(function(keyword) {
+  entry.keywords.sort().forEach(function(keyword) {
     var keywordSpan = document.createElement('span');
     keywordSpan.className = 'keyword';
 
