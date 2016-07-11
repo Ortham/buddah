@@ -1738,7 +1738,7 @@
     "keywords": [
       "skyrim",
       "save file",
-      "Papyrus",
+      "papyrus",
       "scripting",
       "gui"
     ],
@@ -1746,5 +1746,17 @@
     "license": "Apache-2.0",
     "homepage": "http://www.nexusmods.com/skyrim/mods/76776/",
     "repository": "http://www.nexusmods.com/skyrim/mods/76776/"
+  },
+  {
+    "name": "FOMOD Validator",
+    "keywords": [
+      "fomod",
+      "validator",
+      "gui"
+    ],
+    "description": "This little app allows you validate and check for common errors in your FOMOD installers. Simply place the path to your package (the source files) and press Ok and, according to your selections, it will provide with your results. Simple, easy and effective.",
+    "license": "Apache-2.0",
+    "homepage": "https://github.com/GandaG/fomod-validator",
+    "repository": "https://github.com/GandaG/fomod-validator"
   }
 ]
