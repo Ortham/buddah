@@ -1768,5 +1768,16 @@
     "license": "MIT",
     "homepage": "https://github.com/Sumwunn/SSGSPlugin_FO4",
     "repository": "https://github.com/Sumwunn/SSGSPlugin_FO4"
+  },
+  {
+    "name": "Player Stats API - Fallout 4",
+    "keywords": [
+      "fallout 4",
+      "api"
+    ],
+    "description": "This is a plugin that retrieves player stats from Fallout 4 during runtime and provides exported functions that return those values.",
+    "license": "MIT",
+    "homepage": "https://github.com/Sumwunn/PlayerStatsAPI_FO4",
+    "repository": "https://github.com/Sumwunn/PlayerStatsAPI_FO4"
   }
 ]
