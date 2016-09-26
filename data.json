@@ -1758,5 +1758,17 @@
     "license": "Apache-2.0",
     "homepage": "https://github.com/GandaG/fomod-validator",
     "repository": "https://github.com/GandaG/fomod-validator"
+  },
+  
+  
+  {
+    "name": "SteelSeries GameSense Plugin - Fallout 4",
+    "keywords": [
+      "fallout 4"
+    ],
+    "description": "This is a plugin that allows SteelSeries users to use GameSense with Fallout 4.",
+    "license": "MIT",
+    "homepage": "https://github.com/Sumwunn/SSGSPlugin_FO4",
+    "repository": "https://github.com/Sumwunn/SSGSPlugin_FO4"
   }
 ]
