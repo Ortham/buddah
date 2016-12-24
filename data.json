@@ -1823,5 +1823,15 @@
     "license": "BSD-3-Clause",
     "homepage": "https://github.com/RobCoIndustries/pipboy/releases",
     "repository": "https://github.com/RobCoIndustries/pipboy"
-  }  
+  },
+  {
+    "name": "pipboyrelay",
+    "keywords": [
+      "fallout 4",
+      "cli"
+    ],
+    "description": "Relay for the pipboy app for Fallout 4",
+    "homepage": "https://github.com/rgbkrk/pipboyrelay/releases",
+    "repository": "https://github.com/rgbkrk/pipboyrelay"
+  }   
 ]
