@@ -1622,7 +1622,7 @@
       "skyrim"
     ],
     "description": "A rotation library that makes it easier to work with rotation math in Skyrim. Among other things, it can position and rotate one object relative to another for you.",
-    "repository": "http://www.creationkit.com/User:DavidJCobb/Rotation_Library"
+    "repository": "https://www.creationkit.com/index.php?title=User:DavidJCobb/Rotation_Library"
   },
   {
     "name": "Skyrim DDS Image Viewer",
