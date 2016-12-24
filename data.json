@@ -1779,5 +1779,49 @@
     "license": "MIT",
     "homepage": "https://github.com/Sumwunn/PlayerStatsAPI_FO4",
     "repository": "https://github.com/Sumwunn/PlayerStatsAPI_FO4"
-  }
+  },
+  {
+    "name": "pipboylib",
+    "keywords": [
+      "fallout 4",
+      "api"
+    ],
+    "description": "Companion pip boy library for Fallout 4",
+    "license": "Apache 2.0",
+    "homepage": "https://github.com/RobCoIndustries/pipboylib/releases",
+    "repository": "https://github.com/RobCoIndustries/pipboylib"
+  },
+  {
+    "name": "pipboycli",
+    "keywords": [
+      "fallout 4",
+      "cli"
+    ],
+    "description": "A blessed cli for your Fallout 4 PipBoy",
+    "license": "BSD-3-Clause",
+    "homepage": "https://github.com/RobCoIndustries/pipboycli/releases",
+    "repository": "https://github.com/RobCoIndustries/pipboycli"
+  },
+  {
+    "name": "Pipboy Beacon",
+    "keywords": [
+      "fallout 4",
+      "api"
+    ],
+    "description": "Remote beacon for sharing your pipboy data",
+    "license": "BSD-3-Clause",
+    "homepage": "https://github.com/RobCoIndustries/beacon/releases",
+    "repository": "https://github.com/RobCoIndustries/beacon"
+  },
+  {
+    "name": "Pipboy Desktop",
+    "keywords": [
+      "fallout 4",
+      "gui"
+    ],
+    "description": "Experimental pipboy Desktop app for Fallout 4",
+    "license": "BSD-3-Clause",
+    "homepage": "https://github.com/RobCoIndustries/pipboy/releases",
+    "repository": "https://github.com/RobCoIndustries/pipboy"
+  }  
 ]
