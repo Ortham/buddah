@@ -1833,5 +1833,19 @@
     "description": "Relay for the pipboy app for Fallout 4",
     "homepage": "https://github.com/rgbkrk/pipboyrelay/releases",
     "repository": "https://github.com/rgbkrk/pipboyrelay"
-  }   
+  },
+  {
+    "name": "xedit-lib",
+    "keywords": [
+      "skyrim",
+      "fallout 4",
+      "fallout new vegas",
+      "fallout 3",
+      "oblivion",
+      "esp / esm editor",
+      "api"
+    ],
+    "description": "DLL Wrapper for the xEdit framework.",
+    "repository": "https://github.com/matortheeternal/xedit-lib"
+  }
 ]
