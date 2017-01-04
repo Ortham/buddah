@@ -1847,5 +1847,18 @@
     ],
     "description": "DLL Wrapper for the xEdit framework.",
     "repository": "https://github.com/matortheeternal/xedit-lib"
+  },
+  {
+    "name": "Mod Analyzer",
+    "keywords": [
+      "skyrim",
+      "esp / esm",
+      "bsa",
+      "gui",
+      "fomod",
+      "bain"
+    ],
+    "description": "Analyzes mod archives to produce a report in JSON format which includes archive metadata, fomod/bain options, asset file paths (including inside BSAs), and plugin dumps produced by ModDump.",
+    "repository": "https://github.com/matortheeternal/mod-analyzer"
   }
 ]
