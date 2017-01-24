@@ -1860,5 +1860,22 @@
     ],
     "description": "Analyzes mod archives to produce a report in JSON format which includes archive metadata, fomod/bain options, asset file paths (including inside BSAs), and plugin dumps produced by ModDump.",
     "repository": "https://github.com/matortheeternal/mod-analyzer"
+  },
+  {
+    "name": "SkyNet",
+    "keywords": [
+      "skyrim"
+    ],
+    "description": "A free, open-source multiplayer mod for Bethesda's Skyrim",
+    "repository": "https://github.com/hipolipolopigus/SkyNet"  
+  },
+  {
+    "name": "Skyrim Online",
+    "keywords": [
+      "skyrim"
+    ],
+    "license": "CC-BY-3.0",
+    "description": "A multiplayer mod for Bethesda's Skyrim",
+    "repository": "https://github.com/hipolipolopigus/SkyrimOnline"  
   }
 ]
