@@ -1877,5 +1877,14 @@
     "license": "CC-BY-3.0",
     "description": "A multiplayer mod for Bethesda's Skyrim",
     "repository": "https://github.com/hipolipolopigus/SkyrimOnline"  
+  },
+  {
+    "name": "Autoload",
+    "keywords": [
+      "fallout 4",
+      "f4se plugin"
+    ],
+    "description": "Autoload allows you to bypass the main menu and open-to-game with no additional clicks required.",
+    "homepage": "https://forums.nexusmods.com/index.php?/topic/5494192-relz-utility-f4se-autoload-launch-to-game-and-bypass-the-main-menu"  
   }
 ]
