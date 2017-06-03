@@ -1,8 +1,13 @@
 language: node_js
 node_js:
-  - "4"
+  - "8"
 
 
-install: npm install -g z-schema
+install:
+  - npm install -g z-schema
+  - npm install
 
-script: z-schema data.schema.json data.json
+script:
+  - z-schema data.schema.json data.json
+  - python -m SimpleHTTPServer &
+  - npm test

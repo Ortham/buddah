@@ -2,4 +2,4 @@
 
 var entries = [];
 var index = lunr(initIndex);
-loadData(initSearchHandling);
+loadData('data.json', initSearchHandling);

@@ -1,12 +1,10 @@
 'use strict';
-function loadData(callback) {
-  var url = `data.json`;
+function loadData(url, callback) {
   var xhr = new XMLHttpRequest();
   xhr.open('GET', url);
   xhr.responseType = 'text';
   xhr.addEventListener('readystatechange', function(evt) {
     if (evt.target.readyState === 4) {
-      /* Status is 0 for local file URL loading. */
       if (evt.target.status >= 200 && evt.target.status < 400) {
         callback(JSON.parse(evt.target.responseText));
       } else {
