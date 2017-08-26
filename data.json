@@ -1886,5 +1886,15 @@
     ],
     "description": "Autoload allows you to bypass the main menu and open-to-game with no additional clicks required.",
     "homepage": "https://forums.nexusmods.com/index.php?/topic/5494192-relz-utility-f4se-autoload-launch-to-game-and-bypass-the-main-menu"  
+  },
+  {
+    "name": "esxdump",
+    "keywords": [
+      "fallout 4",
+      "cli",
+      "esp / esm"
+    ],
+    "description": "Create diff reports for data file plugins.",
+    "repository": "https://github.com/cadpnq/esxdump"  
   }
 ]
