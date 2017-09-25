@@ -1201,7 +1201,7 @@
     ],
     "description": "The Fallout 4 Script Extender, or F4SE for short, is a modder's resource that expands the scripting capabilities of Fallout 4. It does so without modifying the Fallout4.exe or the G.E.C.K. files on disk, so there are no permanent side effects.",
     "homepage": "http://f4se.silverlock.org/",
-    "repository": "http://f4se.silverlock.org/"
+    "repository": "https://github.com/osvein/f4se-mirror/"
   },
   {
     "name": "Four Dragon",
