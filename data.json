@@ -1906,5 +1906,17 @@
     "license": "MIT",
     "description": "zEdit is a new GUI and API for the xEdit framework.  It includes a plugin editor with conflict detection, an extension system, and a patching framework.",
     "repository": "https://github.com/matortheeternal/zedit"
+  },
+  {
+    "name": "AFKPexAnon",
+    "keywords": [
+      "pex",
+      "papyrus",
+      "skyrim",
+      "fallout 4"
+    ],
+    "license": "MIT",
+    "description": "Anonymize's Bethesda's compiled Papyrus script files (.pex) by masking the computer and user names that get stored.",
+    "repository": "https://github.com/namralkeeg/AFKPexAnon"
   }
 ]
