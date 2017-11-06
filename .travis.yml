@@ -9,5 +9,5 @@ install:
 
 script:
   - z-schema data.schema.json data.json
-  - python -m SimpleHTTPServer &
+  - python2.7 -m SimpleHTTPServer &
   - npm test
