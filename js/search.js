@@ -24,10 +24,13 @@ function searchByKeyword(evt) {
   }
 
   var search = document.getElementById('search');
+  if (search.value.length > 0) {
+    search.value += ' ';
+  }
   if (target.firstElementChild.classList.contains('octicon')) {
-    search.value = '"' + target.textContent + '"';
+    search.value += '"' + target.textContent + '"';
   } else {
-    search.value = '"' + target.firstChild.textContent + '"';
+    search.value += '"' + target.firstChild.textContent + '"';
   }
   search.dispatchEvent(new Event('input'));
 }

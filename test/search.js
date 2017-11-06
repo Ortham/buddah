@@ -123,7 +123,7 @@ describe('searchByKeyword()', function(){
       }
     }});
 
-    expect(document.getElementById('search').value).to.equal('"bar"');
+    expect(document.getElementById('search').value).to.equal('"foo" "bar"');
 
     searchByKeyword({ target: {
       className: 'keyword',
@@ -139,7 +139,7 @@ describe('searchByKeyword()', function(){
       },
     }});
 
-    expect(document.getElementById('search').value).to.equal('"foobar"');
+    expect(document.getElementById('search').value).to.equal('"foo" "bar" "foobar"');
   });
 });
 
