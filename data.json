@@ -508,7 +508,7 @@
       "gui"
     ],
     "license": "GPL-2.0",
-    "description": "A mod management utility for Oblivion and Skyrim with a rich set of features.",
+    "description": "A mod management utility for Oblivion, Skyrim, Skyrim Special Edition and Fallout 4 with a rich set of features.",
     "homepage": "https://github.com/wrye-bash/wrye-bash",
     "repository": "https://github.com/wrye-bash/wrye-bash"
   },
@@ -563,6 +563,7 @@
     "keywords": [
       "oblivion",
       "skyrim",
+      "skyrim special edition",
       "fallout 3",
       "fallout new vegas",
       "fallout 4",
@@ -576,6 +577,25 @@
     "description": "xEdit (TES5Edit, TES4Edit, FO3Edit, FNVEdit, FO4Edit, SSEEdit) is an advanced graphical .esp and .esm file editor and conflict detector.",
     "homepage": "https://github.com/TES5Edit/TES5Edit",
     "repository": "https://github.com/TES5Edit/TES5Edit"
+  },
+  {
+    "name": "xEdit Pro",
+    "keywords": [
+      "oblivion",
+      "skyrim",
+      "skyrim special edition",
+      "fallout 3",
+      "fallout new vegas",
+      "fallout 4",
+      "esp / esm editor",
+      "conflict detection",
+      "BSA",
+      "BA2",
+      "gui"
+    ],
+    "license": "MPL-1.1",
+    "description": "xEdit by Elminster; forked by @fireundubh; fixes and enhancements for scripters and advanced users",
+    "repository": "https://github.com/fireundubh/xedit"
   },
   {
     "name": "TES4LODGen",
@@ -597,6 +617,17 @@
     ],
     "description": "Allows you to generate Objects LOD for worldspace(s) by scanning all mods in load order that add visible from distant objects.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/62698/",
+    "repository": "https://github.com/TES5Edit/xLODGen"
+  },
+  {
+    "name": "SSELODGen",
+    "keywords": [
+      "skyrim special edition",
+      "lod",
+      "gui"
+    ],
+    "description": "Allows you to generate Objects LOD for worldspace(s) by scanning all mods in load order that add visible from distant objects.",
+    "homepage": "https://www.nexusmods.com/skyrimspecialedition/mods/6642/?",
     "repository": "https://github.com/TES5Edit/xLODGen"
   },
   {
@@ -654,6 +685,19 @@
     "license": "GPL-3.0",
     "description": "A collection of xEdit scripts for experienced xEdit users.",
     "repository": "https://github.com/TES5Edit/xEditScripts"
+  },
+  {
+    "name": "xedit-scripts",
+    "keywords": [
+      "oblivion",
+      "skyrim",
+      "fallout 3",
+      "fallout new vegas",
+      "xEdit scripting"
+    ],
+    "license": "MIT",
+    "description": "This is a repository of fireundubh's \"released\" scripts for xEdit.",
+    "repository": "https://github.com/fireundubh/xedit-scripts"
   },
   {
     "name": "TESVESSE",
@@ -942,6 +986,16 @@
     ],
     "description": "A utility used for tracking Skyrim’s system resource usage as it relates to INI settings and installed mods. ",
     "homepage": "http://www.nexusmods.com/skyrim/mods/6491/"
+  },
+  {
+    "name": "Skyrim Performance Monitor 64",
+    "keywords": [
+      "skyrim special edition",
+      "performance",
+      "gui"
+    ],
+    "description": "The Skyrim Performance Monitor is a utility used for tracking Skyrims Memory, VRAM, Disk I/O, CPU, GPU, GPU Temperature, and Threads system resource usage, and also FPS as they relate to INI settings and installed mods.",
+    "homepage": "https://www.nexusmods.com/skyrimspecialedition/mods/3826/?"
   },
   {
     "name": "StrEdit",
@@ -1693,6 +1747,7 @@
       "animation",
       "oblivion",
       "skyrim",
+      "skyrim special edition",
       "fallout 3",
       "fallout new vegas",
       "gui"
@@ -1749,6 +1804,17 @@
     "license": "Apache-2.0",
     "homepage": "https://github.com/GandaG/fomod-validator",
     "repository": "https://github.com/GandaG/fomod-validator"
+  },
+  {
+    "name": "FOMOD Documentation",
+    "keywords": [
+      "fomod",
+      "documentation"
+    ],
+    "description": "Documentation for the fomod installer format.",
+    "license": "MIT",
+    "homepage": "https://fomod-docs.readthedocs.io/",
+    "repository": "https://github.com/GandaG/fomod-docs"
   },
   {
     "name": "SteelSeries GameSense Plugin - Fallout 4",
@@ -1860,7 +1926,7 @@
       "skyrim"
     ],
     "description": "A free, open-source multiplayer mod for Bethesda's Skyrim",
-    "repository": "https://github.com/hipolipolopigus/SkyNet"  
+    "repository": "https://github.com/hipolipolopigus/SkyNet"
   },
   {
     "name": "Skyrim Online",
@@ -1869,7 +1935,7 @@
     ],
     "license": "CC-BY-3.0",
     "description": "A multiplayer mod for Bethesda's Skyrim",
-    "repository": "https://github.com/hipolipolopigus/SkyrimOnline"  
+    "repository": "https://github.com/hipolipolopigus/SkyrimOnline"
   },
   {
     "name": "Autoload",
@@ -1878,7 +1944,7 @@
       "f4se plugin"
     ],
     "description": "Autoload allows you to bypass the main menu and open-to-game with no additional clicks required.",
-    "homepage": "https://forums.nexusmods.com/index.php?/topic/5494192-relz-utility-f4se-autoload-launch-to-game-and-bypass-the-main-menu"  
+    "homepage": "https://forums.nexusmods.com/index.php?/topic/5494192-relz-utility-f4se-autoload-launch-to-game-and-bypass-the-main-menu"
   },
   {
     "name": "esxdump",
@@ -1888,7 +1954,7 @@
       "esp / esm"
     ],
     "description": "Create diff reports for data file plugins.",
-    "repository": "https://github.com/cadpnq/esxdump"  
+    "repository": "https://github.com/cadpnq/esxdump"
   },
   {
     "name": "zEdit",
@@ -1918,5 +1984,39 @@
     "license": "MIT",
     "description": "Anonymize's Bethesda's compiled Papyrus script files (.pex) by masking the computer and user names that get stored.",
     "repository": "https://github.com/namralkeeg/AFKPexAnon"
+  },
+  {
+    "name": "SSE NIF Optimizer",
+    "keywords": [
+      "skyrim special edition",
+      "NIF"
+    ],
+    "description": "A tool for mod authors that optimizes your SK NIF files for the (actual) new SSE format and fixes issues.",
+    "homepage": "https://www.nexusmods.com/skyrimspecialedition/mods/4089/?"
+  },
+  {
+    "name": "TesModManager",
+    "keywords": [
+      "morrowind",
+      "oblivion",
+      "skyrim",
+      "skyrim special edition",
+      "mod management"
+    ],
+    "description": "TesModManager is a new version of OBMM Extended that supports Skyrim SE, Skyrim, Oblivion and Morrowind.",
+    "homepage": "https://www.nexusmods.com/skyrimspecialedition/mods/6491/?"
+  },
+  {
+    "name": "LSLib",
+    "keywords": [
+      "divinity original sin",
+      "divinity original sin 2",
+      "save file editor",
+      "PAK packages",
+      "OSI editor",
+      "GR2 converter"
+    ],
+    "description": "Tools for manipulating Divinity Original Sin files",
+    "repository": "https://github.com/Norbyte/lslib"
   }
 ]
