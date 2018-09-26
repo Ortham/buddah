@@ -4,9 +4,9 @@
   "description": "A simple registry for community-made game modding software.",
   "main": "",
   "devDependencies": {
-    "chai": "^4.0.1",
-    "mocha": "^3.4.2",
-    "mocha-chrome": "^1.0.3"
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "mocha-chrome": "^1.1.0"
   },
   "scripts": {
     "test": "mocha-chrome http://localhost:8000/test/index.html"
