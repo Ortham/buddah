@@ -6,7 +6,7 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^5.2.0",
-    "mocha-chrome": "^1.1.0"
+    "mocha-chrome": "^2.0.0"
   },
   "scripts": {
     "test": "mocha-chrome http://localhost:8000/test/index.html"
