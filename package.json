@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WrinklyNinja/buddah.git"
+    "url": "git+https://github.com/Ortham/buddah.git"
   },
   "author": "Oliver Hamlet <oliver.hamlet@gmail.com>",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/WrinklyNinja/buddah/issues"
+    "url": "https://github.com/Ortham/buddah/issues"
   },
-  "homepage": "https://github.com/WrinklyNinja/buddah#readme"
+  "homepage": "https://github.com/Ortham/buddah#readme"
 }

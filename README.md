@@ -1,6 +1,6 @@
 # buddah
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/WrinklyNinja/buddah.svg)](https://greenkeeper.io/)
+[![Greenkeeper badge](https://badges.greenkeeper.io/Ortham/buddah.svg)](https://greenkeeper.io/)
 
 A simple registry for community-made game modding software.
 

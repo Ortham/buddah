@@ -218,7 +218,7 @@
     ],
     "license": "GPL-3.0",
     "description": "A free software library for reading BSA files.",
-    "repository": "https://github.com/WrinklyNinja/libbsa"
+    "repository": "https://github.com/Ortham/libbsa"
   },
   {
     "name": "bsatk",
@@ -292,7 +292,7 @@
     ],
     "license": "GPL-3.0",
     "description": "A free software library for reading Elder Scrolls Plugin (.esp) and Elder Scrolls Master (.esm) files. Libespm focuses on providing a useful API to libloadorder and LOOT, rather than a general-purpose plugin parser.",
-    "repository": "https://github.com/WrinklyNinja/libespm"
+    "repository": "https://github.com/Ortham/libespm"
   },
   {
     "name": "mod-dump",
@@ -1008,7 +1008,7 @@
     "license": "GPL-3.0",
     "description": "A minimalistic editor of the string table files that TES V: Skyrim plugins use to provide support for multiple languages. StrEdit can be used to create or update translations of string tables, without requiring their associated plugin to be present.",
     "homepage": "http://skyrim.nexusmods.com/mods/28365/",
-    "repository": "https://github.com/WrinklyNinja/stredit"
+    "repository": "https://github.com/Ortham/stredit"
   },
   {
     "name": "TES4Files",
@@ -1114,8 +1114,8 @@
     ],
     "license": "GPL-3.0",
     "description": "A free software library for manipulating the load order and active status of plugins for TES III: Morrowind, TES IV: Oblivion, TES V: Skyrim, Fallout 3, Fallout: New Vegas and Fallout 4.",
-    "homepage": "https://github.com/WrinklyNinja/libloadorder",
-    "repository": "https://github.com/WrinklyNinja/libloadorder"
+    "homepage": "https://github.com/Ortham/libloadorder",
+    "repository": "https://github.com/Ortham/libloadorder"
   },
   {
     "name": "libstrings",
@@ -1127,7 +1127,7 @@
     ],
     "license": "GPL-3.0",
     "description": "A free software library for reading and writing TES V: Skyrim's .STRINGS, .DLSTRINGS and .ILSTRINGS files.",
-    "repository": "https://github.com/WrinklyNinja/libstrings"
+    "repository": "https://github.com/Ortham/libstrings"
   },
   {
     "name": "MoreHeap",
