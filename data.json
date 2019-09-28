@@ -391,6 +391,23 @@
     "repository": "https://github.com/TanninOne/modorganizer"
   },
   {
+    "name": "Mod Organizer 2 (MO2)",
+    "keywords": [
+      "oblivion",
+      "skyrim",
+      "skyrim special edition",
+      "fallout 3",
+      "fallout new vegas",
+      "fallout 4",
+      "mod management",
+      "gui"
+    ],
+    "license": "GPL-3.0+",
+    "description": "A tool for managing mod collections of arbitrary size. It is specifically designed for people who like to experiment with mods and thus need an easy and reliable way to install and uninstall them. Mod Organizer 2 is a mod manager created by Tannin to support 64-bit games like Skyrim Special Edition and Fallout 4 in addition to all the 32-bit games MO1 already supported.",
+    "repository": "https://github.com/ModOrganizer2/modorganizer",
+    "homepage": "http://www.nexusmods.com/skyrimspecialedition/mods/6194"
+  },
+  {
     "name": "Morrowind Mod File Remover",
     "keywords": [
       "morrowind",
@@ -575,7 +592,7 @@
     ],
     "license": "MPL-1.1",
     "description": "xEdit (TES5Edit, TES4Edit, FO3Edit, FNVEdit, FO4Edit, SSEEdit) is an advanced graphical .esp and .esm file editor and conflict detector.",
-    "homepage": "https://github.com/TES5Edit/TES5Edit",
+    "homepage": "https://tes5edit.github.io/",
     "repository": "https://github.com/TES5Edit/TES5Edit"
   },
   {
@@ -1007,7 +1024,7 @@
     ],
     "license": "GPL-3.0",
     "description": "A minimalistic editor of the string table files that TES V: Skyrim plugins use to provide support for multiple languages. StrEdit can be used to create or update translations of string tables, without requiring their associated plugin to be present.",
-    "homepage": "http://skyrim.nexusmods.com/mods/28365/",
+    "homepage": "https://www.nexusmods.com/skyrim/mods/28365",
     "repository": "https://github.com/Ortham/stredit"
   },
   {
@@ -2018,5 +2035,16 @@
     ],
     "description": "Tools for manipulating Divinity Original Sin files",
     "repository": "https://github.com/Norbyte/lslib"
+  },
+  {
+    "name": "Cathedral Assets Optimizer",
+    "keywords": [
+      "skyrim special edition",
+      "bsa",
+      "gui"
+    ],
+    "description": "A tool aiming to automate asset conversion and optimization for Skyrim Special Edition.",
+    "homepage": "https://www.nexusmods.com/skyrimspecialedition/mods/23316/",
+    "repository": "https://gitlab.com/G_ka/sse-assets-optimiser"
   }
 ]
