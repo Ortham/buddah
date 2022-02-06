@@ -6,11 +6,11 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^9.2.0",
-    "mocha-chrome": "^2.0.0",
+    "mocha-headless-chrome": "^3.1.0",
     "z-schema": "^5.0.2"
   },
   "scripts": {
-    "test": "mocha-chrome http://localhost:8000/test/index.html"
+    "test": "mocha-headless-chrome -f http://localhost:8000/test/index.html"
   },
   "repository": {
     "type": "git",
