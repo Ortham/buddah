@@ -21,12 +21,10 @@ jobs:
             ${{ runner.os }}-node-
 
       - name: Install dependencies
-        run: |
-          npm install -g z-schema
-          npm install
+        run: npm install
 
       - name: Validate data.json against schema
-        run: z-schema data.schema.json data.json
+        run: npx --no-install z-schema data.schema.json data.json
 
       - name: Start HTTP server
         run: python -m http.server &
