@@ -2,9 +2,9 @@
   {
     "name": "ba2extract",
     "keywords": [
+      "fallout 4",
       "BA2",
-      "cli",
-      "fallout 4"
+      "cli"
     ],
     "description": "A command-line tool to extract the contents of ba2 files.",
     "homepage": "http://f4se.silverlock.org/",
@@ -13,8 +13,8 @@
   {
     "name": "BA2 Explorer",
     "keywords": [
-      "BA2",
       "fallout 4",
+      "BA2",
       "gui"
     ],
     "description": "Tool to explore BA2 archives.",
@@ -23,8 +23,8 @@
   {
     "name": "BA2Lib",
     "keywords": [
-      "BA2",
       "fallout 4",
+      "BA2",
       "api"
     ],
     "license": "https://github.com/digitalutopia1/BA2Lib/blob/master/LICENSE.txt",
@@ -34,8 +34,8 @@
   {
     "name": "BA2 Tools",
     "keywords": [
-      "BA2",
       "fallout 4",
+      "BA2",
       "api"
     ],
     "license": "WTFPL",
@@ -45,19 +45,27 @@
   {
     "name": "Bethesda Archive Extractor (BAE)",
     "keywords": [
+      "oblivion",
+      "skyrim",
+      "skyrim special edition",
+      "fallout 3",
+      "fallout new vegas",
+      "fallout 4",
+      "fallout 76",
       "BA2",
       "BSA",
       "gui"
     ],
-    "homepage": "http://www.nexusmods.com/fallout4/mods/78/",
-    "repository": "https://github.com/jonwd7/bae"
+    "description": "Extractor for BSA, BA2, and other archives for Bethesda games since Oblivion.",
+    "homepage": "https://www.nexusmods.com/fallout4/mods/78/",
+    "repository": "https://github.com/matortheeternal/bae"
   },
   {
     "name": "BSA#",
     "keywords": [
-      "BSA",
       "fallout 3",
       "fallout new vegas",
+      "BSA",
       "cli"
     ],
     "license": "MIT",
@@ -67,9 +75,9 @@
   {
     "name": "BSA Browser",
     "keywords": [
-      "BSA",
       "fallout 3",
       "fallout new vegas",
+      "BSA",
       "gui"
     ],
     "license": "GPL-3.0",
@@ -80,8 +88,8 @@
   {
     "name": "BSA Commander",
     "keywords": [
-      "BSA",
       "oblivion",
+      "BSA",
       "gui"
     ],
     "description": "Work with oblivion archive files (.bsa) with friendly interface.",
@@ -91,12 +99,12 @@
   {
     "name": "BSA Extractor",
     "keywords": [
-      "BSA",
       "fallout 3",
       "fallout new vegas",
       "morrowind",
       "oblivion",
       "skyrim",
+      "BSA",
       "gui"
     ],
     "description": "Extractor of files for TES 3,4,5 and Fallout 3.",
@@ -116,11 +124,11 @@
   {
     "name": "BSA Manager",
     "keywords": [
-      "BSA",
       "fallout 3",
       "fallout new vegas",
       "oblivion",
-      "skyrim"
+      "skyrim",
+      "BSA"
     ],
     "license": "LGPL-3.0",
     "description": "This project allows you to open the media files (*.bsa) for the Bethesda games Oblivion, Fallout 3 and Skyrim. Made by philjord.",
@@ -129,11 +137,11 @@
   {
     "name": "BSAOpt",
     "keywords": [
-      "BSA",
       "oblivion",
       "skyrim",
       "fallout 3",
-      "fallout new vegas"
+      "fallout new vegas",
+      "BSA"
     ],
     "license": [
       "MPL-1.1",
@@ -146,8 +154,8 @@
   {
     "name": "BSA Tool",
     "keywords": [
-      "BSA",
       "arena",
+      "BSA",
       "gui"
     ],
     "license": "GPL-3.0",
@@ -157,18 +165,18 @@
   {
     "name": "BSA Unpacker",
     "keywords": [
-      "BSA",
       "oblivion",
+      "BSA",
       "gui"
     ],
-    "description": "BSA (Bethesda Softworks Archive) Unpacker",
+    "description": "BSA (Bethesda Softworks Archive) Unpacker.",
     "repository": "https://github.com/pseudoh/BSAUnPacker"
   },
   {
     "name": "BSA Unpacker",
     "keywords": [
-      "BSA",
       "oblivion",
+      "BSA",
       "gui"
     ],
     "description": "The Oblivion Mod Manager's BSA unpacker.",
@@ -177,8 +185,8 @@
   {
     "name": "bsaunpak",
     "keywords": [
-      "BSA",
       "skyrim",
+      "BSA",
       "cli"
     ],
     "description": "Command line tool for extracting Skyrim BSA files.",
@@ -187,20 +195,20 @@
   {
     "name": "cpp-bsa",
     "keywords": [
-      "BSA",
       "morrowind",
+      "BSA",
       "api"
     ],
-    "description": "Library for parsing Morrowind BSA files",
+    "description": "Library for parsing Morrowind BSA files.",
     "repository": "https://github.com/Yacoby/cpp-bsa"
   },
   {
     "name": "FO3 Archive Utility",
     "keywords": [
-      "BSA",
-      "gui",
       "fallout 3",
-      "fallout new vegas"
+      "fallout new vegas",
+      "BSA",
+      "gui"
     ],
     "description": "A BSA archive utility for Fallout 3. You can display the files in an archive, extract all files from the archive, extract selected files/directories from the archive, and create a new archive.",
     "homepage": "http://www.nexusmods.com/fallout3/mods/34/"
@@ -208,12 +216,12 @@
   {
     "name": "libbsa",
     "keywords": [
-      "BSA",
       "morrowind",
       "oblivion",
       "skyrim",
       "fallout 3",
       "fallout new vegas",
+      "BSA",
       "api"
     ],
     "license": "GPL-3.0",
@@ -223,11 +231,11 @@
   {
     "name": "bsatk",
     "keywords": [
-      "BSA",
       "oblivion",
       "skyrim",
       "fallout 3",
       "fallout new vegas",
+      "BSA",
       "api"
     ],
     "license": "LGPL-3.0+",
@@ -237,8 +245,8 @@
   {
     "name": "unbsa4",
     "keywords": [
-      "BSA",
       "oblivion",
+      "BSA",
       "cli"
     ],
     "license": "GPL-2.0",
@@ -249,9 +257,10 @@
     "name": "Bethesda",
     "keywords": [
       "fallout new vegas",
-      "esp / esm"
+      "ESP / ESM",
+      "api"
     ],
-    "description": "Various libraries that can marshal/unmarshal files associated with Bethesda Game Studios games",
+    "description": "Various libraries that can marshal/unmarshal files associated with Bethesda Game Studios games.",
     "repository": "https://github.com/acsellers/bethesda"
   },
   {
@@ -259,10 +268,10 @@
     "keywords": [
       "oblivion",
       "skyrim",
-      "esp / esm"
+      "ESP / ESM"
     ],
     "license": "GPL-2.0",
-    "description": "CBash fork with partial Skyrim support",
+    "description": "CBash fork with partial Skyrim support.",
     "repository": "https://github.com/Ethatron/CBash"
   },
   {
@@ -273,9 +282,9 @@
       "skyrim",
       "fallout 3",
       "fallout new vegas",
-      "esp / esm"
+      "ESP / ESM"
     ],
-    "description": "Tools for Bethesda games mod file formats",
+    "description": "Tools for Bethesda games mod file formats.",
     "repository": "https://github.com/anahuj/esptools"
   },
   {
@@ -287,11 +296,11 @@
       "fallout 3",
       "fallout new vegas",
       "fallout 4",
-      "esp / esm",
+      "ESP / ESM",
       "api"
     ],
     "license": "GPL-3.0",
-    "description": "A free software library for reading Elder Scrolls Plugin (.esp) and Elder Scrolls Master (.esm) files. Libespm focuses on providing a useful API to libloadorder and LOOT, rather than a general-purpose plugin parser.",
+    "description": "A free software library for reading Elder Scrolls Plugin (.ESP) and Elder Scrolls Master (.ESM) files. Libespm focuses on providing a useful API to libloadorder and LOOT, rather than a general-purpose plugin parser.",
     "repository": "https://github.com/Ortham/libespm"
   },
   {
@@ -302,7 +311,7 @@
       "fallout 3",
       "fallout new vegas",
       "fallout 4",
-      "esp / esm",
+      "ESP / ESM",
       "cli"
     ],
     "license": "MPL-1.1",
@@ -313,17 +322,17 @@
     "name": "php-esmparser",
     "keywords": [
       "morrowind",
-      "esp / esm"
+      "ESP / ESM"
     ],
     "license": "MIT",
-    "description": "Very low level esm/esp parser",
+    "description": "Very low level ESM/ESP parser.",
     "repository": "https://github.com/Yacoby/php-esmparser"
   },
   {
     "name": "SkyProc",
     "keywords": [
       "skyrim",
-      "esp / esm",
+      "ESP / ESM",
       "api"
     ],
     "description": "A Java library that offers easy to use Java API for importing, manipulating, and exporting mods.",
@@ -333,7 +342,7 @@
     "name": "TES5lib",
     "keywords": [
       "skyrim",
-      "esp / esm",
+      "ESP / ESM",
       "api"
     ],
     "repository": "https://github.com/uesp/tes5lib"
@@ -351,18 +360,21 @@
     "repository": "https://github.com/boss-developers"
   },
   {
-    "name": "LOOT",
+    "name": "LOOT - Load Order Optimisation Tool",
     "keywords": [
+      "morrowind",
       "oblivion",
       "skyrim",
+      "skyrim special edition",
       "fallout 3",
       "fallout new vegas",
       "fallout 4",
       "load order",
+      "conflict detection",
       "gui"
     ],
     "license": "GPL-3.0",
-    "description": "A plugin load order optimisation tool for TES IV: Oblivion, TES V: Skyrim, Fallout 3, Fallout: New Vegas and Fallout 4.",
+    "description": "A plugin load order optimisation tool for Morrowind, Oblivion, Skyrim, Fallout 3, Fallout: New Vegas and Fallout 4.",
     "homepage": "https://loot.github.io/",
     "repository": "https://github.com/loot"
   },
@@ -373,7 +385,7 @@
       "conflict detection",
       "gui"
     ],
-    "description": "A stand alone version of the conflict detector used by oblivion mod manager",
+    "description": "A stand alone version of the conflict detector used by oblivion mod manager.",
     "homepage": "http://www.nexusmods.com/oblivion/mods/2579/"
   },
   {
@@ -450,6 +462,7 @@
       "war thunder",
       "state of decay",
       "legend of grimrock",
+      "nexus",
       "mod management",
       "gui"
     ],
@@ -521,6 +534,8 @@
     "keywords": [
       "oblivion",
       "skyrim",
+      "skyrim special edition",
+      "fallout 4",
       "mod management",
       "gui"
     ],
@@ -542,7 +557,8 @@
     "name": "FalloutSnip",
     "keywords": [
       "fallout 4",
-      "esp / esm editor"
+      "ESP / ESM",
+      "ESP / ESM editor"
     ],
     "license": "GPL-3.0",
     "description": "A fork of the TESVSnip which was itself a fork of the TESsnip utility bundled with Fallout Mod Manager with changes specifically for Fallout 4.",
@@ -557,7 +573,7 @@
       "fallout 3",
       "fallout new vegas",
       "fallout 4",
-      "esp / esm",
+      "ESP / ESM",
       "gui"
     ],
     "license": "MPL-1.1",
@@ -568,7 +584,8 @@
     "name": "SkyEdit",
     "keywords": [
       "skyrim",
-      "esp / esm editor",
+      "ESP / ESM",
+      "ESP / ESM editor",
       "gui"
     ],
     "description": "An alternate editor for The Elder Scrolls: Skyrim, similar to the official \"Creation Kit\".",
@@ -584,14 +601,15 @@
       "fallout 3",
       "fallout new vegas",
       "fallout 4",
-      "esp / esm editor",
+      "ESP / ESM",
+      "ESP / ESM editor",
       "conflict detection",
       "BSA",
       "BA2",
       "gui"
     ],
     "license": "MPL-1.1",
-    "description": "xEdit (TES5Edit, TES4Edit, FO3Edit, FNVEdit, FO4Edit, SSEEdit) is an advanced graphical .esp and .esm file editor and conflict detector.",
+    "description": "xEdit (TES5Edit, TES4Edit, FO3Edit, FNVEdit, FO4Edit, SSEEdit) is an advanced graphical .ESP and .ESM file editor and conflict detector.",
     "homepage": "https://tes5edit.github.io/",
     "repository": "https://github.com/TES5Edit/TES5Edit"
   },
@@ -604,21 +622,22 @@
       "fallout 3",
       "fallout new vegas",
       "fallout 4",
-      "esp / esm editor",
+      "ESP / ESM",
+      "ESP / ESM editor",
       "conflict detection",
       "BSA",
       "BA2",
       "gui"
     ],
     "license": "MPL-1.1",
-    "description": "xEdit by Elminster; forked by @fireundubh; fixes and enhancements for scripters and advanced users",
+    "description": "xEdit by Elminster; forked by @fireundubh; fixes and enhancements for scripters and advanced users.",
     "repository": "https://github.com/fireundubh/xedit"
   },
   {
     "name": "TES4LODGen",
     "keywords": [
       "oblivion",
-      "lod",
+      "LOD",
       "gui"
     ],
     "description": "Allows you to generate Objects LOD for worldspace(s) by scanning all mods in load order that add visible from distant objects.",
@@ -629,7 +648,7 @@
     "name": "TES5LODGen",
     "keywords": [
       "skyrim",
-      "lod",
+      "LOD",
       "gui"
     ],
     "description": "Allows you to generate Objects LOD for worldspace(s) by scanning all mods in load order that add visible from distant objects.",
@@ -640,7 +659,7 @@
     "name": "SSELODGen",
     "keywords": [
       "skyrim special edition",
-      "lod",
+      "LOD",
       "gui"
     ],
     "description": "Allows you to generate Objects LOD for worldspace(s) by scanning all mods in load order that add visible from distant objects.",
@@ -651,7 +670,7 @@
     "name": "FO3LODGen",
     "keywords": [
       "fallout 3",
-      "lod",
+      "LOD",
       "gui"
     ],
     "description": "Allows you to generate Objects LOD for worldspace(s) by scanning all mods in load order that add visible from distant objects.",
@@ -662,7 +681,7 @@
     "name": "FNVLODGen",
     "keywords": [
       "fallout new vegas",
-      "lod",
+      "LOD",
       "gui"
     ],
     "description": "Allows you to generate Objects LOD for worldspace(s) by scanning all mods in load order that add visible from distant objects.",
@@ -673,7 +692,8 @@
     "name": "TES3Edit",
     "keywords": [
       "morrowind",
-      "esp / esm editor",
+      "ESP / ESM",
+      "ESP / ESM editor",
       "gui"
     ],
     "license": "MPL-1.1",
@@ -720,16 +740,18 @@
     "name": "TESVESSE",
     "keywords": [
       "skyrim",
+      "save file",
       "save file editor"
     ],
-    "description": "TESV save game editor",
+    "description": "TESV save game editor.",
     "repository": "https://github.com/TES5Edit/TESVESSE"
   },
   {
     "name": "TESVSnip",
     "keywords": [
       "skyrim",
-      "esp / esm editor",
+      "ESP / ESM",
+      "ESP / ESM editor",
       "gui"
     ],
     "license": "GPL-3.0",
@@ -740,7 +762,8 @@
     "name": "Unfuzer",
     "keywords": [
       "skyrim",
-      "XWM conversion",
+      "XWM",
+      "audio",
       "gui"
     ],
     "description": "A utility that does mass extracting/inserting of xwm files from/into voice files (.fuz), with automatic xWMA <-> PCM transcoding.",
@@ -750,7 +773,8 @@
     "name": "XWM Ninja",
     "keywords": [
       "skyrim",
-      "XWM conversion",
+      "XWM",
+      "audio",
       "gui"
     ],
     "description": "A tool that converts between xWMA (*.xwm) and a variety of other formats.",
@@ -769,8 +793,8 @@
   {
     "name": "hkxcmd",
     "keywords": [
-      "havok",
       "skyrim",
+      "havok",
       "cli"
     ],
     "license": "BSD-3-Clause",
@@ -779,16 +803,16 @@
     "repository": "https://github.com/figment/hkxcmd"
   },
   {
-    "name": "Nifopt",
+    "name": "NIFopt",
     "keywords": [
       "NIF",
       "gui"
     ],
-    "description": "Optimizing NIF models and more",
+    "description": "Optimizing NIF models and more.",
     "repository": "https://github.com/Ethatron/nifopt"
   },
   {
-    "name": "Nifscope",
+    "name": "NifSkope",
     "keywords": [
       "NIF",
       "gui"
@@ -802,10 +826,10 @@
     "name": "Blender NIF Plugin",
     "keywords": [
       "NIF",
-      "blender plugin"
+      "Blender plugin"
     ],
     "license": "BSD-3-Clause",
-    "description": "A Blender addon to enable import and export of the .Nif File Format.",
+    "description": "A Blender addon to enable import and export of the .NIF File Format.",
     "homepage": "https://github.com/niftools/blender_nif_plugin",
     "repository": "https://github.com/niftools/blender_nif_plugin"
   },
@@ -817,7 +841,8 @@
       "KFM",
       "CGF",
       "EGM",
-      "TGA"
+      "TGA",
+      "python"
     ],
     "license": "BSD-3-Clause",
     "description": "A Python library for processing block structured files.",
@@ -827,7 +852,8 @@
   {
     "name": "Mopper",
     "keywords": [
-      "havok"
+      "havok",
+      "NIF"
     ],
     "license": "BSD-3-Clause",
     "description": "Tool for creating havok mopp code.",
@@ -837,20 +863,20 @@
     "name": "3DS Max NIF Plugin",
     "keywords": [
       "NIF",
-      "3DS max plugin"
+      "3DS Max plugin"
     ],
     "license": "BSD-3-Clause",
-    "description": "The nif plugin for 3ds max.",
+    "description": "The NIF plugin for 3DS Max.",
     "repository": "https://github.com/niftools/max_nif_plugin"
   },
   {
     "name": "Maya NIF Plugin",
     "keywords": [
       "NIF",
-      "maya plugin"
+      "Maya plugin"
     ],
     "license": "BSD-3-Clause",
-    "description": "The nif plugin for maya.",
+    "description": "The NIF plugin for Maya.",
     "repository": "https://github.com/niftools/maya_nif_plugin"
   },
   {
@@ -860,7 +886,7 @@
       "api"
     ],
     "license": "BSD-3-Clause",
-    "description": "A C++ library for reading and writing Nif files.",
+    "description": "A C++ library for reading and writing NIF files.",
     "repository": "https://github.com/niftools/niflib"
   },
   {
@@ -869,13 +895,18 @@
       "NIF",
       "gui"
     ],
-    "description": "Collection of NifUtils within one App",
+    "description": "Collection of NifUtils within one App.",
     "homepage": "http://niftools.sourceforge.net/forum/viewtopic.php?f=38&t=4128",
     "repository": "https://github.com/skyfox69/NifUtilsSuite"
   },
   {
     "name": "BOSS Userlist Manager",
     "keywords": [
+      "oblivion",
+      "skyrim",
+      "nehrim",
+      "fallout 3",
+      "fallout new vegas",
       "load order",
       "gui"
     ],
@@ -895,8 +926,9 @@
     "name": "ENB Helper",
     "keywords": [
       "skyrim",
-      "enbseries plugin"
+      "ENBSeries plugin"
     ],
+    "description": "Provides extended Skyrim engine features for ENBSeries.",
     "homepage": "http://www.dev-c.com/skyrim/enbhelper/"
   },
   {
@@ -914,7 +946,7 @@
     "keywords": [
       "landscape",
       "heightmap",
-      "lod",
+      "LOD",
       "api",
       "cli"
     ],
@@ -925,11 +957,11 @@
   {
     "name": "Multi Purpose GUI (MPGUI)",
     "keywords": [
-      "LOD",
       "morrowind",
       "oblivion",
       "skyrim",
       "fallout 3",
+      "LOD",
       "gui"
     ],
     "license": "MIT",
@@ -940,20 +972,22 @@
   {
     "name": "Landscape LOD Generator",
     "keywords": [
-      "lod",
+      "oblivion",
+      "fallout new vegas",
+      "LOD",
       "heightmap",
       "landscape",
-      "oblivion",
       "cli"
     ],
     "license": "GPL-3.0+",
-    "description": "This tool creates LOD meshes, color and normal maps based on landscape heightmaps as generated by esp/esm files. Therefore, it can be used to replace the meshes of Oblivion/FalloutNV (Fallout3 is under preparation) including all the additional changes added by landscape and texture mods.",
+    "description": "This tool creates LOD meshes, color and normal maps based on landscape heightmaps as generated by ESP/ESM files. Therefore, it can be used to replace the meshes of Oblivion/FalloutNV (Fallout3 is under preparation) including all the additional changes added by landscape and texture mods.",
     "homepage": "http://www.nexusmods.com/oblivion/mods/40549/",
     "repository": "https://github.com/Gruftikus/tes4ll"
   },
   {
     "name": "NMM Script Checker",
     "keywords": [
+      "nexus",
       "scripting",
       "validator",
       "cli"
@@ -966,8 +1000,9 @@
   {
     "name": "Oblivion Face Exchange Lite",
     "keywords": [
-      "character appearance import / export",
       "oblivion",
+      "character appearance",
+      "save file",
       "gui"
     ],
     "description": "With this tool, you can change your character's name, hairstyle, hair length, hair color, eyes and copy face from a another save file, from a face file, from text that is copied to the clipboard or from a non-player character.",
@@ -976,12 +1011,14 @@
   {
     "name": "Save Game Script Cleaner",
     "keywords": [
-      "save file",
-      "scripting",
       "skyrim",
+      "save file",
+      "save file editor",
+      "scripting",
+      "papyrus",
       "gui"
     ],
-    "description": "This tool can remove selected Papyrus scripts from a save game file",
+    "description": "This tool can remove selected Papyrus scripts from a save game file.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/52363/",
     "repository": "http://www.nexusmods.com/skyrim/mods/52363/"
   },
@@ -999,9 +1036,10 @@
     "keywords": [
       "skyrim",
       "performance",
+      "INI",
       "gui"
     ],
-    "description": "A utility used for tracking Skyrim’s system resource usage as it relates to INI settings and installed mods. ",
+    "description": "A utility used for tracking Skyrim’s system resource usage as it relates to INI settings and installed mods.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/6491/"
   },
   {
@@ -1009,6 +1047,7 @@
     "keywords": [
       "skyrim special edition",
       "performance",
+      "INI",
       "gui"
     ],
     "description": "The Skyrim Performance Monitor is a utility used for tracking Skyrims Memory, VRAM, Disk I/O, CPU, GPU, GPU Temperature, and Threads system resource usage, and also FPS as they relate to INI settings and installed mods.",
@@ -1030,8 +1069,8 @@
   {
     "name": "TES4Files",
     "keywords": [
-      "mod packager",
       "oblivion",
+      "mod packager",
       "gui"
     ],
     "description": "A tool that packages a mod for you, all you do is tell it what ESM/ESP file to package and poof all the files are copied into a subdirectory suitable for zipping or compressing and sending off.",
@@ -1041,18 +1080,19 @@
     "name": "TES4Gecko",
     "keywords": [
       "oblivion",
-      "esp / esm editor",
+      "ESP / ESM",
+      "ESP / ESM editor",
       "gui"
     ],
-    "description": "Works with The Elder Scrolls IV: Oblivion plugin and master files (*.esp/*.esm). It is designed to let mod-creators manipulate plugin and master files in ways that Bethesda either did not imagine or decided to leave out of the official Construction Set.",
+    "description": "Works with The Elder Scrolls IV: Oblivion plugin and master files (*.ESP/*.ESM). It is designed to let mod-creators manipulate plugin and master files in ways that Bethesda either did not imagine or decided to leave out of the official Construction Set.",
     "homepage": "http://www.nexusmods.com/oblivion/mods/8665/"
   },
   {
     "name": "TES Char Tracker",
     "keywords": [
-      "save file",
       "skyrim",
       "fallout 4",
+      "save file",
       "character tracker",
       "gui"
     ],
@@ -1064,21 +1104,22 @@
   {
     "name": "TESDumpStats",
     "keywords": [
-      "esp / esm",
       "oblivion",
       "skyrim",
       "fallout 3",
       "fallout new vegas",
+      "ESP / ESM",
       "cli"
     ],
     "license": "BSD-3-Clause",
-    "description": "Dump very basic statistics about ES plugins (record counts, subrecord counts, etc)",
+    "description": "Dump very basic statistics about ES plugins (record counts, subrecord counts, etc).",
     "repository": "https://github.com/lojack5/TESDumpStats"
   },
   {
     "name": "The OBSE Launcher",
     "keywords": [
-      "obse",
+      "oblivion",
+      "OBSE",
       "launcher",
       "gui"
     ],
@@ -1108,14 +1149,13 @@
     "repository": "https://github.com/Yacoby/es-search"
   },
   {
-    "name": "Force New Idles in Skyrim (FNIS)",
+    "name": "Fores New Idles in Skyrim (FNIS)",
     "keywords": [
       "skyrim",
       "animation"
     ],
-    "description": "Allows other mods to add different types of animations to the game: idles/poses, sequenced, arm offset, furniture, and paired animations, killmoves, and creature animations.",
-    "homepage": "http://www.nexusmods.com/skyrim/mods/11811/",
-    "repository": "http://www.nexusmods.com/skyrim/mods/11811/"
+    "description": "Allows other mods to add different types of animations to the Skyrim: idles/poses; sequenced, arm offset, furniture, and paired animations, killmoves, creature animations, and others.",
+    "homepage": "http://www.nexusmods.com/skyrim/mods/11811/"
   },
   {
     "name": "libloadorder",
@@ -1175,17 +1215,18 @@
     "keywords": [
       "oblivion",
       "speedtree",
+      "SPT",
       "gui"
     ],
-    "description": "SpeedTreeRT SPT file converter for text editing",
+    "description": "SpeedTreeRT SPT file converter for text editing.",
     "repository": "https://github.com/anahuj/spttools"
   },
   {
     "name": "Caprica",
     "keywords": [
-      "papyrus",
       "skyrim",
       "fallout 4",
+      "papyrus",
       "scripting",
       "compiler"
     ],
@@ -1194,28 +1235,28 @@
     "repository": "https://github.com/Orvid/Caprica"
   },
   {
-    "name": "Champollion",
+    "name": "Champollion for Skyrim",
     "keywords": [
+      "skyrim",
       "scripting",
       "papyrus",
-      "skyrim",
       "decompiler",
       "cli"
     ],
-    "description": "A PEX to Papyrus Decompiler for Skyrim",
+    "description": "A PEX to Papyrus Decompiler for Skyrim.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/35307/"
   },
   {
-    "name": "Champollion",
+    "name": "Champollion for Fallout 4",
     "keywords": [
+      "fallout 4",
       "scripting",
       "papyrus",
-      "fallout 4",
       "decompiler",
       "cli"
     ],
     "license": "LGPL-3.0",
-    "description": "A PEX to Papyrus Decompiler for Fallout 4",
+    "description": "A PEX to Papyrus Decompiler for Fallout 4.",
     "homepage": "http://www.nexusmods.com/fallout4/mods/3742/",
     "repository": "https://github.com/Orvid/Champollion"
   },
@@ -1228,7 +1269,7 @@
       "decompiler",
       "cli"
     ],
-    "description": "A command-line tool to disassemble pex files",
+    "description": "A command-line tool to disassemble pex files.",
     "homepage": "http://f4se.silverlock.org/",
     "repository": "http://f4se.silverlock.org/"
   },
@@ -1237,8 +1278,8 @@
     "keywords": [
       "skyrim",
       "scripting",
-      "gui",
-      "papyrus"
+      "papyrus",
+      "gui"
     ],
     "description": "Papyrus logs can become very large and be cluttered with countless duplicates of each warning or error. This simple log viewer will only show each entry once, making it easier to get an overview and less likely to miss less common entries among all the duplicates.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/42815/"
@@ -1290,6 +1331,7 @@
     "name": "Oblivion Script Extender (OBSE)",
     "keywords": [
       "oblivion",
+      "OBSE",
       "scripting",
       "script extender"
     ],
@@ -1300,6 +1342,8 @@
   {
     "name": "Script Dragon",
     "keywords": [
+      "skyrim",
+      "papyrus",
       "scripting",
       "script extender"
     ],
@@ -1310,6 +1354,7 @@
     "name": "Skyrim Script Extender (SKSE)",
     "keywords": [
       "skyrim",
+      "skyrim special edition",
       "scripting",
       "script extender"
     ],
@@ -1322,7 +1367,8 @@
     "keywords": [
       "oblivion",
       "OBSE plugin",
-      "logging"
+      "logging",
+      "console"
     ],
     "description": "A plugin for the Oblivion Script Extender that logs console messages and adds textual I/O commands.",
     "homepage": "http://www.nexusmods.com/oblivion/mods/26510/",
@@ -1344,7 +1390,7 @@
       "oblivion",
       "OBSE plugin"
     ],
-    "description": "A plugin for the Oblivion Script Extender that helps out the Better Cities mod by punching the daylights out of certain stubborn references",
+    "description": "A plugin for the Oblivion Script Extender that helps out the Better Cities mod by punching the daylights out of certain stubborn references.",
     "repository": "https://github.com/shadeMe/Better-Cities-Helper"
   },
   {
@@ -1361,9 +1407,10 @@
     "name": "INIzer",
     "keywords": [
       "oblivion",
+      "INI",
       "OBSE plugin"
     ],
-    "description": "A plugin for the Oblivion Script Extender that allows multiple game installations use different sets of active plugins and INI settings",
+    "description": "A plugin for the Oblivion Script Extender that allows multiple game installations use different sets of active plugins and INI settings.",
     "homepage": "http://www.nexusmods.com/oblivion/mods/41862/",
     "repository": "https://github.com/shadeMe/INIzer"
   },
@@ -1371,9 +1418,10 @@
     "name": "NifSE",
     "keywords": [
       "oblivion",
+      "NIF",
       "OBSE plugin"
     ],
-    "description": "NifSE is a modder's resource, an OBSE plugin that brings the functionality of the NifTools team's incredible Niflib to Oblivion scripters. NifSE allows scripters to read and modify nif files during the game through scripts, and does so without changing any files on your harddrive or writing any permanent data to the disk!",
+    "description": "NifSE is a modder's resource, an OBSE plugin that brings the functionality of the NifTools team's incredible Niflib to Oblivion scripters. NifSE allows scripters to read and modify NIF files during the game through scripts, and does so without changing any files on your harddrive or writing any permanent data to the disk!",
     "homepage": "http://www.nexusmods.com/oblivion/mods/21292/"
   },
   {
@@ -1386,7 +1434,7 @@
     "repository": "https://github.com/scanti/Oblivion-Graphics-Extender-v2"
   },
   {
-    "name": "Oblivion Graphics Extender v3",
+    "name": "Oblivion Graphics Extender (OBGE) v3",
     "keywords": [
       "oblivion",
       "OBSE plugin"
@@ -1431,7 +1479,7 @@
       "oblivion",
       "OBSE plugin"
     ],
-    "description": "A plugin for the Oblivion Script Extender that profiles script execution during runtime",
+    "description": "A plugin for the Oblivion Script Extender that profiles script execution during runtime.",
     "homepage": "http://www.nexusmods.com/oblivion/mods/41863/",
     "repository": "https://github.com/shadeMe/RuntimeScriptProfiler"
   },
@@ -1460,6 +1508,7 @@
     "name": "Universal Silent Voice",
     "keywords": [
       "oblivion",
+      "audio",
       "OBSE plugin"
     ],
     "description": "This OBSE plugin makes Oblivion play a 8 seconds duration silent voice for any missing voice files and use generic lips movements for 8 seconds for any missing lip synchronization files.",
@@ -1469,6 +1518,7 @@
     "name": "ConSkrybe",
     "keywords": [
       "skyrim",
+      "console",
       "SKSE plugin"
     ],
     "description": "A plugin for the Skyrim Script Extender that attaches itself to the in-game console's brainstem (not unlike a mutant Babel fish) and illicitly siphons any and all I/O it handles.",
@@ -1488,9 +1538,10 @@
     "name": "Fuz Ro D-oh",
     "keywords": [
       "skyrim",
+      "audio",
       "SKSE plugin"
     ],
-    "description": "A plugin for the Skyrim Script Extender that adds support for unvoiced in-game dialog",
+    "description": "A plugin for the Skyrim Script Extender that adds support for unvoiced in-game dialog.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/14884/",
     "repository": "https://github.com/shadeMe/Fuz-Ro-D-oh"
   },
@@ -1498,10 +1549,11 @@
     "name": "JContainers",
     "keywords": [
       "skyrim",
+      "papyrus",
       "SKSE plugin"
     ],
     "license": "MIT",
-    "description": "JSON-based data structures for Papyrus",
+    "description": "JSON-based data structures for Papyrus.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/49743/",
     "repository": "https://github.com/SilverIce/JContainers"
   },
@@ -1527,6 +1579,7 @@
     "name": "Nitpick",
     "keywords": [
       "skyrim",
+      "INI",
       "SKSE plugin"
     ],
     "description": "Removes the 255-character limit placed on string values in Skyrim’s INI files, and fixes the bug that prevented active mod files from loading at start-up if there were more than 508 ESP/ESM files in the Data directory.",
@@ -1582,14 +1635,14 @@
       "game engine"
     ],
     "license": "GPL-3.0",
-    "description": "Pure java project for wandering around in the TES games Morrowind, Oblivion, Fallout3, FalloutNV, Skyrim, Fallout 4",
+    "description": "Pure java project for wandering around in the TES games Morrowind, Oblivion, Fallout3, FalloutNV, Skyrim, Fallout 4.",
     "repository": "https://github.com/philjord/ElderScrollsExplorer"
   },
   {
     "name": "Fallout 4 Ultimate Tweak Tool",
     "keywords": [
       "fallout 4",
-      "ini editor",
+      "INI",
       "gui"
     ],
     "description": "A program to help tweak Fallout 4 .ini settings with a GUI instead of a user editing the .ini files.",
@@ -1599,7 +1652,7 @@
     "name": "Fallout 4 Configuration Tool",
     "keywords": [
       "fallout 4",
-      "ini editor",
+      "INI",
       "gui"
     ],
     "description": "Another program to change Fallout 4 .ini settings with a GUI.",
@@ -1635,7 +1688,8 @@
     "keywords": [
       "skyrim",
       "fallout 4",
-      "esp / esm editor"
+      "ESP / ESM",
+      "ESP / ESM editor"
     ],
     "license": "GPL-3.0",
     "description": "A tool that allows automatic creation of plugin files for games The Elder Scrolls V: Skyrim and Fallout 4 according to predefined rules provided by the user or a third party.",
@@ -1660,7 +1714,8 @@
     "keywords": [
       "skyrim",
       "papyrus",
-      "scripting"
+      "scripting",
+      "MCM"
     ],
     "description": "An application that generates papyrus scripts for MCM menus.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/29821/",
@@ -1679,9 +1734,9 @@
   {
     "name": "Rotation Library",
     "keywords": [
+      "skyrim",
       "papyrus",
-      "scripting",
-      "skyrim"
+      "scripting"
     ],
     "description": "A rotation library that makes it easier to work with rotation math in Skyrim. Among other things, it can position and rotate one object relative to another for you.",
     "repository": "https://www.creationkit.com/index.php?title=User:DavidJCobb/Rotation_Library"
@@ -1693,8 +1748,8 @@
       "DDS",
       "gui"
     ],
-    "description": "A utility used for viewing the .dds texture files and displaying the details of the DDS image pixel dimensions and file sizes in an orderable list.",
     "license": "LGPL-2.1",
+    "description": "A utility used for viewing the .dds texture files and displaying the details of the DDS image pixel dimensions and file sizes in an orderable list.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/30745/"
   },
   {
@@ -1704,7 +1759,7 @@
       "skyrim",
       "fallout 3",
       "fallout new vegas",
-      "ini editor",
+      "INI",
       "gui"
     ],
     "description": "An advanced config file editor for making updates/tweaks to ini files for games like Skyrim, Fallout 3, Fallout New Vegas, and Oblivion.",
@@ -1713,8 +1768,8 @@
   {
     "name": "Nexus Mod Monitor",
     "keywords": [
+      "nexus",
       "mod tracker",
-      "nexus mods",
       "gui"
     ],
     "description": "A utility which allows mod authors to track user activity of their mods.",
@@ -1723,9 +1778,9 @@
   {
     "name": "TESVTranslator",
     "keywords": [
+      "skyrim",
       "translation",
-      "gui",
-      "skyrim"
+      "gui"
     ],
     "license": "MPL-1.1",
     "description": "An advanced editor for translate mod built with automatic translation logic in mind, and allows easy translation updates.",
@@ -1733,11 +1788,11 @@
     "repository": "http://www.nexusmods.com/skyrim/mods/29148/"
   },
   {
-    "name": "Fallout4Translator ",
+    "name": "Fallout4Translator",
     "keywords": [
+      "fallout 4",
       "translation",
-      "gui",
-      "fallout 4"
+      "gui"  
     ],
     "license": "MPL-1.1",
     "description": "An advanced editor for translate mod built with automatic translation logic in mind, and allows easy translation updates.",
@@ -1750,9 +1805,9 @@
       "papyrus",
       "scripting",
       "skyrim",
-      "gui",
       "compiler",
-      "editor"
+      "editor",
+      "gui"
     ],
     "description": "A script-editor for Papyrus.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/49517/"
@@ -1760,17 +1815,18 @@
   {
     "name": "BodySlide and Outfit Studio",
     "keywords": [
-      "NIF",
-      "animation",
       "oblivion",
       "skyrim",
       "skyrim special edition",
       "fallout 3",
       "fallout new vegas",
+      "NIF",
+      "animation",
+      "character appearance",
       "gui"
     ],
-    "description": "BodySlide and Outfit Studio, a tool to convert, create, and customize outfits and bodies for Bethesda games.",
     "license": "GPL-3.0+",
+    "description": "BodySlide and Outfit Studio, a tool to convert, create, and customize outfits and bodies for Bethesda games.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/49015/",
     "repository": "https://github.com/ousnius/BodySlide-and-Outfit-Studio"
   },
@@ -1778,7 +1834,8 @@
     "name": "Mfg Console",
     "keywords": [
       "skyrim",
-      "skse plugin"
+      "console",
+      "SKSE plugin"
     ],
     "description": "This mod resurrects \"mfg phoneme/modifier\" console command and playerBlink at Skyrim ver.1.9.32 again, and adds some information window, some commands and customizable command-alias to the console.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/44596/"
@@ -1791,8 +1848,8 @@
       "papyrus",
       "test framework"
     ],
-    "description": "A Papyrus unit test framework for Skyrim and Fallout 4.",
     "license": "MIT",
+    "description": "A Papyrus unit test framework for Skyrim and Fallout 4.",
     "homepage": "https://chesko256.github.io/Lilac/",
     "repository": "https://github.com/chesko256/Lilac"
   },
@@ -1801,12 +1858,13 @@
     "keywords": [
       "skyrim",
       "save file",
+      "save file editor",
       "papyrus",
       "scripting",
       "gui"
     ],
-    "description": "ReSaver is a new savegame editor, based loosely on the excellent user interface of SaveTool. ReStringer can analyze a mod or group of mods, and rewrite their scripts so that they use fewer strings.",
     "license": "Apache-2.0",
+    "description": "ReSaver is a new savegame editor, based loosely on the excellent user interface of SaveTool. ReStringer can analyze a mod or group of mods, and rewrite their scripts so that they use fewer strings.",
     "homepage": "http://www.nexusmods.com/skyrim/mods/76776/",
     "repository": "http://www.nexusmods.com/skyrim/mods/76776/"
   },
@@ -1817,8 +1875,8 @@
       "validator",
       "gui"
     ],
-    "description": "This little app allows you validate and check for common errors in your FOMOD installers. Simply place the path to your package (the source files) and press Ok and, according to your selections, it will provide with your results. Simple, easy and effective.",
     "license": "Apache-2.0",
+    "description": "This little app allows you validate and check for common errors in your FOMOD installers. Simply place the path to your package (the source files) and press Ok and, according to your selections, it will provide with your results. Simple, easy and effective.",
     "homepage": "https://github.com/GandaG/fomod-validator",
     "repository": "https://github.com/GandaG/fomod-validator"
   },
@@ -1828,8 +1886,8 @@
       "fomod",
       "documentation"
     ],
-    "description": "Documentation for the fomod installer format.",
     "license": "MIT",
+    "description": "Documentation for the fomod installer format.",
     "homepage": "https://fomod-docs.readthedocs.io/",
     "repository": "https://github.com/GandaG/fomod-docs"
   },
@@ -1838,8 +1896,8 @@
     "keywords": [
       "fallout 4"
     ],
-    "description": "This is a plugin that allows SteelSeries users to use GameSense with Fallout 4.",
     "license": "MIT",
+    "description": "This is a plugin that allows SteelSeries users to use GameSense with Fallout 4.",
     "homepage": "https://github.com/Sumwunn/SSGSPlugin_FO4",
     "repository": "https://github.com/Sumwunn/SSGSPlugin_FO4"
   },
@@ -1849,8 +1907,8 @@
       "fallout 4",
       "api"
     ],
-    "description": "This is a plugin that retrieves player stats from Fallout 4 during runtime and provides exported functions that return those values.",
     "license": "MIT",
+    "description": "This is a plugin that retrieves player stats from Fallout 4 during runtime and provides exported functions that return those values.",
     "homepage": "https://github.com/Sumwunn/PlayerStatsAPI_FO4",
     "repository": "https://github.com/Sumwunn/PlayerStatsAPI_FO4"
   },
@@ -1860,8 +1918,8 @@
       "fallout 4",
       "api"
     ],
-    "description": "Companion pip boy library for Fallout 4",
     "license": "Apache 2.0",
+    "description": "Companion pip boy library for Fallout 4.",
     "homepage": "https://github.com/RobCoIndustries/pipboylib/releases",
     "repository": "https://github.com/RobCoIndustries/pipboylib"
   },
@@ -1871,8 +1929,8 @@
       "fallout 4",
       "cli"
     ],
-    "description": "A blessed cli for your Fallout 4 PipBoy",
     "license": "BSD-3-Clause",
+    "description": "A blessed cli for your Fallout 4 PipBoy.",
     "homepage": "https://github.com/RobCoIndustries/pipboycli/releases",
     "repository": "https://github.com/RobCoIndustries/pipboycli"
   },
@@ -1882,8 +1940,8 @@
       "fallout 4",
       "api"
     ],
-    "description": "Remote beacon for sharing your pipboy data",
     "license": "BSD-3-Clause",
+    "description": "Remote beacon for sharing your pipboy data.",
     "homepage": "https://github.com/RobCoIndustries/beacon/releases",
     "repository": "https://github.com/RobCoIndustries/beacon"
   },
@@ -1893,8 +1951,8 @@
       "fallout 4",
       "gui"
     ],
-    "description": "Experimental pipboy Desktop app for Fallout 4",
     "license": "BSD-3-Clause",
+    "description": "Experimental pipboy Desktop app for Fallout 4.",
     "homepage": "https://github.com/RobCoIndustries/pipboy/releases",
     "repository": "https://github.com/RobCoIndustries/pipboy"
   },
@@ -1904,7 +1962,7 @@
       "fallout 4",
       "cli"
     ],
-    "description": "Relay for the pipboy app for Fallout 4",
+    "description": "Relay for the pipboy app for Fallout 4.",
     "homepage": "https://github.com/rgbkrk/pipboyrelay/releases",
     "repository": "https://github.com/rgbkrk/pipboyrelay"
   },
@@ -1916,7 +1974,8 @@
       "fallout new vegas",
       "fallout 3",
       "oblivion",
-      "esp / esm editor",
+      "ESP / ESM",
+      "ESP / ESM editor",
       "api"
     ],
     "license": "MPL-1.1",
@@ -1927,11 +1986,11 @@
     "name": "Mod Analyzer",
     "keywords": [
       "skyrim",
-      "esp / esm",
-      "bsa",
-      "gui",
+      "ESP / ESM",
+      "BSA",
       "fomod",
-      "bain"
+      "bain",
+      "gui"
     ],
     "license": "MIT",
     "description": "Analyzes mod archives to produce a report in JSON format which includes archive metadata, fomod/bain options, asset file paths (including inside BSAs), and plugin dumps produced by ModDump.",
@@ -1942,7 +2001,7 @@
     "keywords": [
       "skyrim"
     ],
-    "description": "A free, open-source multiplayer mod for Bethesda's Skyrim",
+    "description": "A free, open-source multiplayer mod for Bethesda's Skyrim.",
     "repository": "https://github.com/hipolipolopigus/SkyNet"
   },
   {
@@ -1951,14 +2010,14 @@
       "skyrim"
     ],
     "license": "CC-BY-3.0",
-    "description": "A multiplayer mod for Bethesda's Skyrim",
+    "description": "A multiplayer mod for Bethesda's Skyrim.",
     "repository": "https://github.com/hipolipolopigus/SkyrimOnline"
   },
   {
     "name": "Autoload",
     "keywords": [
       "fallout 4",
-      "f4se plugin"
+      "F4SE plugin"
     ],
     "description": "Autoload allows you to bypass the main menu and open-to-game with no additional clicks required.",
     "homepage": "https://forums.nexusmods.com/index.php?/topic/5494192-relz-utility-f4se-autoload-launch-to-game-and-bypass-the-main-menu"
@@ -1967,8 +2026,8 @@
     "name": "esxdump",
     "keywords": [
       "fallout 4",
-      "cli",
-      "esp / esm"
+      "ESP / ESM",
+      "cli"
     ],
     "description": "Create diff reports for data file plugins.",
     "repository": "https://github.com/cadpnq/esxdump"
@@ -1978,13 +2037,15 @@
     "keywords": [
       "oblivion",
       "skyrim",
+      "skyrim special edition",
       "fallout 3",
       "fallout new vegas",
       "fallout 4",
-      "esp / esm editor",
+      "ESP / ESM",
+      "ESP / ESM editor",
       "conflict detection",
-      "gui",
-      "api"
+      "api",
+      "gui"
     ],
     "license": "MIT",
     "description": "zEdit is a new GUI and API for the xEdit framework.  It includes a plugin editor with conflict detection, an extension system, and a patching framework.",
@@ -1993,10 +2054,10 @@
   {
     "name": "AFKPexAnon",
     "keywords": [
-      "pex",
-      "papyrus",
       "skyrim",
-      "fallout 4"
+      "fallout 4",
+      "pex",
+      "papyrus"
     ],
     "license": "MIT",
     "description": "Anonymize's Bethesda's compiled Papyrus script files (.pex) by masking the computer and user names that get stored.",
@@ -2006,7 +2067,8 @@
     "name": "SSE NIF Optimizer",
     "keywords": [
       "skyrim special edition",
-      "NIF"
+      "NIF",
+      "gui"
     ],
     "description": "A tool for mod authors that optimizes your SK NIF files for the (actual) new SSE format and fixes issues.",
     "homepage": "https://www.nexusmods.com/skyrimspecialedition/mods/4089/?"
@@ -2021,30 +2083,109 @@
       "mod management"
     ],
     "description": "TesModManager is a new version of OBMM Extended that supports Skyrim SE, Skyrim, Oblivion and Morrowind.",
-    "homepage": "https://www.nexusmods.com/skyrimspecialedition/mods/6491/?"
+    "homepage": "https://www.nexusmods.com/skyrimspecialedition/mods/6491/"
   },
   {
     "name": "LSLib",
     "keywords": [
       "divinity original sin",
       "divinity original sin 2",
+      "save file",
       "save file editor",
-      "PAK packages",
-      "OSI editor",
-      "GR2 converter"
+      "PAK",
+      "OSI",
+      "GR2"
     ],
-    "description": "Tools for manipulating Divinity Original Sin files",
+    "description": "Tools for manipulating Divinity Original Sin files. Includes OSI editor and GR2 converter.",
     "repository": "https://github.com/Norbyte/lslib"
   },
   {
     "name": "Cathedral Assets Optimizer",
     "keywords": [
       "skyrim special edition",
-      "bsa",
+      "BSA",
       "gui"
     ],
     "description": "A tool aiming to automate asset conversion and optimization for Skyrim Special Edition.",
     "homepage": "https://www.nexusmods.com/skyrimspecialedition/mods/23316/",
     "repository": "https://gitlab.com/G_ka/sse-assets-optimiser"
+  },
+  {
+    "name": "Voice File Reference Tool 2 (VFRT2)",
+    "keywords": [
+      "skyrim special edition",
+      "fallout 4",
+      "audio",
+      "gui"
+    ],
+    "license": "GPL-3.0",
+    "description": "Easy access to dialogue (text & audio) in Skyrim SE and Fallout 4, searchable through a simple interface.",
+    "homepage": "https://www.nexusmods.com/skyrimspecialedition/mods/18819",
+    "repository": "https://github.com/ErrorFlynn/VFRT2"
+  },
+  {
+    "name": "Voice File Reference Tool (VFRT)",
+    "keywords": [
+      "skyrim",
+      "audio",
+      "gui"
+    ],
+    "description": "Allows the user to easily find the name of the voice file for any line of dialogue in Skyrim / LE.",
+    "homepage": "https://www.nexusmods.com/skyrim/mods/28462"
+  },
+  {
+    "name": "Fuz Ro D-oh 64 for Skyrim SE",
+    "keywords": [
+      "skyrim special edition",
+      "audio",
+      "SKSE plugin"
+    ],
+    "description": "A plugin for the Skyrim Script Extender that adds support for unvoiced in-game dialog in Skyrim SE.",
+    "homepage": "https://www.nexusmods.com/skyrimspecialedition/mods/15109",
+    "repository": "https://github.com/shadeMe/Fuz-Ro-D-oh-64"
+  },
+  {
+    "name": "F4z Ro D-oh for Fallout 4",
+    "keywords": [
+      "fallout 4",
+      "audio",
+      "F4SE plugin"
+    ],
+    "description": "A plugin for the F4SE that adds support for unvoiced in-game dialog in Fallout 4.",
+    "homepage": "https://www.nexusmods.com/fallout4/mods/39848",
+    "repository": "https://github.com/shadeMe/F4z-Ro-D-oh"
+  },
+  {
+    "name": "ENB Helper SE",
+    "keywords": [
+      "skyrim special edition",
+      "ENBSeries plugin",
+      "SKSE plugin"
+    ],
+    "license": "MIT",
+    "description": "Adds necessary functions to support extra features in ENB for Skyrim Special Edition.",
+    "homepage": "https://www.nexusmods.com/skyrimspecialedition/mods/23174",
+    "repository": "https://github.com/aers/ENBHelperSE"
+  },
+    {
+    "name": "JContainers SE",
+    "keywords": [
+      "skyrim special edition",
+      "papyrus",
+      "SKSE plugin"
+    ],
+    "license": "MIT",
+    "description": "JSON-based data structures for Papyrus (SE Port).",
+    "homepage": "https://www.nexusmods.com/skyrimspecialedition/mods/16495",
+    "repository": "https://github.com/ryobg/JContainers"
+  },
+   {
+    "name": "Fores New Idles in Skyrim SE (FNIS SE)",
+    "keywords": [
+      "skyrim special edition",
+      "animation"
+    ],
+    "description": "Allows other mods to add different types of animations to the Skyrim SE: idles/poses; sequenced, arm offset, furniture, and paired animations, killmoves, creature animations, and others.",
+    "homepage": "https://www.nexusmods.com/skyrimspecialedition/mods/3038"
   }
 ]
