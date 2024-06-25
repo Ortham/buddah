@@ -7,7 +7,7 @@ Any software project related to game modding can be added: a project can be for 
 
 ## Project Definition Format
 
-Project definitions use a JSON structure very similar to those used by [Bower](http://bower.io/) and [NPM](https://www.npmjs.com/):
+Project definitions use a JSON structure very similar to those used by [Bower](https://bower.io/) and [NPM](https://www.npmjs.com/):
 
 ```
 {
