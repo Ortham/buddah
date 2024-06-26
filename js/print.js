@@ -38,7 +38,7 @@ function createEntryHtml(entry) {
     keywordSpan.className = 'keyword';
 
     var icon = document.createElement('img');
-    icon.src = '/octicons/tag.svg';
+    icon.src = './octicons/tag.svg';
     icon.className = 'octicon octicon-tag';
 
     var text = document.createTextNode(keyword);
