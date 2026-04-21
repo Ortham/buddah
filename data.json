@@ -1450,8 +1450,8 @@
       "OBSE plugin"
     ],
     "description": "Oblivion Reloaded mainly modifies the rendering pipeline, adding new features and providing screen effects not supported in vanilla Oblivion. This project begins where Oblivion Graphics Extender (OBGE) left off, implementing a series of new features and removing limitations that no longer make sense. OR is the new OBGE version, but it has been re-written to go over the OBGE limitations, removing also the retro compatibility.",
-    "homepage": "https://www.nexusmods.com/oblivion/mods/45749/",
-    "repository": "https://github.com/Alenett/Oblivion-Reloaded-Source"
+    "homepage": "https://www.nexusmods.com/oblivion/mods/52191/",
+    "repository": "https://github.com/llde/TESReloaded10"
   },
   {
     "name": "Runtime Debugger",
