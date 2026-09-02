@@ -5,12 +5,13 @@
   "main": "",
   "devDependencies": {
     "chai": "^4.2.0",
+    "express": "^5.2.1",
     "mocha": "^12.0.0",
-    "mocha-headless-chrome": "^3.1.0",
+    "selenium-webdriver": "^4.48.0",
     "z-schema": "^5.0.2"
   },
   "scripts": {
-    "test": "mocha-headless-chrome -f http://localhost:8000/test/index.html"
+    "test": "mocha test/test.js"
   },
   "repository": {
     "type": "git",

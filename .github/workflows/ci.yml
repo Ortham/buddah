@@ -30,4 +30,4 @@ jobs:
         run: python -m http.server &
 
       - name: Run tests
-        run: npm test -- -a no-sandbox
+        run: npm test
